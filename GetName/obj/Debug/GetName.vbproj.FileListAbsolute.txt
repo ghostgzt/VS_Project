@@ -1,0 +1,10 @@
+E:\F\SKY\GetName\bin\Debug\GetName.dll.config
+E:\F\SKY\GetName\bin\Debug\GetName.dll
+E:\F\SKY\GetName\bin\Debug\GetName.pdb
+E:\F\SKY\GetName\bin\Debug\GetName.xml
+E:\F\SKY\GetName\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\GetName\obj\Debug\GetName.Resources.resources
+E:\F\SKY\GetName\obj\Debug\GetName.vbproj.GenerateResource.Cache
+E:\F\SKY\GetName\obj\Debug\GetName.dll
+E:\F\SKY\GetName\obj\Debug\GetName.xml
+E:\F\SKY\GetName\obj\Debug\GetName.pdb

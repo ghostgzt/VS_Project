@@ -1,0 +1,38 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\RaudioPaste.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\RaudioPaste.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\RaudioPaste.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\Interop.Shell32.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\AxInterop.Shell32.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\Interop.Shell32.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\AxInterop.Shell32.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\RaudioPaste\obj\Debug\RaudioPaste.pdb
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\Interop.Shell32.dll
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\Interop.WMPLib.dll
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\AxInterop.Shell32.dll
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\AxInterop.WMPLib.dll
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.vbproj.ResolveComReference.cache
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.exe
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.xml
+f:\sky\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.pdb
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\RaudioPaste.exe
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\RaudioPaste.pdb
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\RaudioPaste.xml
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\Interop.Shell32.dll
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\Interop.WMPLib.dll
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\AxInterop.Shell32.dll
+F:\SKY\Paste\RaudioPaste\RaudioPaste\bin\Debug\AxInterop.WMPLib.dll
+F:\SKY\Paste\RaudioPaste\RaudioPaste\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.Form1.resources
+F:\SKY\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.Resources.resources
+F:\SKY\Paste\RaudioPaste\RaudioPaste\obj\Debug\RaudioPaste.vbproj.GenerateResource.Cache

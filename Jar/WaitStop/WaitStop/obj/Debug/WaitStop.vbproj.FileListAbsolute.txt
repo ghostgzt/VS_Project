@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\bin\Debug\WaitStop.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\bin\Debug\WaitStop.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\bin\Debug\WaitStop.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\WaitStop.WaitStop.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\WaitStop.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\WaitStop.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\WaitStop.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\WaitStop.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WaitStop\obj\Debug\WaitStop.pdb
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.exe
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.xml
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.pdb
+f:\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.exe.config
+f:\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.exe
+f:\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.pdb
+f:\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.xml
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.WaitStop.resources
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.Resources.resources
+f:\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.exe.config
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.exe
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.xml
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.pdb
+E:\F\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.exe
+E:\F\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.pdb
+E:\F\SKY\Jar\WaitStop\WaitStop\bin\Debug\WaitStop.xml
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.WaitStop.resources
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.Resources.resources
+E:\F\SKY\Jar\WaitStop\WaitStop\obj\Debug\WaitStop.vbproj.GenerateResource.Cache

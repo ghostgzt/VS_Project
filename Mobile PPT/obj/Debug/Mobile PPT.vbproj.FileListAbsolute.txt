@@ -1,0 +1,50 @@
+E:\F\SKY\Mobile PPT\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile_PPT.Resources.resources
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile PPT.vbproj.GenerateResource.Cache
+E:\F\SKY\Mobile PPT\bin\Debug\GNEasy.exe
+E:\F\SKY\Mobile PPT\bin\Debug\PNG Color Down.exe
+E:\F\SKY\Mobile PPT\bin\Debug\zip.exe
+E:\F\SKY\Mobile PPT\bin\Debug\Mobile PPT.exe
+E:\F\SKY\Mobile PPT\bin\Debug\Mobile PPT.pdb
+E:\F\SKY\Mobile PPT\bin\Debug\Mobile PPT.xml
+E:\F\SKY\Mobile PPT\bin\Debug\Interop.PowerPoint.dll
+E:\F\SKY\Mobile PPT\bin\Debug\Pic Format Convert.dll
+E:\F\SKY\Mobile PPT\bin\Debug\PPT Expand Worker.dll
+E:\F\SKY\Mobile PPT\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\F\SKY\Mobile PPT\bin\Debug\Pic Format Convert.pdb
+E:\F\SKY\Mobile PPT\bin\Debug\Pic Format Convert.xml
+E:\F\SKY\Mobile PPT\bin\Debug\PPT Expand Worker.pdb
+E:\F\SKY\Mobile PPT\bin\Debug\PPT Expand Worker.xml
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile PPT.exe
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile PPT.xml
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile PPT.pdb
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile_PPT.MT.resources
+E:\F\SKY\Mobile PPT\bin\Debug\Mobile PPT.exe.manifest
+E:\F\SKY\Mobile PPT\bin\Debug\Mobile PPT.application
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile PPT.exe.manifest
+E:\F\SKY\Mobile PPT\obj\Debug\Mobile PPT.application
+F:\SKY\Mobile PPT\obj\Debug\Mobile PPT.exe
+F:\SKY\Mobile PPT\obj\Debug\Mobile PPT.xml
+F:\SKY\Mobile PPT\obj\Debug\Mobile PPT.pdb
+F:\SKY\Mobile PPT\bin\Debug\GNEasy.exe
+F:\SKY\Mobile PPT\bin\Debug\PNG Color Down.exe
+F:\SKY\Mobile PPT\bin\Debug\zip.exe
+F:\SKY\Mobile PPT\bin\Debug\Mobile PPT.exe.manifest
+F:\SKY\Mobile PPT\bin\Debug\Mobile PPT.application
+F:\SKY\Mobile PPT\bin\Debug\Mobile PPT.exe
+F:\SKY\Mobile PPT\bin\Debug\Mobile PPT.pdb
+F:\SKY\Mobile PPT\bin\Debug\Mobile PPT.xml
+F:\SKY\Mobile PPT\bin\Debug\Interop.PowerPoint.dll
+F:\SKY\Mobile PPT\bin\Debug\Pic Format Convert.dll
+F:\SKY\Mobile PPT\bin\Debug\PPT Expand Worker.dll
+F:\SKY\Mobile PPT\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\SKY\Mobile PPT\bin\Debug\PPT Expand Worker.pdb
+F:\SKY\Mobile PPT\bin\Debug\PPT Expand Worker.xml
+F:\SKY\Mobile PPT\bin\Debug\Pic Format Convert.pdb
+F:\SKY\Mobile PPT\bin\Debug\Pic Format Convert.xml
+F:\SKY\Mobile PPT\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Mobile PPT\obj\Debug\Mobile_PPT.MT.resources
+F:\SKY\Mobile PPT\obj\Debug\Mobile_PPT.Resources.resources
+F:\SKY\Mobile PPT\obj\Debug\Mobile PPT.vbproj.GenerateResource.Cache
+F:\SKY\Mobile PPT\obj\Debug\Mobile PPT.exe.manifest
+F:\SKY\Mobile PPT\obj\Debug\Mobile PPT.application

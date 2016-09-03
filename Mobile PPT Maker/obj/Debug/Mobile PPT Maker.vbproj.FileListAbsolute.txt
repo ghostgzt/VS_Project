@@ -1,0 +1,67 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Pic Format Convert.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\PPT Expand Worker.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\TLQ.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Interop.PowerPoint.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Pic Format Convert.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\Pic Format Convert.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\TLQ.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\TLQ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\PPT Expand Worker.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\PPT Expand Worker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\Mobile_PPT_Maker.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\GNEasy.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\PNG Color Down.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\bin\Debug\zip.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mobile PPT Maker\obj\Debug\Mobile_PPT_Maker.Maker.resources
+E:\F\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.xml
+E:\F\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.pdb
+E:\F\SKY\Mobile PPT Maker\bin\Debug\GNEasy.exe
+E:\F\SKY\Mobile PPT Maker\bin\Debug\PNG Color Down.exe
+E:\F\SKY\Mobile PPT Maker\bin\Debug\zip.exe
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.exe
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.pdb
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.xml
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Pic Format Convert.dll
+E:\F\SKY\Mobile PPT Maker\bin\Debug\PPT Expand Worker.dll
+E:\F\SKY\Mobile PPT Maker\bin\Debug\TLQ.dll
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Interop.PowerPoint.dll
+E:\F\SKY\Mobile PPT Maker\bin\Debug\PPT Expand Worker.pdb
+E:\F\SKY\Mobile PPT Maker\bin\Debug\PPT Expand Worker.xml
+E:\F\SKY\Mobile PPT Maker\bin\Debug\TLQ.pdb
+E:\F\SKY\Mobile PPT Maker\bin\Debug\TLQ.xml
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Pic Format Convert.pdb
+E:\F\SKY\Mobile PPT Maker\bin\Debug\Pic Format Convert.xml
+E:\F\SKY\Mobile PPT Maker\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Mobile PPT Maker\obj\Debug\Mobile_PPT_Maker.Maker.resources
+E:\F\SKY\Mobile PPT Maker\obj\Debug\Mobile_PPT_Maker.Resources.resources
+E:\F\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.vbproj.GenerateResource.Cache
+E:\F\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.exe
+F:\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.exe
+F:\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.xml
+F:\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.pdb
+F:\SKY\Mobile PPT Maker\bin\Debug\GNEasy.exe
+F:\SKY\Mobile PPT Maker\bin\Debug\PNG Color Down.exe
+F:\SKY\Mobile PPT Maker\bin\Debug\zip.exe
+F:\SKY\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.exe
+F:\SKY\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.pdb
+F:\SKY\Mobile PPT Maker\bin\Debug\Mobile PPT Maker.xml
+F:\SKY\Mobile PPT Maker\bin\Debug\Pic Format Convert.dll
+F:\SKY\Mobile PPT Maker\bin\Debug\TLQ.dll
+F:\SKY\Mobile PPT Maker\bin\Debug\TLQ.pdb
+F:\SKY\Mobile PPT Maker\bin\Debug\TLQ.xml
+F:\SKY\Mobile PPT Maker\bin\Debug\Pic Format Convert.pdb
+F:\SKY\Mobile PPT Maker\bin\Debug\Pic Format Convert.xml
+F:\SKY\Mobile PPT Maker\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Mobile PPT Maker\obj\Debug\Mobile_PPT_Maker.Maker.resources
+F:\SKY\Mobile PPT Maker\obj\Debug\Mobile_PPT_Maker.Resources.resources
+F:\SKY\Mobile PPT Maker\obj\Debug\Mobile PPT Maker.vbproj.GenerateResource.Cache

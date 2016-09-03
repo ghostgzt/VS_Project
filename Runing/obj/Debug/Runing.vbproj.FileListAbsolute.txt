@@ -1,0 +1,10 @@
+F:\SKY\Runing\bin\Debug\Runing.dll.config
+F:\SKY\Runing\bin\Debug\Runing.dll
+F:\SKY\Runing\bin\Debug\Runing.pdb
+F:\SKY\Runing\bin\Debug\Runing.xml
+F:\SKY\Runing\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Runing\obj\Debug\Runing.Resources.resources
+F:\SKY\Runing\obj\Debug\Runing.vbproj.GenerateResource.Cache
+F:\SKY\Runing\obj\Debug\Runing.dll
+F:\SKY\Runing\obj\Debug\Runing.xml
+F:\SKY\Runing\obj\Debug\Runing.pdb

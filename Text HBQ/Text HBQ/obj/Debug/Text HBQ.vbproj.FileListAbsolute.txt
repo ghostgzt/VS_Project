@@ -1,0 +1,13 @@
+E:\F\SKY\Text HBQ\Text HBQ\bin\Debug\Text HBQ.exe
+E:\F\SKY\Text HBQ\Text HBQ\bin\Debug\Text HBQ.pdb
+E:\F\SKY\Text HBQ\Text HBQ\bin\Debug\Text HBQ.xml
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\Text_HBQ.TQ.resources
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\Text_HBQ.Resources.resources
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.vbproj.GenerateResource.Cache
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.exe
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.xml
+E:\F\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.pdb
+F:\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.exe
+F:\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.xml
+F:\SKY\Text HBQ\Text HBQ\obj\Debug\Text HBQ.pdb

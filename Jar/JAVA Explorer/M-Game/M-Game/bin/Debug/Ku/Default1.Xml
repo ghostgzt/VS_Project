@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aero>
+    <Tile>M-Games</Tile>
+    <Pic></Pic>
+    <Height>561</Height>
+    <X>768</X>
+    <Y>-5</Y>
+    <Op>1</Op>
+    <BJ></BJ>
+    <TB>24*24</TB>
+    <ZT></ZT>
+    <MZ></MZ>
+    <ZJ>0</ZJ>
+    <TM>1</TM>
+    <GD>1</GD>
+</Aero>

@@ -1,0 +1,34 @@
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Interop.WMPLib.dll
+C:\My Documents\SKY\Start Setting Project\obj\Debug\AxInterop.WMPLib.dll
+C:\My Documents\SKY\Start Setting Project\obj\Debug\MyApplication.vbproj.ResolveComReference.cache
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Start Setting.exe
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Start Setting.xml
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Start Setting.pdb
+C:\My Documents\SKY\Start Setting Project\bin\Start Setting.exe
+C:\My Documents\SKY\Start Setting Project\bin\Start Setting.pdb
+C:\My Documents\SKY\Start Setting Project\bin\Start Setting.xml
+C:\My Documents\SKY\Start Setting Project\bin\Interop.WMPLib.dll
+C:\My Documents\SKY\Start Setting Project\bin\AxInterop.WMPLib.dll
+C:\My Documents\SKY\Start Setting Project\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Application.Form1.resources
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Application.Form2.resources
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Application.Form4.resources
+C:\My Documents\SKY\Start Setting Project\obj\Debug\Application.Resources.resources
+C:\My Documents\SKY\Start Setting Project\obj\Debug\MyApplication.vbproj.GenerateResource.Cache
+F:\SKY\Start Setting Project\obj\Debug\Interop.WMPLib.dll
+F:\SKY\Start Setting Project\obj\Debug\AxInterop.WMPLib.dll
+F:\SKY\Start Setting Project\obj\Debug\MyApplication.vbproj.ResolveComReference.cache
+F:\SKY\Start Setting Project\obj\Debug\Start Setting.exe
+F:\SKY\Start Setting Project\obj\Debug\Start Setting.xml
+F:\SKY\Start Setting Project\obj\Debug\Start Setting.pdb
+F:\SKY\Start Setting Project\bin\Start Setting.exe
+F:\SKY\Start Setting Project\bin\Start Setting.pdb
+F:\SKY\Start Setting Project\bin\Start Setting.xml
+F:\SKY\Start Setting Project\bin\Interop.WMPLib.dll
+F:\SKY\Start Setting Project\bin\AxInterop.WMPLib.dll
+F:\SKY\Start Setting Project\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Start Setting Project\obj\Debug\Application.Form1.resources
+F:\SKY\Start Setting Project\obj\Debug\Application.Form2.resources
+F:\SKY\Start Setting Project\obj\Debug\Application.Form4.resources
+F:\SKY\Start Setting Project\obj\Debug\Application.Resources.resources
+F:\SKY\Start Setting Project\obj\Debug\MyApplication.vbproj.GenerateResource.Cache

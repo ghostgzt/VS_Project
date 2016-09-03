@@ -1,0 +1,14 @@
+E:\F\SKY\PPT Expand Worker\bin\Debug\PPT Expand Worker.dll
+E:\F\SKY\PPT Expand Worker\bin\Debug\PPT Expand Worker.pdb
+E:\F\SKY\PPT Expand Worker\bin\Debug\PPT Expand Worker.xml
+E:\F\SKY\PPT Expand Worker\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\F\SKY\PPT Expand Worker\bin\Debug\Interop.PowerPoint.dll
+E:\F\SKY\PPT Expand Worker\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\PPT Expand Worker\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\F\SKY\PPT Expand Worker\obj\Debug\Interop.PowerPoint.dll
+E:\F\SKY\PPT Expand Worker\obj\Debug\PPT Expand Worker.vbproj.ResolveComReference.cache
+E:\F\SKY\PPT Expand Worker\obj\Debug\PPT_Expand_Worker.Resources.resources
+E:\F\SKY\PPT Expand Worker\obj\Debug\PPT Expand Worker.vbproj.GenerateResource.Cache
+E:\F\SKY\PPT Expand Worker\obj\Debug\PPT Expand Worker.dll
+E:\F\SKY\PPT Expand Worker\obj\Debug\PPT Expand Worker.xml
+E:\F\SKY\PPT Expand Worker\obj\Debug\PPT Expand Worker.pdb

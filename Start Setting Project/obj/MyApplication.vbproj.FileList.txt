@@ -1,0 +1,17 @@
+.\bin\Start Setting.exe
+.\bin\Start Setting.pdb
+.\bin\Start Setting.xml
+.\bin\Interop.WMPLib.dll
+.\bin\AxInterop.WMPLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\MyApplication.vbproj.ResolveComReference.cache
+obj\Debug\Application.Form1.resources
+obj\Debug\Application.Form2.resources
+obj\Debug\Application.Form4.resources
+obj\Debug\Application.Resources.resources
+obj\Debug\MyApplication.vbproj.GenerateResource.Cache
+obj\Debug\Start Setting.exe
+obj\Debug\Start Setting.xml
+obj\Debug\Start Setting.pdb

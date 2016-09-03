@@ -1,0 +1,10 @@
+F:\SKY\Paste\Paste\Paste\bin\Release\Paste.exe
+F:\SKY\Paste\Paste\Paste\bin\Release\Paste.pdb
+F:\SKY\Paste\Paste\Paste\bin\Release\Paste.xml
+F:\SKY\Paste\Paste\Paste\obj\Release\ResolveAssemblyReference.cache
+F:\SKY\Paste\Paste\Paste\obj\Release\Paste.Paste.resources
+F:\SKY\Paste\Paste\Paste\obj\Release\Paste.Resources.resources
+F:\SKY\Paste\Paste\Paste\obj\Release\Paste.vbproj.GenerateResource.Cache
+F:\SKY\Paste\Paste\Paste\obj\Release\Paste.exe
+F:\SKY\Paste\Paste\Paste\obj\Release\Paste.xml
+F:\SKY\Paste\Paste\Paste\obj\Release\Paste.pdb

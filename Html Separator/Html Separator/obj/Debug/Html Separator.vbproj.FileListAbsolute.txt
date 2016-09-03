@@ -1,0 +1,28 @@
+f:\SKY\Html Separator\Html Separator\bin\Debug\Html Separator.exe
+f:\SKY\Html Separator\Html Separator\bin\Debug\Html Separator.pdb
+f:\SKY\Html Separator\Html Separator\bin\Debug\Html Separator.xml
+f:\SKY\Html Separator\Html Separator\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html_Separator.HS.resources
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html_Separator.Resources.resources
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.vbproj.GenerateResource.Cache
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.exe
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.xml
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.pdb
+f:\SKY\Html Separator\Html Separator\obj\Debug\Html_Separator.AboutBox1.resources
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.exe
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.xml
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.pdb
+E:\F\SKY\Html Separator\Html Separator\bin\Debug\Html Separator.exe
+E:\F\SKY\Html Separator\Html Separator\bin\Debug\Html Separator.pdb
+E:\F\SKY\Html Separator\Html Separator\bin\Debug\Html Separator.xml
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html_Separator.AboutBox1.resources
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html_Separator.HS.resources
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html_Separator.Resources.resources
+E:\F\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.vbproj.GenerateResource.Cache
+F:\SKY\Html Separator\Html Separator\bin\Debug\STC.dll
+F:\SKY\Html Separator\Html Separator\bin\Debug\STC.pdb
+F:\SKY\Html Separator\Html Separator\bin\Debug\STC.xml
+F:\Share\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.exe
+F:\Share\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.xml
+F:\Share\SKY\Html Separator\Html Separator\obj\Debug\Html Separator.pdb

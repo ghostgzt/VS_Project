@@ -1,0 +1,14 @@
+F:\SKY\Aero\Aero\Aero\bin\Debug\AeroSetup.dll
+F:\SKY\Aero\Aero\Aero\bin\Debug\Aero Setup.exe
+F:\SKY\Aero\Aero\Aero\bin\Debug\Aero Setup.pdb
+F:\SKY\Aero\Aero\Aero\bin\Debug\Aero Setup.xml
+F:\SKY\Aero\Aero\Aero\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Aero\Aero\Aero\obj\Debug\Aero_Setup.Resources.resources
+F:\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.vbproj.GenerateResource.Cache
+F:\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.exe
+F:\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.xml
+F:\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.pdb
+F:\SKY\Aero\Aero\Aero\obj\Debug\Aero_Setup.Aero_Setup.resources
+E:\F\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.exe
+E:\F\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.xml
+E:\F\SKY\Aero\Aero\Aero\obj\Debug\Aero Setup.pdb

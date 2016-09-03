@@ -1,0 +1,5 @@
+Set LoginProfiles = GetObject("winmgmts:").InstancesOf ("Win32_NetworkLoginProfile")
+   for each Profile in LoginProfiles 
+      WScript.Echo Profile.Name
+      WScript.Echo Profile.LastLogon
+   next

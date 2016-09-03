@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\bin\Debug\FZ.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\bin\Debug\FZ.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\bin\Debug\FZ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\FZ.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\FZ.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\FZ.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\FZ.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\FZ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZ\obj\Debug\FZ.pdb
+F:\SKY\FZ\FZ\obj\Debug\FZ.exe
+F:\SKY\FZ\FZ\obj\Debug\FZ.xml
+F:\SKY\FZ\FZ\obj\Debug\FZ.pdb
+F:\SKY\FZ\FZ\bin\Debug\FZ.exe
+F:\SKY\FZ\FZ\bin\Debug\FZ.pdb
+F:\SKY\FZ\FZ\bin\Debug\FZ.xml
+F:\SKY\FZ\FZ\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\FZ\FZ\obj\Debug\FZ.FZ.resources
+F:\SKY\FZ\FZ\obj\Debug\FZ.Resources.resources
+F:\SKY\FZ\FZ\obj\Debug\FZ.vbproj.GenerateResource.Cache
+E:\F\SKY\FZ\FZ\obj\Debug\FZ.exe
+E:\F\SKY\FZ\FZ\obj\Debug\FZ.xml
+E:\F\SKY\FZ\FZ\obj\Debug\FZ.pdb
+E:\F\SKY\FZ\FZ\bin\Debug\FZ.exe
+E:\F\SKY\FZ\FZ\bin\Debug\FZ.pdb
+E:\F\SKY\FZ\FZ\bin\Debug\FZ.xml
+E:\F\SKY\FZ\FZ\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\FZ\FZ\obj\Debug\FZ.FZ.resources
+E:\F\SKY\FZ\FZ\obj\Debug\FZ.Resources.resources
+E:\F\SKY\FZ\FZ\obj\Debug\FZ.vbproj.GenerateResource.Cache
+E:\F\SKY\FZ\FZ\bin\Debug\TLQ.dll
+E:\F\SKY\FZ\FZ\bin\Debug\TLQ.pdb
+E:\F\SKY\FZ\FZ\bin\Debug\TLQ.xml
+E:\F\SKY\FZ\FZ\bin\Debug\FZ.exe.config
+F:\SKY\FZ\FZ\bin\Debug\FZ.exe.config

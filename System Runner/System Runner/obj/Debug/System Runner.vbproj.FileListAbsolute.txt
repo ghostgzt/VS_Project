@@ -1,0 +1,30 @@
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\bin\Debug\System Runner.exe
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\bin\Debug\System Runner.pdb
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\bin\Debug\System Runner.xml
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\ResolveAssemblyReference.cache
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\System_Runner.Resources.resources
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\System Runner.vbproj.GenerateResource.Cache
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\System Runner.exe
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\System Runner.xml
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\System Runner.pdb
+J:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\System Runner\obj\Debug\System_Runner.Run.resources
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.exe
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.xml
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.pdb
+f:\SKY\System Runner\System Runner\bin\Debug\System Runner.exe.config
+f:\SKY\System Runner\System Runner\bin\Debug\System Runner.exe
+f:\SKY\System Runner\System Runner\bin\Debug\System Runner.pdb
+f:\SKY\System Runner\System Runner\bin\Debug\System Runner.xml
+f:\SKY\System Runner\System Runner\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\System Runner\System Runner\obj\Debug\System_Runner.Run.resources
+f:\SKY\System Runner\System Runner\obj\Debug\System_Runner.Resources.resources
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.vbproj.GenerateResource.Cache
+f:\SKY\System Runner\System Runner\bin\Debug\System Runner.exe.manifest
+f:\SKY\System Runner\System Runner\bin\Debug\System Runner.application
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.TrustInfo.xml
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.exe.manifest
+f:\SKY\System Runner\System Runner\obj\Debug\System Runner.application
+E:\F\SKY\System Runner\System Runner\bin\Debug\System Runner.exe.config
+E:\F\SKY\System Runner\System Runner\obj\Debug\System Runner.exe
+E:\F\SKY\System Runner\System Runner\obj\Debug\System Runner.xml
+E:\F\SKY\System Runner\System Runner\obj\Debug\System Runner.pdb

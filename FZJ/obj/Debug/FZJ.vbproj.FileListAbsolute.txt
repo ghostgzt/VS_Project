@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\bin\Debug\FZJ.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\bin\Debug\FZJ.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\bin\Debug\FZJ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\FZJ.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\FZJ.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\FZJ.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\FZJ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\FZJ.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FZJ\obj\Debug\FZJ.JZF.resources
+F:\SKY\FZJ\obj\Debug\FZJ.exe
+F:\SKY\FZJ\obj\Debug\FZJ.xml
+F:\SKY\FZJ\obj\Debug\FZJ.pdb
+F:\SKY\FZJ\bin\Debug\FZJ.exe
+F:\SKY\FZJ\bin\Debug\FZJ.pdb
+F:\SKY\FZJ\bin\Debug\FZJ.xml
+F:\SKY\FZJ\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\FZJ\obj\Debug\FZJ.JZF.resources
+F:\SKY\FZJ\obj\Debug\FZJ.Resources.resources
+F:\SKY\FZJ\obj\Debug\FZJ.vbproj.GenerateResource.Cache

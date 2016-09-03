@@ -1,0 +1,37 @@
+本软件提取中自Windows XP Embedded SP2 FP 2007 CTP 
+
+hnlyzhd  2006.10.25 于河南洛阳
+
+使用教程：http://wglm.net/article/Software/netsoft/20081220/5043.html
+*******************************************************************************
+
+软件使用说明：
+1.运行SETUP.BAT安装脚本将所有文件及注册表安装到系统盘，注册表默认对硬盘第一分区进行保护。
+2.本软件仅仅在XP SP2下通过测试。
+3.软件主要程序Filter.EXE通过/?可得到帮助信息
+4. 数据保存使用SAVE.BAT
+   打开保护使用TRUN ON.BAT
+   取消保护使用TRUN OFF.BAT
+5.本EWF支持一次休眠多次快速启动功能，请手工复制HORM.DAT文件到C：
+6.关于一次休眠多次快速启动其他内容参考以下英文内容：
+To disable EWF in a Hibernate Once/Resume Many environment 
+
+Disable EWF by using the EWF Manager command or the EWF API, for example: 
+Filter c: -disable
+Deactivate HORM by using the EWF manager command or the EWF API, for example: 
+Filter -deactivatehorm
+Restart the system. For example: 
+xpepm -restart
+If you have not previously deactivated HORM (step 2 above), press F8 at the Resuming Windows screen during system boot and do the following: 
+At the prompt, select Delete restoration data and proceed to system boot menu. The system boots normally and EWF will be disabled. 
+After EWF is disabled, you can apply updates or install applications to your run-time image. To re-enable Hibernate Once/Resume Many, see Enabling a Hibernate Once/Resume Many Environment with EWF. 
+To commit and disable EWF in a Hibernate Once/Resume Many environment 
+
+From a command prompt, use EWF Manager to commit and disable EWF. For example: 
+Filter c: -commitanddisable -live
+From a command prompt, use EWF Manager to commit and disable EWF. For example: 
+Filter c: -commitanddisable -live
+The contents of the EWF overlay are committed to the protected volume and EWF is immediately disabled. 
+
+The hibernated image must be refreshed before your changes will take effect effect for subsequent system boots. For example, use the windows XP Embedded Power Management Applicaiton component: 
+xpepm -hibernate

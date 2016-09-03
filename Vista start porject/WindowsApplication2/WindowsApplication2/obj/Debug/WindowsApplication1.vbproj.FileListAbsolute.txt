@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Vista Starter.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Vista Starter.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Vista Starter.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\Vista Starter.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\Vista Starter.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\Vista Starter.pdb

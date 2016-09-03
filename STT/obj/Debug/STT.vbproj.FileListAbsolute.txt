@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\yeti.mmedia.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\yeti.mp3.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\STT.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.STT.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\STT.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Garbe.Sound.dll
+F:\SKY\STT\obj\Debug\Interop.SpeechLib.dll
+F:\SKY\STT\obj\Debug\STT.vbproj.ResolveComReference.cache
+F:\SKY\STT\bin\Debug\STT.exe
+F:\SKY\STT\bin\Debug\STT.pdb
+F:\SKY\STT\bin\Debug\STT.xml
+F:\SKY\STT\bin\Debug\Interop.SpeechLib.dll
+F:\SKY\STT\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\STT\obj\Debug\WindowsApplication1.STT.resources
+F:\SKY\STT\obj\Debug\WindowsApplication1.Resources.resources
+F:\SKY\STT\obj\Debug\STT.vbproj.GenerateResource.Cache
+F:\SKY\STT\obj\Debug\STT.exe
+F:\SKY\STT\obj\Debug\STT.xml
+F:\SKY\STT\obj\Debug\STT.pdb

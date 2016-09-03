@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\bin\Debug\PasteExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\bin\Debug\PasteExt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\bin\Debug\PasteExt.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.MiniIcon.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.MissWindow.resources
+f:\SKY\Paste\PasteExt\PasteExt\bin\Debug\PasteExt.dll
+f:\SKY\Paste\PasteExt\PasteExt\bin\Debug\PasteExt.pdb
+f:\SKY\Paste\PasteExt\PasteExt\bin\Debug\PasteExt.xml
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.MiniIcon.resources
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.MissWindow.resources
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.Resources.resources
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.vbproj.GenerateResource.Cache
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.dll
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.xml
+f:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.pdb
+F:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.Pic.resources
+F:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.look.resources
+F:\SKY\Paste\PasteExt\PasteExt\obj\Debug\PasteExt.BoxSet.resources

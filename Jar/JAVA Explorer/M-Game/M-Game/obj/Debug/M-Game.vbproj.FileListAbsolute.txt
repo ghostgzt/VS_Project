@@ -1,0 +1,65 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\bin\Debug\M-Game.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\bin\Debug\M-Game.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\bin\Debug\M-Game.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\M_Game.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\M_Game.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\M-Game.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\M-Game.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\M-Game.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\obj\Debug\M-Game.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\bin\Debug\JEExt.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\bin\Debug\JEExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\M-Game\bin\Debug\JEExt.xml
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.exe
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.xml
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.pdb
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.exe
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.pdb
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.xml
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.dll
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.pdb
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.xml
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M_Game.Resources.resources
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M_Game.M.resources
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.dll
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.pdb
+E:\F\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.xml
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.exe
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.xml
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.pdb
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.exe
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.pdb
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.xml
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.dll
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.dll
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.pdb
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.xml
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.pdb
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.xml
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M_Game.M.resources
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M_Game.Resources.resources
+F:\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.vbproj.GenerateResource.Cache
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.exe
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.xml
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M-Game.pdb
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.exe
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.pdb
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.xml
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.dll
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.dll
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.pdb
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\JEExt.xml
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.pdb
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\MissWindows.xml
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\ResolveAssemblyReference.cache
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M_Game.M.resources
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\M_Game.Resources.resources
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\GenerateResource.read.1.tlog
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\GenerateResource.write.1.tlog
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\bin\Debug\M-Game.exe.config
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\ResGen.read.1.tlog
+F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game\obj\Debug\ResGen.write.1.tlog

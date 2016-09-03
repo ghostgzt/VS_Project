@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\bin\Debug\MP3.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\bin\Debug\MP3.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\bin\Debug\MP3.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\MP3.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\MP3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\MP3.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\MP3.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\MP3.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MP3\obj\Debug\MP3.MP3.resources
+F:\SKY\MP3\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\MP3\obj\Debug\MP3.MP3.resources
+F:\SKY\MP3\obj\Debug\MP3.Resources.resources
+F:\SKY\MP3\obj\Debug\MP3.vbproj.GenerateResource.Cache
+F:\SKY\MP3\bin\Debug\Interop.SpeechLib.dll
+F:\SKY\MP3\obj\Debug\Interop.SpeechLib.dll
+F:\SKY\MP3\obj\Debug\MP3.vbproj.ResolveComReference.cache
+F:\SKY\MP3\bin\Debug\LiYang Crazy English 365.exe.config
+F:\SKY\MP3\bin\Debug\LiYang Crazy English 365.exe
+F:\SKY\MP3\bin\Debug\LiYang Crazy English 365.pdb
+F:\SKY\MP3\bin\Debug\LiYang Crazy English 365.xml
+F:\SKY\MP3\obj\Debug\LiYang Crazy English 365.exe
+F:\SKY\MP3\obj\Debug\LiYang Crazy English 365.xml
+F:\SKY\MP3\obj\Debug\LiYang Crazy English 365.pdb
+F:\SKY\MP3\bin\Debug\LiYang Crazy English 365.exe.manifest
+F:\SKY\MP3\bin\Debug\LiYang Crazy English 365.application
+F:\SKY\MP3\obj\Debug\LiYang Crazy English 365.exe.manifest
+F:\SKY\MP3\obj\Debug\LiYang Crazy English 365.application
+F:\SKY\MP3\obj\Debug\MP3.SplashScreen.resources

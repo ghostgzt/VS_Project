@@ -1,0 +1,9 @@
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\bin\Debug\JEExt.dll
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\bin\Debug\JEExt.pdb
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\bin\Debug\JEExt.xml
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\obj\Debug\JEExt.Resources.resources
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\obj\Debug\JEExt.vbproj.GenerateResource.Cache
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\obj\Debug\JEExt.dll
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\obj\Debug\JEExt.xml
+F:\SKY\Jar\JAVA Explorer\JEExt\JEExt\obj\Debug\JEExt.pdb

@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\bin\Debug\QuickShowFiles.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\bin\Debug\QuickShowFiles.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\bin\Debug\QuickShowFiles.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\QuickShowFiles.QSF.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\QuickShowFiles.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\QuickShowFiles.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\QuickShowFiles.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\QuickShowFiles.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QuickShowFiles\obj\Debug\QuickShowFiles.pdb
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.xml
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.pdb
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.exe
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.pdb
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.xml
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.QSF.resources
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.Resources.resources
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.vbproj.GenerateResource.Cache
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.exe
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.exe.config
+f:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.AT.resources
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.exe.config
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.exe
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.xml
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.pdb
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.AT.resources
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.QSF.resources
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.Resources.resources
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.exe
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.pdb
+E:\F\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\QuickShowFiles.xml
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\CSI_ImageControl.dll
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\CSI_ImageControl.pdb
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\CSI_ImageControl.xml
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\Interop.WMPLib.dll
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\bin\Debug\AxInterop.WMPLib.dll
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\Interop.WMPLib.dll
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\AxInterop.WMPLib.dll
+F:\SKY\Jar\QuickShowFiles\QuickShowFiles\obj\Debug\QuickShowFiles.vbproj.ResolveComReference.cache

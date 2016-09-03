@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aero>
+    <Tile></Tile>
+    <pic></pic>
+    <Web>AeroWeb\AeroSetup.html</Web>
+    <Wav>*.wav</Wav>
+    <Wim>test.WIM</Wim>
+    <Filenum>0</Filenum>
+        <File></File>
+    <Dirnum>0</Dirnum>
+        <Dir></Dir>
+    <Runnum>0</Runnum>
+        <Run shell="内+外" style="1">在安装目录下的执行文件</Run>
+        <Run shell="外" style="1">有路径的执行文件</Run>
+        <Run shell="外+内+外" pro="" command="" style="1">有路径的执行文件和参数</Run>
+</Aero>

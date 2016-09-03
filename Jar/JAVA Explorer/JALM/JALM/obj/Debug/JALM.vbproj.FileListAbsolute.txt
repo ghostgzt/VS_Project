@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\bin\Debug\JALM.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\bin\Debug\JALM.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\bin\Debug\JALM.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\bin\Debug\JEExt.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\bin\Debug\JEExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\bin\Debug\JEExt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\JALM.JLL.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\JALM.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\JALM.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\JALM.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\JALM.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JALM\obj\Debug\JALM.pdb
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JALM.dll
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JALM.pdb
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JALM.xml
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JEExt.dll
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JEExt.pdb
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JEExt.xml
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.JLL.resources
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.Resources.resources
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.dll
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.xml
+E:\F\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.pdb
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JALM.dll
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JALM.pdb
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JALM.xml
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JEExt.dll
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JEExt.pdb
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\bin\Debug\JEExt.xml
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.JLL.resources
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.Resources.resources
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.vbproj.GenerateResource.Cache
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.dll
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.xml
+F:\SKY\Jar\JAVA Explorer\JALM\JALM\obj\Debug\JALM.pdb

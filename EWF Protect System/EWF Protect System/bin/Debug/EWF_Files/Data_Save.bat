@@ -1,0 +1,149 @@
+ÿþa
+cls
+@echo off
+title ±£´æÊý¾Ý±ä¸ü
+color 1f
+MODE con: COLS=80 LINES=30
+cd /d "%SystemRoot%\system32"
+
+:PASS
+CLS
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+if not exist "%SystemRoot%\system32\config\pass" goto CuoWu3
+if not exist "%SystemRoot%\system32\md5.exe" goto CuoWu3
+echo.
+set PASS=
+set partition=
+set /p PASS=  ÊäÈëµ±Ç°²Ù×÷ÃÜÂë£º
+if not defined PASS goto CuoWu4
+md5 -s %PASS%>"%SystemRoot%\system32\config\pass1"
+FOR /f "usebackq tokens=*" %%I in ("%SystemRoot%\system32\config\pass1") do (Set PS1=%%I)
+Set PS1=%PS1:~-32%
+echo %PS1%>"%SystemRoot%\system32\config\pass1"
+FOR /f "tokens=* usebackq" %%I in ("%SystemRoot%\system32\config\pass") do (Set PAS=%%I)
+FOR /f "tokens=* usebackq" %%I in ("%SystemRoot%\system32\config\pass1") do (Set PAS1=%%I)
+del /f /q /a "%SystemRoot%\system32\config\pass1"
+setlocal enabledelayedexpansion
+for %%i in (C D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
+fsutil fsinfo drivetype %%i:|find "¹Ì¶¨">nul && for /f "delims=" %%j in ("%%i") do set partition=!partition! %%j:
+)
+setlocal disabledelayedexpansion
+if %PAS%==%PAS1% (goto SAVE) else (goto CuoWu5)
+
+:SAVE
+cls
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+if not exist "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê\PECMD.EXE" goto CuoWu6
+if not exist "%SystemRoot%\system32\drivers\ewf.sys" goto CuoWu6
+if not exist "%SystemRoot%\system32\drivers\Filter.sys" goto CuoWu6
+cd /d "%SystemRoot%\system32\drivers"
+copy /y Filter.sys %SystemRoot%\system32\Filter.com >nul 2>nul
+cd /d "%SystemRoot%\system32"
+echo.
+echo   ÄúµÄÏµÍ³Ó¦¸ÃÄÜ¹»ÔÚÒÔÏÂ·ÖÇøÉÏÅäÖÃ Ewf 2.0 ÏµÍ³±£»¤£º
+echo.
+echo    %partition%
+echo.
+echo.
+echo   Ö¸¶¨ÐèÒª±£´æÊý¾Ý±ä¸üµÄ·ÖÇøÅÌ·û£¬Èç C D E F £¨ÎÞÐèÃ°ºÅ£¬ÖÐ¼äÒÔ¿Õ¸ñ·û·Ö¸ô£©
+echo.
+set E_SAVE=
+set /p E_SAVE=  ÐèÒª±£´æÊý¾Ý±ä¸üµÄ·ÖÇøÅÌ·û£º  
+if not defined E_SAVE goto AAA2
+for /f "tokens=2 usebackq" %%i in (`Filter %SystemDrive%^|find "State"`) do (set EWF=%%i)
+if not defined EWF goto BUG
+if %EWF% == DISABLED goto AAA1
+if %EWF% == ENABLED goto SAVE1
+
+:SAVE1
+for %%i in (%E_SAVE%) do (
+if /i "%%i:"=="%SystemDrive%" goto AAA3
+)
+goto AAA1
+
+:CuoWu3
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÃÜÂëÑéÖ¤Ëð»µ£¬ÎÞ·¨½øÐÐ¹ÜÀí²Ù×÷£¬ÇëÖØÐÂ°²×°±¾Èí¼þ£¡
+pause>nul
+goto exit
+
+:CuoWu4
+echo.
+echo   ÃÜÂë²»ÄÜÎª¿Õ£¡Äú±ØÐëÊäÈëÃÜÂë¡£
+pause>nul
+goto PASS
+
+:CuoWu5
+echo.
+echo   µ±Ç°ÃÜÂëÊäÈë²»ÕýÈ·£¡ÇëÄúÖØÐÂÊäÈëÕýÈ·ÃÜÂëÒÔ»ñÈ¡²Ù×÷È¨ÏÞ£¡
+pause>nul
+goto PASS
+
+:CuoWu6
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ¶ªÊ§ÎÄ¼þ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+pause>nul
+goto exit
+
+:BUG
+echo.
+echo   ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ×¢²áÓÐÎÊÌâ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+del /f /q /a Filter.com >nul 2>nul
+pause>nul
+goto exit
+
+:AAA2
+echo.
+echo.
+echo   ÊäÈë²»ÄÜÎª¿Õ£¡ÇëÕýÈ·ÊäÈë·ÖÇøÅÌ·û¡£
+pause>nul
+goto SAVE
+
+:AAA1
+echo.
+echo.
+echo.  ÄúÖ¸¶¨µÄÐÂÅäÖÃ¼´¿ÌÉúÐ§£¡°´ÏÂÈÎÒâ¼ü¼´¿Ì±£´æÊý¾Ý±ä¸üºóÍË³ö...
+pause>nul
+for %%i in (%E_SAVE%) do (Filter %%i: -COMMIT >nul)
+del /f /q /a Filter.com >nul 2>nul
+goto exit
+
+:AAA3
+echo.
+echo.
+echo.  ÄúÖ¸¶¨µÄÐÂÅäÖÃÖØÆôºóÉúÐ§£¡°´ÏÂÈÎÒâ¼ü¼´¿Ì±£´æÊý¾Ý±ä¸üºóÖØÐÂÆô¶¯¼ÆËã»ú...
+pause>nul
+for %%i in (%E_SAVE%) do (Filter %%i: -COMMIT >nul)
+del /f /q /a Filter.com >nul 2>nul
+shutdown -r -f -t 01
+goto exit
+
+:exit

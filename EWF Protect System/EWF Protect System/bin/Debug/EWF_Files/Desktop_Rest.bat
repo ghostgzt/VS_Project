@@ -1,0 +1,95 @@
+ÿþa
+cls
+@echo off
+title »Ö¸´×ÀÃæÍ¼±ê £¨ É÷ÖØ£¡£©
+color 1f
+MODE con: COLS=80 LINES=30
+
+:AAA1
+cls
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+if not exist "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê\PECMD.EXE" goto CuoWu6
+if not exist "%SystemRoot%\system32\drivers\ewf.sys" goto CuoWu6
+if not exist "%SystemRoot%\system32\drivers\Filter.sys" goto CuoWu6
+echo.
+echo.  Î£ÏÕ²Ù×÷£¬ÇëÄúÉ÷ÖØ£º
+echo.
+echo.
+echo.  1¡¢»Ö¸´×ÀÃæÖÁÉÏ´Î±£´æµÄ×´Ì¬£¬×ÀÃæÉÏÏÖÓÐµÄÎÄ¼þ½«¶ªÊ§£¡
+echo.
+echo.  2¡¢¹Ø±Õ×ÀÃæÉÏËùÓÐ´ò¿ªµÄÎÄ¼þ»òÕýÔÚÔËÐÐµÄ³ÌÐò£¬×ªÒÆ×ÀÃæÉÏÖØÒªÎÄ¼þµ½±ð´¦¡£
+echo.
+echo.
+set AA=
+set /p AA=  °´ Y »Ö¸´   °´ N ÍË³ö   ÊäÈëºó¼üÈë»Ø³µ¼üÈ·ÈÏ 
+if defined AA goto AAA2
+if not defined AA goto AAA1
+
+:AAA2
+        if /i %AA% EQU Y  (goto AAA3
+) else (if /i %AA% EQU N  (goto exit
+) else (goto CuoWu2
+)
+)
+
+:CuoWu2
+echo.
+echo.  ÄúµÄÊäÈë²»ÕýÈ·£¬ÔÙ´ÎÊäÈë Y »ò N ¡£
+pause>nul
+goto AAA1
+
+:CuoWu6
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ¶ªÊ§ÎÄ¼þ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+pause>nul
+goto exit
+
+:AAA3
+cls
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+echo.
+echo.  ÕýÔÚÒª»Ö¸´×ÀÃæ...
+echo.
+md "D:\Temp" >nul 2>nul
+md "D:\IE Temp" >nul 2>nul
+md "D:\ÎÒµÄ×ÀÃæ" >nul 2>nul
+md "D:\ÎÒµÄÎÄµµ" >nul 2>nul
+attrib +h "D:\Temp"
+attrib +h "D:\IE Temp"
+attrib +h "D:\ÎÒµÄ×ÀÃæ"
+cd /D "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê"
+PECMD.EXE FILE "D:\ÎÒµÄ×ÀÃæ\*"
+PECMD.EXE FILE "%ALLUSERSPROFILE%\×ÀÃæ\*"
+PECMD.EXE FILE "D:\Temp\*"
+PECMD.EXE FILE "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê\±£´æAll Users×ÀÃæ¿ì½Ý·½Ê½\*=>%ALLUSERSPROFILE%\×ÀÃæ"
+PECMD.EXE FILE "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê\±£´æµ±Ç°ÓÃ»§×ÀÃæ¿ì½Ý·½Ê½\*=>D:\ÎÒµÄ×ÀÃæ\"
+
+:exit

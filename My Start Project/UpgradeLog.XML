@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="My Start">
+</Property><Property Name="Solution File" Value="C:\My Documents\SKY\My Start Project\My Start.sln">
+</Property><Property Name="User Options File" Value="C:\My Documents\SKY\My Start Project\My Start.suo">
+</Property><Property Name="Date" Value="2007年11月18日 星期日">
+</Property><Property Name="Time" Value="MCL 12:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="My Start.sln" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Start.sln">
+</Event><Event ErrorLevel="0" Project="" Source="My Start.suo" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Start.suo">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Start.vbproj" Description="Project file successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Start.vbproj">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Start.vbproj.user" Description="Project user file successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Start.vbproj.user">
+</Event><Event ErrorLevel="0" Project="My Start" Source="AboutBox1.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="AboutBox1.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="API_Functions.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\API_Functions.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Form1.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Form1.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Form2.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Form2.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Resources\Start Setting.exe" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Resources\Start Setting.exe">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Icon_9.ico" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Icon_9.ico">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Project\Application.myapp" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Start Setting.exe" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Start Setting.exe">
+</Event><Event ErrorLevel="0" Project="My Start" Source="AboutBox1.resx" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Form1.resx" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="My Start" Source="Form2.resx" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Project\Resources.resx" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Project\app.manifest" Description="File successfully backed up as C:\My Documents\SKY\My Start Project\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Start.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="My Start" Source="My Start.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="My Start.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="My Start.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="My Start" Source="My Start.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

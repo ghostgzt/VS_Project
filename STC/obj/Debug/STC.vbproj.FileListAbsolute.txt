@@ -1,0 +1,9 @@
+F:\SKY\STC\bin\Debug\STC.dll
+F:\SKY\STC\bin\Debug\STC.pdb
+F:\SKY\STC\bin\Debug\STC.xml
+F:\SKY\STC\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\STC\obj\Debug\STC.Resources.resources
+F:\SKY\STC\obj\Debug\STC.vbproj.GenerateResource.Cache
+F:\SKY\STC\obj\Debug\STC.dll
+F:\SKY\STC\obj\Debug\STC.xml
+F:\SKY\STC\obj\Debug\STC.pdb

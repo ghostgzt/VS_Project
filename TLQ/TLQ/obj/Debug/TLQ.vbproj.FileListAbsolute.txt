@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\bin\Debug\TLQ.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\bin\Debug\TLQ.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\bin\Debug\TLQ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\TLQ.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\TLQ.X.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\TLQ.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\TLQ.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\TLQ.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TLQ\obj\Debug\TLQ.pdb
+E:\F\SKY\TLQ\TLQ\bin\Debug\TLQ.dll
+E:\F\SKY\TLQ\TLQ\bin\Debug\TLQ.pdb
+E:\F\SKY\TLQ\TLQ\bin\Debug\TLQ.xml
+E:\F\SKY\TLQ\TLQ\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\TLQ\TLQ\obj\Debug\TLQ.Resources.resources
+E:\F\SKY\TLQ\TLQ\obj\Debug\TLQ.X.resources
+E:\F\SKY\TLQ\TLQ\obj\Debug\TLQ.vbproj.GenerateResource.Cache
+E:\F\SKY\TLQ\TLQ\obj\Debug\TLQ.dll
+E:\F\SKY\TLQ\TLQ\obj\Debug\TLQ.xml
+E:\F\SKY\TLQ\TLQ\obj\Debug\TLQ.pdb
+F:\SKY\TLQ\TLQ\bin\Debug\TLQ.pdb
+F:\SKY\TLQ\TLQ\bin\Debug\TLQ.xml
+F:\SKY\TLQ\TLQ\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.Resources.resources
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.X.resources
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.vbproj.GenerateResource.Cache
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.xml
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.pdb
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.TQLTool.resources
+F:\SKY\TLQ\TLQ\bin\Debug\TLQ.dll.config
+F:\SKY\TLQ\TLQ\bin\Debug\TLQ.dll
+F:\SKY\TLQ\TLQ\obj\Debug\TLQ.dll

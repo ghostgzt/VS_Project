@@ -1,0 +1,88 @@
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.exe
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.xml
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.pdb
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.DirCho.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.JS.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Jar.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.LookFile.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.MF.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.QD.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.SetBox.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Resources.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.vbproj.GenerateResource.Cache
+F:\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe
+F:\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.pdb
+F:\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.xml
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.CMM.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.PNGC.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.TG.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.PAQ2.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Mini.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe.manifest
+F:\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.application
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.TrustInfo.xml
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.exe.manifest
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.application
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.exe
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.xml
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.pdb
+E:\F\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe.manifest
+E:\F\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.application
+E:\F\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe
+E:\F\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.pdb
+E:\F\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.xml
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.CMM.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.DirCho.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.JS.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Jar.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.LookFile.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.MF.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Mini.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.PAQ2.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.PNGC.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.QD.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.SetBox.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Resources.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.TG.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.TrustInfo.xml
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.exe.manifest
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.application
+E:\F\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe.config
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.AboutMe.resources
+E:\F\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.TBC.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe.config
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.AboutMe.resources
+F:\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.TBC.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe.config
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.exe
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.xml
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.pdb
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\ResolveAssemblyReference.cache
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.AboutMe.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.CMM.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.DirCho.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.JS.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Jar.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.LookFile.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.MF.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Mini.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.PAQ2.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.PNGC.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.QD.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.SetBox.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.Resources.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.TBC.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar_Setting.TG.resources
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\ResGen.read.1.tlog
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\ResGen.write.1.tlog
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe.manifest
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.application
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.exe
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.pdb
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\bin\Debug\Jar Setting.xml
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.TrustInfo.xml
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.exe.manifest
+F:\Share\SKY\Jar\Jar Setting\Jar Setting\obj\Debug\Jar Setting.application

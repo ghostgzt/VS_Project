@@ -1,0 +1,18 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\bin\Debug\MiniIcon.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\bin\Debug\MiniIcon.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\bin\Debug\MiniIcon.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\obj\Debug\MiniIcon.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\obj\Debug\MiniIcon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\obj\Debug\MiniIcon.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\obj\Debug\MiniIcon.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MiniIcon\obj\Debug\MiniIcon.pdb
+f:\sky\MiniIcon\MiniIcon\bin\Debug\MiniIcon.dll
+f:\sky\MiniIcon\MiniIcon\bin\Debug\MiniIcon.pdb
+f:\sky\MiniIcon\MiniIcon\bin\Debug\MiniIcon.xml
+f:\sky\MiniIcon\MiniIcon\obj\Debug\ResolveAssemblyReference.cache
+f:\sky\MiniIcon\MiniIcon\obj\Debug\MiniIcon.Resources.resources
+f:\sky\MiniIcon\MiniIcon\obj\Debug\MiniIcon.vbproj.GenerateResource.Cache
+f:\sky\MiniIcon\MiniIcon\obj\Debug\MiniIcon.dll
+f:\sky\MiniIcon\MiniIcon\obj\Debug\MiniIcon.xml
+f:\sky\MiniIcon\MiniIcon\obj\Debug\MiniIcon.pdb

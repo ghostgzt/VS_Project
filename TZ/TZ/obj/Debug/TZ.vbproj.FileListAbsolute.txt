@@ -1,0 +1,16 @@
+F:\SKY\TZ\TZ\obj\Debug\TZ.exe
+F:\SKY\TZ\TZ\obj\Debug\TZ.xml
+F:\SKY\TZ\TZ\obj\Debug\TZ.pdb
+F:\SKY\TZ\TZ\bin\Debug\TZ.exe
+F:\SKY\TZ\TZ\bin\Debug\TZ.pdb
+F:\SKY\TZ\TZ\bin\Debug\TZ.xml
+F:\SKY\TZ\TZ\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\TZ\TZ\obj\Debug\TZ.Resources.resources
+F:\SKY\TZ\TZ\obj\Debug\TZ.vbproj.GenerateResource.Cache
+F:\SKY\TZ\TZ\obj\Debug\TZ.TZ.resources
+F:\SKY\TZ\TZ\bin\Debug\TLQ.dll
+F:\SKY\TZ\TZ\bin\Debug\TLQ.pdb
+F:\SKY\TZ\TZ\bin\Debug\TLQ.xml
+F:\Share\SKY\TZ\TZ\obj\Debug\TZ.exe
+F:\Share\SKY\TZ\TZ\obj\Debug\TZ.xml
+F:\Share\SKY\TZ\TZ\obj\Debug\TZ.pdb

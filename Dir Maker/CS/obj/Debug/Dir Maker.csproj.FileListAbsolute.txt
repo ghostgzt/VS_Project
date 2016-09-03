@@ -1,0 +1,5 @@
+F:\SKY\Dir Maker\CS\bin\Debug\Dir Maker.exe.config
+F:\SKY\Dir Maker\CS\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Dir Maker\CS\obj\Debug\Dir_Maker.DM.resources
+F:\SKY\Dir Maker\CS\obj\Debug\Dir_Maker.Properties.Resources.resources
+F:\SKY\Dir Maker\CS\obj\Debug\Dir Maker.csproj.GenerateResource.Cache

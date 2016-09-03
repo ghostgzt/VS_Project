@@ -1,0 +1,10 @@
+F:\SKY\Aero\Aero\Aero\bin\Release\Aero.exe
+F:\SKY\Aero\Aero\Aero\bin\Release\Aero.pdb
+F:\SKY\Aero\Aero\Aero\bin\Release\Aero.xml
+F:\SKY\Aero\Aero\Aero\obj\Release\ResolveAssemblyReference.cache
+F:\SKY\Aero\Aero\Aero\obj\Release\Aero启动完美安装.Aero.resources
+F:\SKY\Aero\Aero\Aero\obj\Release\Aero启动完美安装.Resources.resources
+F:\SKY\Aero\Aero\Aero\obj\Release\Aero.vbproj.GenerateResource.Cache
+F:\SKY\Aero\Aero\Aero\obj\Release\Aero.exe
+F:\SKY\Aero\Aero\Aero\obj\Release\Aero.xml
+F:\SKY\Aero\Aero\Aero\obj\Release\Aero.pdb

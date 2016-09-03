@@ -1,0 +1,37 @@
+' 
+' WMI Script - ChangeVLKey.vbs
+'
+' This script changes the product key on the computer (XP SP1 SP2 2003)
+'
+' Made by zyling.
+'***************************************************************************
+
+On Error Resume Next
+
+Dim VOL_PROD_KEY
+If Wscript.arguments.count<1 Then
+   VOL_PROD_KEY=InputBox("使用说明(OEM版无效)："&vbCr&vbCr&"    本脚本程序将修改当前 Windows 的序列号。请先使用算号器算出匹配当前 Windows 的序列号，复制并粘贴到下面空格中。"&vbCr&vbCr&"输入序列号(默认为 XP VLK)：","Windows XP/2003 序列号更换工具","HCQ9D-TVCWX-X9QRG-J4B2Y-GR2TT")
+   If VOL_PROD_KEY="" Then
+     Wscript.quit
+   End If
+Else
+   VOL_PROD_KEY = Wscript.arguments.Item(0)
+End If
+
+VOL_PROD_KEY = Replace(VOL_PROD_KEY,"-","") 'remove hyphens if any
+
+For Each Obj in GetObject("winmgmts:{impersonationLevel=impersonate}").InstancesOf ("win32_WindowsProductActivation")
+
+   result = Obj.SetProductKey (VOL_PROD_KEY)
+
+   If err = 0 Then
+      Wscript.Echo "您的 Windows CD-KEY 修改成功。请检查系统属性。"
+   End If
+
+   If err <> 0 Then
+      Wscript.Echo "修改失败！请检查输入的 CD-KEY 是否与当前 Windows 版本相匹配。"
+      Err.Clear
+   End If
+
+Next
+	

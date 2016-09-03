@@ -1,0 +1,43 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\bin\Debug\Rom Marker.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\bin\Debug\Rom Marker.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\bin\Debug\Rom Marker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\Rom_Marker.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\Rom Marker.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\Rom Marker.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\Rom Marker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\Rom Marker.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Rom Marker\obj\Debug\Rom_Marker.RM.resources
+E:\F\SKY\Rom Marker\obj\Debug\Rom Marker.exe
+E:\F\SKY\Rom Marker\obj\Debug\Rom Marker.xml
+E:\F\SKY\Rom Marker\obj\Debug\Rom Marker.pdb
+E:\F\SKY\Rom Marker\bin\Debug\Rom Marker.exe
+E:\F\SKY\Rom Marker\bin\Debug\Rom Marker.pdb
+E:\F\SKY\Rom Marker\bin\Debug\Rom Marker.xml
+E:\F\SKY\Rom Marker\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Rom Marker\obj\Debug\Rom_Marker.RM.resources
+E:\F\SKY\Rom Marker\obj\Debug\Rom_Marker.Resources.resources
+E:\F\SKY\Rom Marker\obj\Debug\Rom Marker.vbproj.GenerateResource.Cache
+E:\F\SKY\Rom Marker\bin\Debug\Rom Marker.exe.manifest
+E:\F\SKY\Rom Marker\bin\Debug\Rom Marker.application
+E:\F\SKY\Rom Marker\obj\Debug\Rom Marker.exe.manifest
+E:\F\SKY\Rom Marker\obj\Debug\Rom Marker.application
+E:\F\SKY\Rom Marker\bin\Debug\Rom Marker.exe.config
+F:\SKY\Rom Marker\bin\Debug\Rom Marker.exe.config
+F:\SKY\Rom Marker\obj\Debug\Rom Marker.exe
+F:\SKY\Rom Marker\obj\Debug\Rom Marker.xml
+F:\SKY\Rom Marker\obj\Debug\Rom Marker.pdb
+F:\SKY\Rom Marker\bin\Debug\Rom Marker.exe.manifest
+F:\SKY\Rom Marker\bin\Debug\Rom Marker.application
+F:\SKY\Rom Marker\bin\Debug\Rom Marker.exe
+F:\SKY\Rom Marker\bin\Debug\Rom Marker.pdb
+F:\SKY\Rom Marker\bin\Debug\Rom Marker.xml
+F:\SKY\Rom Marker\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Rom Marker\obj\Debug\Rom_Marker.RM.resources
+F:\SKY\Rom Marker\obj\Debug\Rom_Marker.Resources.resources
+F:\SKY\Rom Marker\obj\Debug\Rom Marker.vbproj.GenerateResource.Cache
+F:\SKY\Rom Marker\obj\Debug\Rom Marker.exe.manifest
+F:\SKY\Rom Marker\obj\Debug\Rom Marker.application
+F:\SKY\Rom Marker\obj\Debug\Rom_Marker.AboutBox1.resources
+F:\SKY\Rom Marker\obj\Debug\Rom_Marker.Edit.resources
+F:\SKY\Rom Marker\obj\Debug\Rom_Marker.DP.resources

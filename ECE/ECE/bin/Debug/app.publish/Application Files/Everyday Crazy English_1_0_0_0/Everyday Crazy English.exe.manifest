@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="Everyday Crazy English.exe" publicKeyToken="9581274881be80ac" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ECE.ico" asmv2:publisher="GhostGzt(Gentle Guan)" co.v1:suiteName="Everyday Crazy English" asmv2:product="Everyday Crazy English" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Everyday Crazy English" version="1.2.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Everyday Crazy English.exe" parameters="" />
+  </entryPoint>
+  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC 清单选项
+            如果希望更改 Windows 用户帐户控制级别，请用以下节点之一替换 
+            requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            如果您希望利用文件和注册表虚拟化提供
+            向后兼容性，请删除 requestedExecutionLevel 节点。
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.Entity" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Everyday Crazy English.exe" size="391168">
+      <assemblyIdentity name="Everyday Crazy English" version="1.2.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>P50CNv9yQhrK16hdhPeaLed+hqI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.SpeechLib.dll" size="163840">
+      <assemblyIdentity name="Interop.SpeechLib" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>cCMZBwisTr1BCySvVJqavSWHD0E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ECE.ico" size="1886">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ddjD+0/f2L0WWwG1r0zkDyHK22A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\Default.xml" size="44052" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EmmsglDzcyxJSAhvQzbuiMuDxlQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\LiYang Crazy English 365.exe" size="142336">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Vk9VgLd2U34SLiQ4qfMnvRLECas=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files\ly.xml" size="38565" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2uSdoerIKHsDoc3sEIE76FHO+pI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GENTLE\Administrator" issuerKeyHash="dcf6e71f59312fa5271450abd87f549a9a9894b4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>4Qf4eEZkvo5Iuy4/vgyjTPiDHxU=</DigestValue></Reference></SignedInfo><SignatureValue>HoXKr2IbUD2C3X9MikNZiSBKzLGXNAEdV71wOXNO7Fx4cR2GkutKuoP+B6h+XB7GzCLK23oFEokiz2yfusA0LOeoZAfFF3xATclU+oRgj+536yehK9tVkGrxZyD+cf15C1MbJUvdE9YE7XvU7pfr4edHzVGLN3edqJvODnebEfU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>jvJ85lvH3XtSka1wfnuIuA/QIwddnNp9yPZI29BvX9bq2VrSuWJ0Yb317JY0eLwyuID1pID4WRQchCkPQ3JXBdOmCTF3F1ToEESJiQ8/x0+BdiD1MH35g4Dm3ecHhC6npHu75COm68cva2eUxtjCYoiXbB09gPFnjCrlmxcZuY0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="151f83f84ca30cbe3f2ebb488ebe644678f807e1" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="Everyday Crazy English.exe" publicKeyToken="9581274881be80ac" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GENTLE\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3u7ow+TFu33Fhqn+WqXHZ/St7lc=</DigestValue></Reference></SignedInfo><SignatureValue>X+NnAcZsaP/sUnu2BmWpxVzxwm/ZeEK1p+KqHK6Uhijgj4fFozBMxMrmE4VFfqVMk5ux1Ua6PGl1V8rz4Lg1F3i+DNQcQ/W+wWZlCQ9lSr35c1KqlHjXCVnKeYUAEUGL60vGvHkU7aLS3yrbJwEIlEcbbSi71s5dSfiIsxqnlfI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>jvJ85lvH3XtSka1wfnuIuA/QIwddnNp9yPZI29BvX9bq2VrSuWJ0Yb317JY0eLwyuID1pID4WRQchCkPQ3JXBdOmCTF3F1ToEESJiQ8/x0+BdiD1MH35g4Dm3ecHhC6npHu75COm68cva2eUxtjCYoiXbB09gPFnjCrlmxcZuY0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAU6gAwIBAgIQBXvXzV6QVqtP2YZbdkRxvDAJBgUrDgMCHQUAMDMxMTAvBgNVBAMeKABHAEUATgBUAEwARQBcAEEAZABtAGkAbgBpAHMAdAByAGEAdABvAHIwHhcNMTEwNzE1MTMwNjIxWhcNMTIwNzE0MTkwNjIxWjAzMTEwLwYDVQQDHigARwBFAE4AVABMAEUAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCO8nzmW8fde1KRrXB+e4i4D9AjB12c2n3I9kjb0G9f1urZWtK5YnRhvfXsljR4vDK4gPWkgPhZFByEKQ9DclcF06YJMXcXVOgQRImJDz/HT4F2IPUwffmDgObd5weELqeke7vkI6brxy9rZ5TG2MJiiJdsHT2A8WeMKuWbFxm5jQIDAQABMAkGBSsOAwIdBQADgYEAMnAKGqoRk/ISoQjOL7bsyuhLsIgTvfBUvxiisX8rs6FcHK994nB29CsT/ZxYGR4Z/EDbii8bw1Fr0aINiIjzKF5xKC5S7ZDzgFO9i1pkRM6pDaIDpFHaEU3MpL4x4ztvfxsFZg54Xo1NyMANJlx0v8A5OY808KOSPk7gi+7+ZoQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

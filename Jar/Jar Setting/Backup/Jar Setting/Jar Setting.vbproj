@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{55EB6E19-E378-4BCD-82FD-797028F52202}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Jar_Setting.My.MyApplication</StartupObject>
+    <RootNamespace>Jar_Setting</RootNamespace>
+    <AssemblyName>Jar Setting</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>Clock.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>8D84093032FDAD7319680E27A0ED5A95EA49CDCB</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Jar Setting_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <SignManifests>true</SignManifests>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Jar Setting.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Jar Setting.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutMe.Designer.vb">
+      <DependentUpon>AboutMe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutMe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMM.Designer.vb">
+      <DependentUpon>CMM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CMM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mini.Designer.vb">
+      <DependentUpon>Mini.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mini.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="PAQ2.Designer.vb">
+      <DependentUpon>PAQ2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PAQ2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TBC.Designer.vb">
+      <DependentUpon>TBC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TBC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TG.Designer.vb">
+      <DependentUpon>TG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirCho.Designer.vb">
+      <DependentUpon>DirCho.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DirCho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JS.Designer.vb">
+      <DependentUpon>JS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jar.Designer.vb">
+      <DependentUpon>Jar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Jar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookFile.Designer.vb">
+      <DependentUpon>LookFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LookFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MF.Designer.vb">
+      <DependentUpon>MF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PNGC.Designer.vb">
+      <DependentUpon>PNGC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PNGC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QD.Designer.vb">
+      <DependentUpon>QD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Set Box.Designer.vb">
+      <DependentUpon>Set Box.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Set Box.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutMe.resx">
+      <DependentUpon>AboutMe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMM.resx">
+      <DependentUpon>CMM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirCho.resx">
+      <DependentUpon>DirCho.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JS.resx">
+      <DependentUpon>JS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jar.resx">
+      <DependentUpon>Jar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookFile.resx">
+      <DependentUpon>LookFile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MF.resx">
+      <DependentUpon>MF.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mini.resx">
+      <DependentUpon>Mini.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAQ2.resx">
+      <DependentUpon>PAQ2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PNGC.resx">
+      <DependentUpon>PNGC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QD.resx">
+      <DependentUpon>QD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Set Box.resx">
+      <DependentUpon>Set Box.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TBC.resx">
+      <DependentUpon>TBC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TG.resx">
+      <DependentUpon>TG.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Clock.ico" />
+    <Content Include="Java FBY.exe" />
+    <Content Include="PicResizer.exe" />
+    <Content Include="Progress.exe" />
+    <None Include="app.config" />
+    <None Include="Resources\RMSBackup.class" />
+    <None Include="Resources\YZ.jpg" />
+    <None Include="Resources\1.bmp" />
+    <Content Include="UTF8.exe" />
+    <None Include="My Project\app.manifest" />
+    <None Include="zip.exe" />
+    <None Include="unzip.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <FileAssociation Include=".Jar">
+      <Visible>False</Visible>
+      <Description>作者:關鎭濤</Description>
+      <Progid>%2a.jar</Progid>
+      <DefaultIcon>Clock.ico</DefaultIcon>
+    </FileAssociation>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="UTF8.exe">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

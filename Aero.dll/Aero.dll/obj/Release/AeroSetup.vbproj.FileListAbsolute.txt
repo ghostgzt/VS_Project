@@ -1,0 +1,10 @@
+F:\SKY\Aero.dll\Aero.dll\bin\Release\AeroSetup.dll
+F:\SKY\Aero.dll\Aero.dll\bin\Release\AeroSetup.pdb
+F:\SKY\Aero.dll\Aero.dll\bin\Release\AeroSetup.xml
+F:\SKY\Aero.dll\Aero.dll\obj\Release\ResolveAssemblyReference.cache
+F:\SKY\Aero.dll\Aero.dll\obj\Release\AeroSetup.Resources.resources
+F:\SKY\Aero.dll\Aero.dll\obj\Release\AeroSetup.vbproj.GenerateResource.Cache
+F:\SKY\Aero.dll\Aero.dll\obj\Release\AeroSetup.dll
+F:\SKY\Aero.dll\Aero.dll\obj\Release\AeroSetup.xml
+F:\SKY\Aero.dll\Aero.dll\obj\Release\AeroSetup.pdb
+F:\SKY\Aero.dll\Aero.dll\obj\Release\AeroSetup.Web_Explorer.resources

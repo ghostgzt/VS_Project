@@ -1,0 +1,1 @@
+copy /y "E:\F\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\bin\Debug\Jar_Run.exe" "E:\F\SKY\Jar\JAVA Explorer\JAVA Explorer\bin\Debug"

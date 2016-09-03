@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="工程1">
+</Property><Property Name="Solution File" Value="C:\My Documents\SKY\Start Setting Project\工程1.sln">
+</Property><Property Name="User Options File" Value="C:\My Documents\SKY\Start Setting Project\工程1.suo">
+</Property><Property Name="Date" Value="2007年11月18日 星期日">
+</Property><Property Name="Time" Value="MCL 01:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="工程1.sln" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\工程1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="工程1.suo" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\工程1.suo">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="MyApplication.vbproj" Description="Project file successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\MyApplication.vbproj">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="MyApplication.vbproj.user" Description="Project user file successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\MyApplication.vbproj.user">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form1.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form1.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form2.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form2.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form4.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form4.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form4.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form4.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="_UpgradeReport.htm" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\_UpgradeReport.htm">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="My Project\Application.myapp" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="工程1.ico" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\工程1.ico">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form1.resX" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form1.resX">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form2.resX" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form2.resX">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="Form4.resX" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\Form4.resX">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="My Project\Resources.resx" Description="File successfully backed up as C:\My Documents\SKY\Start Setting Project\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="MyApplication.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyApplication" Source="MyApplication.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="工程1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="工程1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="MyApplication.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

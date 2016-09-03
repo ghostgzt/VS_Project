@@ -1,0 +1,27 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\bin\Debug\Mini JE.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\bin\Debug\Mini JE.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\bin\Debug\Mini JE.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\bin\Debug\JEExt.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\bin\Debug\JEExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\bin\Debug\JEExt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\Mini_JE.Mini_JE.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\Mini_JE.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\Mini JE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\Mini JE.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\Mini JE.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Mini JE\obj\Debug\Mini JE.pdb
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini JE.exe
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini JE.xml
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini JE.pdb
+f:\SKY\Jar\Mini JE\Mini JE\bin\Debug\Mini JE.exe
+f:\SKY\Jar\Mini JE\Mini JE\bin\Debug\Mini JE.pdb
+f:\SKY\Jar\Mini JE\Mini JE\bin\Debug\Mini JE.xml
+f:\SKY\Jar\Mini JE\Mini JE\bin\Debug\JEExt.pdb
+f:\SKY\Jar\Mini JE\Mini JE\bin\Debug\JEExt.xml
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini_JE.Mini_JE.resources
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini_JE.Resources.resources
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini_JE.SX.resources
+f:\SKY\Jar\Mini JE\Mini JE\obj\Debug\Mini JE.vbproj.GenerateResource.Cache
+F:\SKY\Jar\Mini JE\Mini JE\bin\Debug\JEExt.dll

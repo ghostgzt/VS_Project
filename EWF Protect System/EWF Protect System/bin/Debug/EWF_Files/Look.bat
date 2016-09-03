@@ -1,0 +1,109 @@
+ÿþ
+@echo off
+cls
+@echo off
+title ²é¿´ Ewf 2.0 ×´Ì¬
+color 1f
+MODE con: COLS=80 LINES=30
+SET Var1=%0
+IF '^%Var1:~0,1%'=='^"' SET Var1=%Var1:~1,-1%
+FOR /f "delims=" %%I in ("%Var1%") do Set TTP=%%~dpI
+SET TTP=%TTP:~0,-1%
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+echo.
+echo   ÕýÔÚ²é¿´ÄúµÄÏµÍ³±£»¤×´Ì¬£¬ÇëÉÔºó......
+if not exist "%SystemRoot%\system32\drivers\Filter.sys" goto BUG1
+if not exist "%SystemRoot%\system32\drivers\ewf.sys" goto BUG1
+if not exist "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê\PECMD.EXE" goto BUG1
+cd /d "%SystemRoot%\system32\drivers"
+setlocal enabledelayedexpansion
+for %%i in (C D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
+fsutil fsinfo drivetype %%i:|find "¹Ì¶¨">nul && for /f "delims=" %%j in ("%%i") do set partition=!partition! %%j:
+)
+setlocal disabledelayedexpansion
+copy /y Filter.sys %SystemRoot%\system32\Filter.com >nul 2>nul
+cd /d "%SystemRoot%\system32"
+echo.
+echo   ÄúµÄÏµÍ³Ó¦¸ÃÄÜ¹»ÔÚÒÔÏÂ·ÖÇøÉÏÅäÖÃ Ewf 2.0 ÏµÍ³±£»¤£º
+echo.
+echo      %partition%
+setlocal enabledelayedexpansion
+for %%j in (%partition%) do (
+fsutil fsinfo drivetype %%j|find "¹Ì¶¨">nul && Filter %%j|find "ENABLED">nul && for /f "delims=" %%k in ("%%j") do set partition1=!partition1! %%k
+)
+setlocal disabledelayedexpansion
+setlocal enabledelayedexpansion
+for %%j in (%partition%) do (
+fsutil fsinfo drivetype %%j|find "¹Ì¶¨">nul && Filter %%j|find "DISABLED">nul && for /f "delims=" %%k in ("%%j") do set partition2=!partition2! %%k
+)
+setlocal disabledelayedexpansion
+if "%partition1%"=="%partition%" goto AAA1
+if "%partition2%"=="%partition%" goto AAA2
+echo.
+echo   ÆäÖÐ£º
+echo.
+echo   ÒÑ¾­ÆôÓÃ Ewf 2.0 ÏµÍ³±£»¤×é¼þµÄ·ÖÇø£º %partition1%
+echo.
+echo   Ewf 2.0 ÏµÍ³±£»¤×é¼þ±»Í£ÓÃµÄ·ÖÇø£º    %partition2%
+del /f /q /a Filter.com >nul 2>nul
+pause>nul
+goto exit
+
+:BUG1
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ¶ªÊ§ÎÄ¼þ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+if not exist "%SystemRoot%\system32\config\pass" goto BUG3
+if not exist "%SystemRoot%\system32\md5.exe" goto BUG3
+pause>nul
+goto exit
+
+:BUG2
+echo.
+echo   ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ×¢²áÓÐÎÊÌâ»òÕßÒÑËð»µ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+del /f /q /a Filter.com >nul 2>nul
+if not exist "%SystemRoot%\system32\config\pass" goto BUG3
+if not exist "%SystemRoot%\system32\md5.exe" goto BUG3
+pause>nul
+goto exit
+
+:BUG3
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÃÜÂëÑéÖ¤Ëð»µ£¬ÎÞ·¨½øÐÐ¹ÜÀí²Ù×÷£¬ÇëÖØÐÂ°²×°±¾Èí¼þ£¡
+pause>nul
+goto exit
+
+:AAA1
+echo.
+echo.
+echo   ¹§Ï²£¡ËùÓÐ±¾µØ·ÖÇø¾ùÒÑÆôÓÃ Ewf 2.0 ÏµÍ³±£»¤£¬ÏµÍ³°²È«´ó´óÌá¸ß¡£
+del /f /q /a Filter.com >nul 2>nul
+if not exist "%SystemRoot%\system32\config\pass" goto BUG3
+if not exist "%SystemRoot%\system32\md5.exe" goto BUG3
+pause>nul
+goto exit
+
+:AAA2
+echo.
+echo.
+echo   ×¢Òâ£¡ËùÓÐ±¾µØ·ÖÇøµÄ Ewf 2.0 ÏµÍ³±£»¤´¦ÓÚ¹Ø±Õ×´Ì¬£¬¿ÉÄÜ´æÔÚ°²È«Òþ»¼£¡
+del /f /q /a Filter.com >nul 2>nul
+if not exist "%SystemRoot%\system32\config\pass" goto BUG3
+if not exist "%SystemRoot%\system32\md5.exe" goto BUG3
+pause>nul
+goto exit
+
+:exit

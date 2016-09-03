@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\bin\Debug\EWF Protect System.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\bin\Debug\EWF Protect System.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\bin\Debug\EWF Protect System.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\EWF_Protect_System.EWF.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\EWF_Protect_System.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\EWF Protect System.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\EWF Protect System.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\EWF Protect System.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\EWF Protect System\obj\Debug\EWF Protect System.pdb
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.exe
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.xml
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.pdb
+F:\SKY\EWF Protect System\EWF Protect System\bin\Debug\EWF Protect System.exe
+F:\SKY\EWF Protect System\EWF Protect System\bin\Debug\EWF Protect System.pdb
+F:\SKY\EWF Protect System\EWF Protect System\bin\Debug\EWF Protect System.xml
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF_Protect_System.EWF.resources
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF_Protect_System.Resources.resources
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.vbproj.GenerateResource.Cache
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF_Protect_System.Main.resources
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF_Protect_System.Other.resources
+F:\SKY\EWF Protect System\EWF Protect System\bin\Debug\EWF Protect System.exe.config
+F:\SKY\EWF Protect System\EWF Protect System\bin\Debug\EWF Protect System.exe.manifest
+F:\SKY\EWF Protect System\EWF Protect System\bin\Debug\EWF Protect System.application
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.TrustInfo.xml
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.exe.manifest
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF Protect System.application
+F:\SKY\EWF Protect System\EWF Protect System\obj\Debug\EWF_Protect_System.AB.resources

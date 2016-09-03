@@ -1,0 +1,18 @@
+                Java Explorer
+作者:关镇涛(简介:曾读于 广东金山中学,现读于 广东第一中学)
+版本号:4.2.5.0
+最后修改日期: 2009-05-27
+运行条件:
+        系统中必须装有Microsoft.NET Framework 3.5 SP1或更高(Vista中已安装Microsoft.NET Framework3.0但仍需更新，请到网上下载安装，如Microsoft或在百度中搜 Microsoft.NET Framework 3.5 SP1下载,后安装即可)
+功能:
+    I.Java Explorer能在电脑中快速查看手机Java文件。
+    II.Java Explorer能在电脑中运行手机Java文件。
+    III.Java Explorer能在电脑中修改手机Java文件。
+    IV.Java Explorer能在电脑中快速查看手机Java文件里内容。
+有事找我:
+    GhostGzt@163.com
+支持捐助:
+       中国建设银行
+       卡号:6227 0031 2601 0025 966
+                              谢谢支持！！！
+Were it not for your help,I can't do better！ 

@@ -1,0 +1,14 @@
+F:\SKY\Explorer Projects\Mini Explorer\bin\Debug\Mini Explorer.exe
+F:\SKY\Explorer Projects\Mini Explorer\bin\Debug\Mini Explorer.pdb
+F:\SKY\Explorer Projects\Mini Explorer\bin\Debug\Mini Explorer.xml
+F:\SKY\Explorer Projects\Mini Explorer\bin\Debug\Microsoft.VisualBasic.Compatibility.dll
+F:\SKY\Explorer Projects\Mini Explorer\bin\Debug\System.dll
+F:\SKY\Explorer Projects\Mini Explorer\bin\Debug\System.Windows.Forms.dll
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\MiniExplorer.Open.resources
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\MiniExplorer.Mini_Explorer.resources
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\MiniExplorer.Resources.resources
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\Mini Explorer.vbproj.GenerateResource.Cache
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\Mini Explorer.exe
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\Mini Explorer.xml
+F:\SKY\Explorer Projects\Mini Explorer\obj\Debug\Mini Explorer.pdb

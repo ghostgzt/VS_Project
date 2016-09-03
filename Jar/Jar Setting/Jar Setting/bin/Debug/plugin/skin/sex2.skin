@@ -1,0 +1,28 @@
+DISPLAY_WIDTH =  176
+DISPLAY_HEIGHT = 221
+X_SCREEN_OFFSET=  0
+Y_SCREEN_OFFSET= 0
+KEY_POWER    -1 -1 -1 -1 POWER
+KEY_SOFT1    0 402 60 40 SOFT1
+KEY_SOFT2    292 402 60 40 SOFT2
+KEY_UP       -1 -1 -1 -1 UP
+KEY_DOWN     -1 -1 -1 -1 DOWN
+KEY_LEFT     -1 -1 -1 -1 LEFT
+KEY_RIGHT    -1 -1 -1 -1 RIGHT
+KEY_SELECT   -1 -1 -1 -1 SELECT
+KEY_SEND     -1 -1 -1 -1 SEND
+KEY_END      -1 -1 -1 -1 END
+KEY_CLEAR    -1 -1 -1 -1 CLEAR
+KEY_1        -1 -1 -1 -1 1
+KEY_2        -1 -1 -1 -1 2
+KEY_3        -1 -1 -1 -1 3
+KEY_4        -1 -1 -1 -1 4
+KEY_5        -1 -1 -1 -1 5
+KEY_6        -1 -1 -1 -1 6
+KEY_7        -1 -1 -1 -1 7
+KEY_8        -1 -1 -1 -1 8
+KEY_9        -1 -1 -1 -1 9
+KEY_ASTERISK -1 -1 -1 -1 *
+KEY_0        -1 -1 -1 -1 0
+KEY_POUND    -1 -1 -1 -1 #
+40 176 221  1 24 0 116688 0 0 0 0

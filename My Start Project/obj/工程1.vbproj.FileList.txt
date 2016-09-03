@@ -1,0 +1,21 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\工程1.vbproj.GenerateResource.Cache
+.\bin\Interop.WMPLib.dll
+.\bin\AxInterop.WMPLib.dll
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\工程1.vbproj.ResolveComReference.cache
+obj\Debug\My Start.pdb
+.\bin\My Start.exe.manifest
+.\bin\My Start.application
+.\bin\My Start.exe
+.\bin\My Start.pdb
+.\bin\My Start.xml
+obj\Debug\My Start.TrustInfo.xml
+obj\Debug\My Start.exe.manifest
+obj\Debug\My Start.application
+obj\Debug\My Start.exe
+obj\Debug\My Start.xml
+obj\Debug\STAT登陆播放器.AboutBox1.resources
+obj\Debug\STAT登陆播放器.Resources.resources
+obj\Debug\STAT登陆播放器.MyStart.resources

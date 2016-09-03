@@ -1,0 +1,48 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.WMPLib.dll
+obj\Release\AxInterop.WMPLib.dll
+obj\Release\My Start.vbproj.ResolveComReference.cache
+obj\Release\My Start.vbproj.GenerateResource.Cache
+obj\Release\My Start.TrustInfo.xml
+obj\Release\My Start.exe.manifest
+obj\Release\My Start.application
+..\..\..\..\My Start.exe.manifest
+..\..\..\..\My Start.application
+obj\Release\My Start.exe
+obj\Release\My Start.xml
+obj\Release\My Start.pdb
+..\..\..\..\My Start.exe
+..\..\..\..\My Start.pdb
+..\..\..\..\My Start.xml
+obj\Release\MyStart.AboutBox1.resources
+obj\Release\MyStart.MyStart.resources
+obj\Release\MyStart.Resources.resources
+.\My Start.exe.manifest
+.\My Start.application
+.\My Start.exe
+.\My Start.pdb
+.\My Start.xml
+.\Interop.WMPLib.dll
+.\AxInterop.WMPLib.dll
+.\bin\My Start.exe.manifest
+.\bin\My Start.application
+.\bin\My Start.exe
+.\bin\My Start.pdb
+.\bin\My Start.xml
+.\bin\Interop.WMPLib.dll
+.\bin\AxInterop.WMPLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\My Start.vbproj.ResolveComReference.cache
+obj\Debug\MyStart.AboutBox1.resources
+obj\Debug\MyStart.MyStart.resources
+obj\Debug\MyStart.Resources.resources
+obj\Debug\My Start.vbproj.GenerateResource.Cache
+obj\Debug\My Start.TrustInfo.xml
+obj\Debug\My Start.exe.manifest
+obj\Debug\My Start.application
+obj\Debug\My Start.exe
+obj\Debug\My Start.xml
+obj\Debug\My Start.pdb
+obj\Debug\MyStart.Form2.resources

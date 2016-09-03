@@ -1,0 +1,66 @@
+C:\My Documents\SKY\My Start Project\obj\Debug\Interop.WMPLib.dll
+C:\My Documents\SKY\My Start Project\obj\Debug\AxInterop.WMPLib.dll
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.vbproj.ResolveComReference.cache
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.exe
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.xml
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.pdb
+C:\My Documents\SKY\My Start Project\bin\My Start.exe.manifest
+C:\My Documents\SKY\My Start Project\bin\My Start.application
+C:\My Documents\SKY\My Start Project\bin\My Start.exe
+C:\My Documents\SKY\My Start Project\bin\My Start.pdb
+C:\My Documents\SKY\My Start Project\bin\My Start.xml
+C:\My Documents\SKY\My Start Project\bin\Interop.WMPLib.dll
+C:\My Documents\SKY\My Start Project\bin\AxInterop.WMPLib.dll
+C:\My Documents\SKY\My Start Project\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SKY\My Start Project\obj\Debug\MyStart.AboutBox1.resources
+C:\My Documents\SKY\My Start Project\obj\Debug\MyStart.MyStart.resources
+C:\My Documents\SKY\My Start Project\obj\Debug\MyStart.Form2.resources
+C:\My Documents\SKY\My Start Project\obj\Debug\MyStart.Resources.resources
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.vbproj.GenerateResource.Cache
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.TrustInfo.xml
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.exe.manifest
+C:\My Documents\SKY\My Start Project\obj\Debug\My Start.application
+F:\SKY\My Start Project\obj\Debug\Interop.WMPLib.dll
+F:\SKY\My Start Project\obj\Debug\AxInterop.WMPLib.dll
+F:\SKY\My Start Project\obj\Debug\My Start.vbproj.ResolveComReference.cache
+F:\SKY\My Start Project\obj\Debug\My Start.exe
+F:\SKY\My Start Project\obj\Debug\My Start.xml
+F:\SKY\My Start Project\obj\Debug\My Start.pdb
+F:\SKY\My Start Project\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\My Start Project\obj\Debug\MyStart.AboutBox1.resources
+F:\SKY\My Start Project\obj\Debug\MyStart.MyStart.resources
+F:\SKY\My Start Project\obj\Debug\MyStart.Form2.resources
+F:\SKY\My Start Project\obj\Debug\MyStart.Resources.resources
+F:\SKY\My Start Project\obj\Debug\My Start.vbproj.GenerateResource.Cache
+F:\SKY\My Start Project\obj\Debug\My Start.TrustInfo.xml
+F:\SKY\My Start Project\obj\Debug\My Start.exe.manifest
+F:\SKY\My Start Project\bin\My Start.exe.manifest
+F:\SKY\My Start Project\bin\My Start.application
+F:\SKY\My Start Project\bin\My Start.exe
+F:\SKY\My Start Project\bin\My Start.pdb
+F:\SKY\My Start Project\bin\My Start.xml
+F:\SKY\My Start Project\bin\Interop.WMPLib.dll
+F:\SKY\My Start Project\bin\AxInterop.WMPLib.dll
+F:\SKY\My Start Project\obj\Debug\My Start.application
+E:\F\SKY\My Start Project\obj\Debug\Interop.WMPLib.dll
+E:\F\SKY\My Start Project\obj\Debug\AxInterop.WMPLib.dll
+E:\F\SKY\My Start Project\obj\Debug\My Start.vbproj.ResolveComReference.cache
+E:\F\SKY\My Start Project\obj\Debug\My Start.exe
+E:\F\SKY\My Start Project\obj\Debug\My Start.xml
+E:\F\SKY\My Start Project\obj\Debug\My Start.pdb
+E:\F\SKY\My Start Project\bin\My Start.exe.manifest
+E:\F\SKY\My Start Project\bin\My Start.application
+E:\F\SKY\My Start Project\bin\My Start.exe
+E:\F\SKY\My Start Project\bin\My Start.pdb
+E:\F\SKY\My Start Project\bin\My Start.xml
+E:\F\SKY\My Start Project\bin\Interop.WMPLib.dll
+E:\F\SKY\My Start Project\bin\AxInterop.WMPLib.dll
+E:\F\SKY\My Start Project\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\My Start Project\obj\Debug\MyStart.AboutBox1.resources
+E:\F\SKY\My Start Project\obj\Debug\MyStart.MyStart.resources
+E:\F\SKY\My Start Project\obj\Debug\MyStart.Form2.resources
+E:\F\SKY\My Start Project\obj\Debug\MyStart.Resources.resources
+E:\F\SKY\My Start Project\obj\Debug\My Start.vbproj.GenerateResource.Cache
+E:\F\SKY\My Start Project\obj\Debug\My Start.TrustInfo.xml
+E:\F\SKY\My Start Project\obj\Debug\My Start.exe.manifest
+E:\F\SKY\My Start Project\obj\Debug\My Start.application

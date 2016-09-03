@@ -1,0 +1,18 @@
+F:\SKY\MB\MB\bin\Debug\My Byte.exe.config
+F:\SKY\MB\MB\bin\Debug\Sky.gf
+F:\SKY\MB\MB\bin\Debug\My Byte.exe.manifest
+F:\SKY\MB\MB\bin\Debug\My Byte.application
+F:\SKY\MB\MB\bin\Debug\My Byte.exe
+F:\SKY\MB\MB\bin\Debug\My Byte.pdb
+F:\SKY\MB\MB\bin\Debug\My Byte.xml
+F:\SKY\MB\MB\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\MB\MB\obj\Debug\My_Byte.Choose_Me.resources
+F:\SKY\MB\MB\obj\Debug\My_Byte.MB.resources
+F:\SKY\MB\MB\obj\Debug\My_Byte.Resources.resources
+F:\SKY\MB\MB\obj\Debug\MB.vbproj.GenerateResource.Cache
+F:\SKY\MB\MB\obj\Debug\My Byte.TrustInfo.xml
+F:\SKY\MB\MB\obj\Debug\My Byte.exe.manifest
+F:\SKY\MB\MB\obj\Debug\My Byte.application
+F:\SKY\MB\MB\obj\Debug\My Byte.exe
+F:\SKY\MB\MB\obj\Debug\My Byte.xml
+F:\SKY\MB\MB\obj\Debug\My Byte.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PNG Color Down">
+</Property><Property Name="解决方案文件" Value="F:\Share\SKY\Jar\PNG Color Down\PNG Color Down.sln">
+</Property><Property Name="用户选项文件" Value="F:\Share\SKY\Jar\PNG Color Down\PNG Color Down.suo">
+</Property><Property Name="Date" Value="2012年1月20日">
+</Property><Property Name="Time" Value="18:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PNG Color Down.sln" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PNG Color Down.suo" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down.suo">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PNG Color Down.vbproj" Description="项目文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\PNG Color Down.vbproj">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PNG Color Down.vbproj.user" Description="项目用户文件成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\PNG Color Down.vbproj.user">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\GN.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\GN.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PCD.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\PCD.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PCD.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\PCD.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\AssemblyInfo.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\Application.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\Resources.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\Settings.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\Application.myapp" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\Settings.settings" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\Resources\PNG" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\Resources\PNG">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PNG.ico" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\PNG.ico">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PCD.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\PCD.resx">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\My Project\Resources.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\PNG Color Down\Backup\PNG Color Down\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PNG Color Down.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="PNG Color Down" Source="PNG Color Down\PNG Color Down.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PNG Color Down.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="PNG Color Down.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PNG Color Down" Source="PNG Color Down\PNG Color Down.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,4 @@
+Call MyFunction("Hello World")
+Function MyFunction(text)
+   MsgBox text
+End Function

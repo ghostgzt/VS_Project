@@ -1,0 +1,10 @@
+E:\F\SKY\Pic Format Convert\bin\Debug\Pic Format Convert.dll
+E:\F\SKY\Pic Format Convert\bin\Debug\Pic Format Convert.pdb
+E:\F\SKY\Pic Format Convert\bin\Debug\Pic Format Convert.xml
+E:\F\SKY\Pic Format Convert\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Pic Format Convert\obj\Debug\Pic_Format_Convert.Pic.resources
+E:\F\SKY\Pic Format Convert\obj\Debug\Pic_Format_Convert.Resources.resources
+E:\F\SKY\Pic Format Convert\obj\Debug\Pic Format Convert.vbproj.GenerateResource.Cache
+E:\F\SKY\Pic Format Convert\obj\Debug\Pic Format Convert.dll
+E:\F\SKY\Pic Format Convert\obj\Debug\Pic Format Convert.xml
+E:\F\SKY\Pic Format Convert\obj\Debug\Pic Format Convert.pdb

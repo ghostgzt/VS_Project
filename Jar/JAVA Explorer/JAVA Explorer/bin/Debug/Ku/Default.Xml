@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aero>
+    <Tile>M-Games</Tile>
+    <Pic></Pic>
+    <Height>561</Height>
+    <X>922</X>
+    <Y>80</Y>
+    <Op>0.7</Op>
+    <TS>-8388480</TS>
+    <BJ></BJ>
+    <TB>24*24</TB>
+    <ZT></ZT>
+    <MZ>F:\My Documents\UC 7.4 v7.4.0.jar</MZ>
+    <ZJ>0</ZJ>
+    <TM>1</TM>
+    <GD>0</GD>
+    <FN>Microsoft Sans Serif</FN>
+    <FS>10</FS>
+    <FB>False</FB>
+    <FI>True</FI>
+    <FO>False</FO>
+    <FU>False</FU>
+    <FC>Red</FC>
+</Aero>

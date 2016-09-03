@@ -1,0 +1,13 @@
+On Error Resume Next
+Dim QQNum
+QQNum="1275731466"
+DIM objShell
+while QQNum<>""
+QQNum=InputBox("QQ强制聊天工具"&vbCr&vbCr&"Made By GhostGzt(QQ:1275731466)"&vbCr&vbCr&"    请先打开QQ！！否则本程序无效！！！"&vbCr&vbCr&"请输入你想要强制聊天的人的QQ号码：","QQ强制聊天工具 Final Version (Fuck Q！工作室)",QQNum)
+If QQNum="" Then
+Msgbox "感谢你的使用！！！"&vbCr&vbCr&"Made By GhostGzt(QQ:1275731466)",64,"Fuck Q！出品,必属精品！！！"
+else
+set objShell=wscript.createObject("wscript.shell")
+iReturn=objShell.Run("tencent://Message/?Uin="+QQNum, 0, False)
+End If
+Wend

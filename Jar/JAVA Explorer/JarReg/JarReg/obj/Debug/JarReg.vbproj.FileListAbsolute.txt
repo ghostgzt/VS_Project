@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\bin\Debug\JarReg.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\bin\Debug\JarReg.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\bin\Debug\JarReg.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\JarReg.Jarr.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\JarReg.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\JarReg.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\JarReg.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\JarReg.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\JarReg\obj\Debug\JarReg.pdb
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.exe
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.xml
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.pdb
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.exe
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.pdb
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.xml
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.Jarr.resources
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.Resources.resources
+E:\F\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.vbproj.GenerateResource.Cache
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.exe
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.xml
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.pdb
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.exe
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.pdb
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.xml
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.Jarr.resources
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.Resources.resources
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\obj\Debug\JarReg.vbproj.GenerateResource.Cache
+F:\SKY\Jar\JAVA Explorer\JarReg\JarReg\bin\Debug\JarReg.exe.config

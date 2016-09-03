@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LiYangCrazyEnglish365
+</name>
+</assembly>
+<members>
+<member name="P:MP3.My.Resources.Resources.ResourceManager">
+	<summary>
+  返回此类使用的缓存 ResourceManager 实例。
+</summary>
+</member><member name="P:MP3.My.Resources.Resources.Culture">
+	<summary>
+  为使用此强类型资源类的所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member><member name="P:MP3.My.Resources.Resources.ly">
+	<summary>
+  查找类似 &lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;Aero&gt;
+    &lt;Tile&gt;MP3&lt;/Tile&gt;
+    &lt;FileNum&gt;365&lt;/FileNum&gt;
+    &lt;Files&gt;
+        &lt;File&gt;&lt;Num&gt;1&lt;/Num&gt;&lt;Path&gt;Absolutely.&lt;/Path&gt;&lt;Size&gt;(用于答话)当然是。&lt;/Size&gt;&lt;/File&gt;
+        &lt;File&gt;&lt;Num&gt;2&lt;/Num&gt;&lt;Path&gt;Absolutely impossible.&lt;/Path&gt;&lt;Size&gt;绝对不可能！&lt;/Size&gt;&lt;/File&gt;
+        &lt;File&gt;&lt;Num&gt;3&lt;/Num&gt;&lt;Path&gt;All I have to do is learn English.&lt;/Path&gt;&lt;Size&gt;我所要做的就是学英语。&lt;/Size&gt;&lt;/File&gt;
+        &lt;File&gt;&lt;Num&gt;4&lt;/Num&gt;&lt;Path&gt;Are you free tomorrow?&lt;/Path&gt;&lt;Size&gt;你明天有空吗？&lt;/Size&gt;&lt;/File&gt;
+        &lt;File&gt;&lt;Num&gt;5&lt;/Num&gt;&lt;Path&gt;Ar [字符串的其余部分被截断]"; 的本地化字符串。
+</summary>
+</member><member name="T:MP3.My.Resources.Resources">
+	<summary>
+  强类型资源类，用于查找本地化字符串等。
+</summary>
+</member>
+</members>
+</doc>

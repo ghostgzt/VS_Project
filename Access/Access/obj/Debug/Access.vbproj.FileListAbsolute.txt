@@ -1,0 +1,12 @@
+F:\SKY\Access\Access\bin\Debug\Access数据库读取器.exe
+F:\SKY\Access\Access\bin\Debug\Access数据库读取器.pdb
+F:\SKY\Access\Access\bin\Debug\Access数据库读取器.xml
+F:\SKY\Access\Access\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.Pic.resources
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.Access.resources
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.Resources.resources
+F:\SKY\Access\Access\obj\Debug\Access.vbproj.GenerateResource.Cache
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.exe
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.xml
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.pdb
+F:\SKY\Access\Access\obj\Debug\Access数据库读取器.Table.resources

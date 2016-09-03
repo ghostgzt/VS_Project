@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\bin\Debug\T.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\bin\Debug\T.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\bin\Debug\T.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\T.frm_Resize.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\T.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\T.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\T.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\T.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\T\obj\Debug\T.pdb

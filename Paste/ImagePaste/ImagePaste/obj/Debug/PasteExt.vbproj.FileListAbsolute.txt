@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\bin\Debug\PasteExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\bin\Debug\PasteExt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.ImagePaste.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\bin\Debug\PasteExt.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PasteExt\obj\Debug\PasteExt.exe

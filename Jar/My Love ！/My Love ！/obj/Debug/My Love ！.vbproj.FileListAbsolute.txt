@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\bin\Debug\My Love ！.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\bin\Debug\My Love ！.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\bin\Debug\My Love ！.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\My_Love__.My_Family.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\My_Love__.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\My Love ！.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\My Love ！.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\My Love ！.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\My Love ！\obj\Debug\My Love ！.pdb
+f:\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.exe
+f:\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.xml
+f:\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.pdb
+F:\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.exe
+F:\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.pdb
+F:\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.xml
+F:\SKY\Jar\My Love ！\My Love ！\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\My Love ！\My Love ！\obj\Debug\My_Love__.My_Family.resources
+F:\SKY\Jar\My Love ！\My Love ！\obj\Debug\My_Love__.Resources.resources
+F:\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.vbproj.GenerateResource.Cache
+f:\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.exe.config
+E:\F\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.exe.config
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.exe
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.xml
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.pdb
+E:\F\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.exe
+E:\F\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.pdb
+E:\F\SKY\Jar\My Love ！\My Love ！\bin\Debug\My Love ！.xml
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\My Love ！.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\MyLove.My_Family.resources
+E:\F\SKY\Jar\My Love ！\My Love ！\obj\Debug\MyLove.Resources.resources

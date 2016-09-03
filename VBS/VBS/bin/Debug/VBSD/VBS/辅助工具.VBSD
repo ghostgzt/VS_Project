@@ -1,0 +1,31 @@
+Function IS_SYS_XP()
+	strComputer = "."
+	Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+	Set colItems = objWMIService.ExecQuery("Select * from Win32_OperatingSystem",,48)
+	For Each objItem in colItems
+	    sys=left(objItem.Caption,20)
+	Next
+	If sys="Microsoft Windows XP" Then IS_SYS_XP=1 Else IS_SYS_XP=0
+End Function
+
+Set Fso = CreateObject("Scripting.FileSystemObject")
+Set WshShell = WScript.CreateObject("WScript.Shell")
+Title = "辅助工具--翟振凯"
+
+If IS_SYS_XP=0 Then
+	MsgBox "抱歉，本程序仅适用与 Microsoft Windows XP 操作系统",,Title
+Else
+	If (Fso.FileExists("phototoys.dll")=0) Then
+		MsgBox "未发现安装相关文件" + vbcrlf + vbcrlf + "请将本脚本与 phototoys.dll 放置于同一目录下并重新运行"
+	Else
+		a = msgbox("请选择进行操作：是--安装注册；否--卸载清除；取消--退出脚本",vbYesNoCancel,Title)
+		Select Case(a)
+			Case 6
+				WshShell.Run "regsvr32 phototoys.dll /s"
+				MsgBox "恭喜您，程序已安装成功。" & vbcrlf & vbcrlf & "您可以对在图片点击右键，选择 [调整图片大小] 或点击快捷键 [X] 进行编辑",,Title
+			Case 7
+				WshShell.Run "REG DELETE HKCR\CLSID\{1530f7ee-5128-43bd-9977-84a4b0fad7df} /f",0,True
+				MsgBox "卸载已完全卸载，感谢您的使用。",,Title
+		End Select		
+	End If
+End If

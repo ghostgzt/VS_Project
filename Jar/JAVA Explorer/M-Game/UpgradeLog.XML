@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="M-Game">
+</Property><Property Name="解决方案文件" Value="F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game.sln">
+</Property><Property Name="用户选项文件" Value="F:\Share\SKY\Jar\JAVA Explorer\M-Game\M-Game.suo">
+</Property><Property Name="Date" Value="2012年1月29日">
+</Property><Property Name="Time" Value="16:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="M-Game.sln" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game.sln">
+</Event><Event ErrorLevel="0" Project="" Source="M-Game.suo" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game.suo">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M-Game.vbproj" Description="项目文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\M-Game.vbproj">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M-Game.vbproj.user" Description="项目用户文件成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\M-Game.vbproj.user">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\M.vb">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\M.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\AssemblyInfo.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\Application.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\Resources.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\Settings.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\app.manifest" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\Application.myapp" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\Settings.settings" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My-Documents.ico" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My-Documents.ico">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\M.resx">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\My Project\Resources.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\M-Game\Backup\M-Game\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M-Game.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="M-Game" Source="M-Game\M-Game.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="M-Game.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="M-Game.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="M-Game" Source="M-Game\M-Game.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

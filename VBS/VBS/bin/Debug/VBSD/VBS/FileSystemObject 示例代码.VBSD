@@ -1,0 +1,538 @@
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' FileSystemObject 示例代码
+'Copyright 1998  Microsoft Corporation。 保留所有权利。
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Option Explicit
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' 对于代码质量：
+' 1) 下面的代码有许多字符串操作，用"&"运算符来把短字符串连接在一起。由于
+'    字符串连接是费时的，所以这是一种低效率的写代码方法。无论如何，它是
+'    一种非常好维护的写代码方法，并且在这儿使用了这种方法，因为该程序执行
+'    大量的磁盘操作，而磁盘操作比连接字符串所需的内存操作要慢得多。
+'    记住这是示范代码，而不是产品代码。
+'
+' 2) 使用了 "Option Explicit"，因为访问声明过的变量，比访问未声明的变量要
+'    稍微快一些。它还能阻止在代码中发生错误，例如，把 DriveTypeCDROM 误拼
+'    成了 DriveTypeCDORM 。
+'
+' 3) 为了使代码更可读，该代码中没有错误处理。虽然采取了防范措施，来保证代码
+'    在普通情况下没有错误，但文件系统是不可预知的。在产品代码中，使用
+'    On Error Resume Next 和 Err 对象来捕获可能发生的错误。
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' 一些容易取得的全局变量
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Dim TabStop
+Dim NewLine
+
+Const TestDrive = "C"
+Const TestFilePath = "C:\Test"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' 由 Drive.DriveType 返回的常数
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Const DriveTypeRemovable = 1
+Const DriveTypeFixed = 2
+Const DriveTypeNetwork = 3
+Const DriveTypeCDROM = 4
+Const DriveTypeRAMDisk = 5
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' 由 File.Attributes 返回的常数
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Const FileAttrNormal  = 0
+Const FileAttrReadOnly = 1
+Const FileAttrHidden = 2
+Const FileAttrSystem = 4
+Const FileAttrVolume = 8
+Const FileAttrDirectory = 16
+Const FileAttrArchive = 32 
+Const FileAttrAlias = 64
+Const FileAttrCompressed = 128
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' 用来打开文件的常数
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Const OpenFileForReading = 1 
+Const OpenFileForWriting = 2 
+Const OpenFileForAppending = 8 
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' ShowDriveType
+' 目的： 
+' 生成一个字符串，来描述给定 Drive 对象的驱动器类型。
+' 示范下面的内容
+' - Drive.DriveType
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Function ShowDriveType(Drive)
+
+   Dim S
+   
+   Select Case Drive.DriveType
+   Case DriveTypeRemovable
+      S = "Removable"
+   Case DriveTypeFixed
+      S = "Fixed"
+   Case DriveTypeNetwork
+      S = "Network"
+   Case DriveTypeCDROM
+      S = "CD-ROM"
+   Case DriveTypeRAMDisk
+      S = "RAM Disk"
+   Case Else
+      S = "Unknown"
+   End Select
+
+   ShowDriveType = S
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' ShowFileAttr
+' 目的： 
+' 生成一个字符串，来描述文件或文件夹的属性。
+' 示范下面的内容
+' - File.Attributes
+' - Folder.Attributes
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function ShowFileAttr(File) ' File 可以是文件或文件夹
+
+   Dim S
+   Dim Attr
+   
+   Attr = File.Attributes
+
+   If Attr = 0 Then
+      ShowFileAttr = "Normal"
+      Exit Function
+   End If
+
+   If Attr And FileAttrDirectory Then S = S & "Directory "
+   If Attr And FileAttrReadOnly Then S = S & "Read-Only "
+   If Attr And FileAttrHidden Then S = S & "Hidden "
+   If Attr And FileAttrSystem Then S = S & "System "
+   If Attr And FileAttrVolume Then S = S & "Volume "
+   If Attr And FileAttrArchive Then S = S & "Archive "
+   If Attr And FileAttrAlias Then S = S & "Alias "
+   If Attr And FileAttrCompressed Then S = S & "Compressed "
+
+   ShowFileAttr = S
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' GenerateDriveInformation
+' 目的： 
+' 生成一个字符串，来描述可用驱动器的当前状态。
+' 示范下面的内容
+'  - FileSystemObject.Drives 
+'  - Iterating the Drives collection
+'  - Drives.Count
+'  - Drive.AvailableSpace
+'  - Drive.DriveLetter
+'  - Drive.DriveType
+'  - Drive.FileSystem
+'  - Drive.FreeSpace
+'  - Drive.IsReady
+'  - Drive.Path
+'  - Drive.SerialNumber
+'  - Drive.ShareName
+'  - Drive.TotalSize
+'  - Drive.VolumeName
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function GenerateDriveInformation(FSO)
+
+   Dim Drives
+   Dim Drive
+   Dim S
+
+   Set Drives = FSO.Drives
+   S = "Number of drives:" & TabStop & Drives.Count & NewLine & NewLine
+
+   ' 构造报告的第一行。
+   S = S & String(2, TabStop) & "Drive" 
+   S = S & String(3, TabStop) & "File" 
+   S = S & TabStop & "Total"
+   S = S & TabStop & "Free"
+   S = S & TabStop & "Available" 
+   S = S & TabStop & "Serial" & NewLine
+
+   ' 构造报告的第二行。
+   S = S & "Letter"
+   S = S & TabStop & "Path"
+   S = S & TabStop & "Type"
+   S = S & TabStop & "Ready?"
+   S = S & TabStop & "Name"
+   S = S & TabStop & "System"
+   S = S & TabStop & "Space"
+   S = S & TabStop & "Space"
+   S = S & TabStop & "Space"
+   S = S & TabStop & "Number" & NewLine   
+
+   ' 分隔行。
+   S = S & String(105, "-") & NewLine
+
+   For Each Drive In Drives
+      S = S & Drive.DriveLetter
+      S = S & TabStop & Drive.Path
+      S = S & TabStop & ShowDriveType(Drive)
+      S = S & TabStop & Drive.IsReady
+
+      If Drive.IsReady Then
+         If DriveTypeNetwork = Drive.DriveType Then
+            S = S & TabStop & Drive.ShareName 
+         Else
+            S = S & TabStop & Drive.VolumeName 
+         End If
+         S = S & TabStop & Drive.FileSystem
+         S = S & TabStop & Drive.TotalSize
+         S = S & TabStop & Drive.FreeSpace
+         S = S & TabStop & Drive.AvailableSpace
+         S = S & TabStop & Hex(Drive.SerialNumber)
+      End If
+
+      S = S & NewLine
+
+   Next
+
+   GenerateDriveInformation = S
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' GenerateFileInformation
+' 目的： 
+' 生成一个字符串，来描述文件的当前状态。
+' 示范下面的内容
+'  - File.Path
+'  - File.Name
+'  - File.Type
+'  - File.DateCreated
+'  - File.DateLastAccessed
+'  - File.DateLastModified
+'  - File.Size
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function GenerateFileInformation(File)
+
+   Dim S
+
+   S = NewLine & "Path:" & TabStop & File.Path
+   S = S & NewLine & "Name:" & TabStop & File.Name
+   S = S & NewLine & "Type:" & TabStop & File.Type
+   S = S & NewLine & "Attribs:" & TabStop & ShowFileAttr(File)
+   S = S & NewLine & "Created:" & TabStop & File.DateCreated
+   S = S & NewLine & "Accessed:" & TabStop & File.DateLastAccessed
+   S = S & NewLine & "Modified:" & TabStop & File.DateLastModified
+   S = S & NewLine & "Size" & TabStop & File.Size & NewLine
+
+   GenerateFileInformation = S
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' GenerateFolderInformation
+' 目的： 
+' 生成一个字符串，来描述文件夹的当前状态。
+' 示范下面的内容
+'  - Folder.Path
+'  - Folder.Name
+'  - Folder.DateCreated
+'  - Folder.DateLastAccessed
+'  - Folder.DateLastModified
+'  - Folder.Size
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function GenerateFolderInformation(Folder)
+
+   Dim S
+
+   S = "Path:" & TabStop & Folder.Path
+   S = S & NewLine & "Name:" & TabStop & Folder.Name
+   S = S & NewLine & "Attribs:" & TabStop & ShowFileAttr(Folder)
+   S = S & NewLine & "Created:" & TabStop & Folder.DateCreated
+   S = S & NewLine & "Accessed:" & TabStop & Folder.DateLastAccessed
+   S = S & NewLine & "Modified:" & TabStop & Folder.DateLastModified
+   S = S & NewLine & "Size:" & TabStop & Folder.Size & NewLine
+
+   GenerateFolderInformation = S
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' GenerateAllFolderInformation
+' 目的： 
+' 生成一个字符串，来描述一个文件夹和所有文件及子文件夹的当前状态。
+' 示范下面的内容
+'  - Folder.Path
+'  - Folder.SubFolders
+'  - Folders.Count
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function GenerateAllFolderInformation(Folder)
+
+   Dim S
+   Dim SubFolders
+   Dim SubFolder
+   Dim Files
+   Dim File
+
+   S = "Folder:" & TabStop & Folder.Path & NewLine & NewLine
+   Set Files = Folder.Files
+
+   If 1 = Files.Count Then
+      S = S & "There is 1 file" & NewLine
+   Else
+      S = S & "There are " & Files.Count & " files" & NewLine
+   End If
+
+   If Files.Count <> 0 Then
+      For Each File In Files
+         S = S & GenerateFileInformation(File)
+      Next
+   End If
+
+   Set SubFolders = Folder.SubFolders
+
+   If 1 = SubFolders.Count Then
+      S = S & NewLine & "There is 1 sub folder" & NewLine & NewLine
+   Else
+      S = S & NewLine & "There are " & SubFolders.Count & " sub folders" _
+     & NewLine & NewLine
+   End If
+
+   If SubFolders.Count <> 0 Then
+      For Each SubFolder In SubFolders
+         S = S & GenerateFolderInformation(SubFolder)
+      Next
+      S = S & NewLine
+      For Each SubFolder In SubFolders
+         S = S & GenerateAllFolderInformation(SubFolder)
+      Next
+   End If
+
+   GenerateAllFolderInformation = S
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' GenerateTestInformation
+' 目的： 
+'    生成一个字符串，来描述 C:\Test 文件夹和所有文件及子文件夹的当前状态。
+' 示范下面的内容
+'  - FileSystemObject.DriveExists
+'  - FileSystemObject.FolderExists
+'  - FileSystemObject.GetFolder
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function GenerateTestInformation(FSO)
+
+   Dim TestFolder
+   Dim S
+
+   If Not FSO.DriveExists(TestDrive) Then Exit Function
+   If Not FSO.FolderExists(TestFilePath) Then Exit Function
+
+   Set TestFolder = FSO.GetFolder(TestFilePath)
+
+   GenerateTestInformation = GenerateAllFolderInformation(TestFolder) 
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' DeleteTestDirectory
+' 目的： 
+'    清理 test 目录。
+' 示范下面的内容
+'  - FileSystemObject.GetFolder
+'  - FileSystemObject.DeleteFile
+'  - FileSystemObject.DeleteFolder
+'  - Folder.Delete
+'  - File.Delete
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Sub DeleteTestDirectory(FSO)
+
+   Dim TestFolder
+   Dim SubFolder
+   Dim File
+   
+   ' 有两种方法可用来删除文件：
+
+   FSO.DeleteFile(TestFilePath & "\Beatles\OctopusGarden.txt")
+
+   Set File = FSO.GetFile(TestFilePath & "\Beatles\BathroomWindow.txt")
+   File.Delete   
+
+   ' 有两种方法可用来删除文件夹：
+   FSO.DeleteFolder(TestFilePath & "\Beatles")
+   FSO.DeleteFile(TestFilePath & "\ReadMe.txt")
+   Set TestFolder = FSO.GetFolder(TestFilePath)
+   TestFolder.Delete
+
+End Sub
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' CreateLyrics
+' 目的： 
+'    在文件夹中创建两个文本文件。
+' 示范下面的内容
+'  - FileSystemObject.CreateTextFile
+'  - TextStream.WriteLine
+'  - TextStream.Write
+'  - TextStream.WriteBlankLines
+'  - TextStream.Close
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Sub CreateLyrics(Folder)
+
+   Dim TextStream
+   
+   Set TextStream = Folder.CreateTextFile("OctopusGarden.txt")
+   
+   ' 请注意这不会将一行添加到文件中。
+   TextStream.Write("Octopus' Garden ") 
+   TextStream.WriteLine("(by Ringo Starr)")
+   TextStream.WriteBlankLines(1)
+   TextStream.WriteLine("I'd like to be under the sea in an octopus' garden in the shade,")
+   TextStream.WriteLine("He'd let us in, knows where we've been -- in his octopus' garden in the shade.")
+   TextStream.WriteBlankLines(2)
+   
+   TextStream.Close
+
+   Set TextStream = Folder.CreateTextFile("BathroomWindow.txt")
+   TextStream.WriteLine("She Came In Through The Bathroom Window (by Lennon/McCartney)")
+   TextStream.WriteLine("")
+   TextStream.WriteLine("She came in through the bathroom window protected by a silver spoon")
+   TextStream.WriteLine("But now she sucks her thumb and wanders by the banks of her own lagoon")
+   TextStream.WriteBlankLines(2)
+   TextStream.Close
+
+End Sub
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' GetLyrics
+' 目的： 
+'    显示 lyrics 文件的内容。
+' 示范下面的内容
+'  - FileSystemObject.OpenTextFile
+'  - FileSystemObject.GetFile
+'  - TextStream.ReadAll
+'  - TextStream.Close
+'  - File.OpenAsTextStream
+'  - TextStream.AtEndOfStream
+'  - TextStream.ReadLine
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function GetLyrics(FSO)
+
+   Dim TextStream
+   Dim S
+   Dim File
+
+   ' 有多种方法可用来打开一个文本文件，和多种方法来从文件读取数据。
+   ' 这儿用了两种方法来打开文件和读取文件：
+
+   Set TextStream = FSO.OpenTextFile(TestFilePath & "\Beatles\OctopusGarden.txt", OpenFileForReading)
+   
+   S = TextStream.ReadAll & NewLine & NewLine
+   TextStream.Close
+
+   Set File = FSO.GetFile(TestFilePath & "\Beatles\BathroomWindow.txt")
+   Set TextStream = File.OpenAsTextStream(OpenFileForReading)
+   Do    While Not TextStream.AtEndOfStream
+      S = S & TextStream.ReadLine & NewLine
+   Loop
+   TextStream.Close
+
+   GetLyrics = S
+   
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' BuildTestDirectory
+' 目的： 
+'    创建一个目录分层结构来示范 FileSystemObject。
+'    以这样的次序来创建分层结构：
+'       C:\Test
+'       C:\Test\ReadMe.txt
+'       C:\Test\Beatles
+'       C:\Test\Beatles\OctopusGarden.txt
+'       C:\Test\Beatles\BathroomWindow.txt
+' 示范下面的内容
+'  - FileSystemObject.DriveExists
+'  - FileSystemObject.FolderExists
+'  - FileSystemObject.CreateFolder
+'  - FileSystemObject.CreateTextFile
+'  - Folders.Add
+'  - Folder.CreateTextFile
+'  - TextStream.WriteLine
+'  - TextStream.Close
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Function BuildTestDirectory(FSO)
+
+   Dim TestFolder
+   Dim SubFolders
+   Dim SubFolder
+   Dim TextStream
+
+   ' 排除(a)驱动器不存在，
+   ' 或(b)要创建的目录已经存在的情况。
+
+   If Not FSO.DriveExists(TestDrive) Then
+      BuildTestDirectory = False
+      Exit Function
+   End If
+
+   If FSO.FolderExists(TestFilePath) Then
+      BuildTestDirectory = False
+      Exit Function
+   End If
+
+   Set TestFolder = FSO.CreateFolder(TestFilePath)
+
+   Set TextStream = FSO.CreateTextFile(TestFilePath & "\ReadMe.txt")
+   TextStream.WriteLine("My song lyrics collection")
+   TextStream.Close
+
+   Set SubFolders = TestFolder.SubFolders
+   Set SubFolder = SubFolders.Add("Beatles")
+   CreateLyrics SubFolder   
+   BuildTestDirectory = True
+
+End Function
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+' 主程序
+' 首先，它创建一个 test 目录，以及一些子文件夹和文件。
+' 然后，它转储有关可用磁盘驱动器和 test 目录的某些信息，
+' 最后，清除 test 目录及其所有内容。
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Sub Main
+
+   Dim FSO
+
+   ' 设立全局变量。
+   TabStop = Chr(9)
+   NewLine = Chr(10)
+   
+   Set FSO = CreateObject("Scripting.FileSystemObject")
+
+   If Not BuildTestDirectory(FSO) Then 
+      Print "Test directory already exists or cannot be created.   Cannot continue."
+      Exit Sub
+   End If
+
+   Print GenerateDriveInformation(FSO) & NewLine & NewLine
+   Print GenerateTestInformation(FSO) & NewLine & NewLine
+   Print GetLyrics(FSO) & NewLine & NewLine
+   DeleteTestDirectory(FSO)
+
+End Sub

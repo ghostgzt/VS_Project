@@ -1,0 +1,35 @@
+SHELL语句用法心得
+ 
+
+
+一. 调用系统“创建快捷方式”向导
+　　是否为VB不支持创建快捷方式而于着急呢？虽然您可以调用vb5stkit.dll中的fCreateShellLink函数，但它是为安装程序设计的，快捷方式的默认路径总是从当前用户的“\Start Menu\Programs”开始，也就是说，如果您的Windows95装在C盘上，您无法通过 fCreateShellLink 函数把快捷方式创建到D盘上去。
+　　现在，给大家介绍一种极为方便、巧妙的方法： 用Shell语句调用系统“创建快捷方式”向导。 
+　　新建一个项目，在窗体上放一个按钮，双击此按钮，加入以下代码： 
+
+Private Sub Command1_Click() 
+　　Open App.Path & "\temp.lnk" For Output As #1 
+　　Close #1 '以上两句在程序所在目录建立一个临时文件 
+　　Shell "Rundll32.exe AppWiz.Cpl，NewLinkHere "& App.Path & "\temp.lnk" 
+End Sub 
+
+　　（注意：Shell语句中NewLinkHere后面跟着一个空格才是引号，否则将出错。） 
+　　运行程序，按一下命令按钮，怎么样？“创建快捷方式”向导出现了，如果创建成功，快捷方式将取 代临时文件temp.lnk的位置，如果选取消，temp.lnk 也会自动消失。当然，您可以在硬盘的任意位置建立 temp.lnk。好，现在又可以为您的程序增添一项新功能了。Enjoy！ 
+
+二. Rundll32.exe的用途 
+　　我们知道，用Shell语句只能调用可执行文件，即 exe、com、bat 和 pif 文件，有时我们想要调用其他一 些系统功能该怎么办呢？此时，Windows提供的 Rundll32.exe可大显身手了。下面我们来认识一下这些用法，也许会给您带来一点惊喜。
+　　1．要打开设置系统时间的控制面板文件 (Timedate.cpl),只需运行如下代码：
+　　Shell "Rundll32.exe
+　　Shell32.dll,Control_RunDLL Timedate.cpl" 
+　　至于打开其他控制面板文件，相信您一定能够举一反三，尝试一下，换个文件名就成了。
+　　2．要运行某一快捷方式（*.lnk）则可以用以下代码：
+　　She11 "Rundll32.exe url.dll, FileProtocolHandler X" 
+　　(X代表要运行的文件，包括路径，下同。)
+　　3. 也可以这样写来打开ActiveMovie控制：
+　　Shell "RUNDLL32.EXE amovie.ocx，Rundll",1
+　　而用Shell "RUNDLL32.EXE amovie.ocx，Rundll /play X",1 将直接播放媒体文件。
+　　4. Shell "rundll32.exe desk.cpl，InstallScreenSaver X”当然是安装屏幕保护啦，如果你写了一个屏幕保护程序，那么可以在安装程序中写上它，而不一定要装到system目录下。顺便提一下，VB不是自捞一个“Application Setup Wizard”么？它的VB源代码都在安装目录下的 “\setupkit\setup1”中放着呢，好好把它研究一下。 你完全能做出富有个性的安装程序来。 
+　　5.按住shift键，右击某一文件，菜单中会出现 “打开方式”选项，这也许已不是什么秘密。但现在， 用shell "rundll32.exe shell32.dll OpenAs_RunDLL X" 便能直接调用“打开方式”框。 
+　　6. 甚至能用这样一句来打印文件(包括HTML所 支持的所有文本与图像格式): 
+　　Shell "rundll32.exe MSHTML.DLL，PrintHTML X”, 1 
+　　怎么样？是不是小有收获呢？这下，您一定会对 Rundll32.exe这个平时不起眼的文件另眼相待了，它可是系统运行必不可少的部件呢！其实 Shell＋Rundll32 还能调用其他许多系统功能，比如关于NetMeeting和Telnet方面的。如果您有兴趣，可以 到往册表的“我的电脑\HKEY_CLASSES_ROOT\”或“我的电脑\HKEY_LOCAL_MACHINE\Software\CLASSES”下 去看看，本文的内容大都是从那里“抄”来的。只要有足够的决心、信心、耐心，您一定能发现更多有价值的东西。Good luck!

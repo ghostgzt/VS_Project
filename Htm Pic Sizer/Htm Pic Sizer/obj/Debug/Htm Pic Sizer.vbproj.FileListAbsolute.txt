@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\bin\Debug\Htm Pic Sizer.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\bin\Debug\Htm Pic Sizer.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\bin\Debug\Htm Pic Sizer.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\Htm_Pic_Sizer.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\Htm_Pic_Sizer.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.pdb
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.exe
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.xml
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.pdb
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\bin\Debug\Htm Pic Sizer.exe
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\bin\Debug\Htm Pic Sizer.pdb
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\bin\Debug\Htm Pic Sizer.xml
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\Htm_Pic_Sizer.Resources.resources
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\Htm Pic Sizer.vbproj.GenerateResource.Cache
+f:\SKY\Htm Pic Sizer\Htm Pic Sizer\obj\Debug\Htm_Pic_Sizer.Skyer.resources

@@ -1,0 +1,6 @@
+var filename="C:/1.doc"
+var filepath="C:/1.doc.htm"
+var oWordApp=new ActiveXObject("Word.Application");
+var oDocument=oWordApp.Documents.Open( filename);
+      oDocument.SaveAs( filepath, 8);
+         oWordApp.Quit();

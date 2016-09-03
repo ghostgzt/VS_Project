@@ -1,0 +1,17 @@
+方案总数:3
+
+方案名称:STX安装
+查找:4{javax/microedition/lcdui/TextBox}{javax/microedition/lcdui/TextField}{javax/microedition/midlet/MIDlet|否}{javax/microedition/lcdui/Form}
+替换:4{kavax/microedition/lcdui/TextBok}{kavax/microedition/lcdui/TextFielk}{kavax/microedition/lcdui/MIDtxt}{kavax/microedition/lcdui/Fork}
+嵌入:1{/ST5Lite.zip}
+方案结束
+
+方案名称:去输入法
+查找:4{kavax/microedition/lcdui/TextBok}{kavax/microedition/lcdui/TextFielk}{kavax/microedition/lcdui/MIDtxt}{kavax/microedition/lcdui/Fork}
+替换:4{javax/microedition/lcdui/TextBox}{javax/microedition/lcdui/TextField}{javax/microedition/midlet/MIDlet|否}{javax/microedition/lcdui/Form}
+方案结束
+方案名称:替软制作
+定位:2{MIDlet-Name|[13]}{MIDlet-Vendor|[13]}
+插入:2{MIDlet-Name: 程序名}{MIDlet-Vendor: 供应商}
+引导:1{Nokia-MIDlet-no-exit: true}
+方案结束

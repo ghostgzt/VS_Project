@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\bin\Debug\Doc2Htm.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\bin\Debug\Doc2Htm.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\bin\Debug\Doc2Htm.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\Doc2Htm.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\Doc2Htm.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\Doc2Htm.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\Doc2Htm.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\Doc2Htm.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Doc2Htm\obj\Debug\Doc2Htm.pdb
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.exe
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.xml
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.pdb
+F:\SKY\Doc2Htm\bin\Debug\Doc2Htm.exe
+F:\SKY\Doc2Htm\bin\Debug\Doc2Htm.pdb
+F:\SKY\Doc2Htm\bin\Debug\Doc2Htm.xml
+F:\SKY\Doc2Htm\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.DH.resources
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.Resources.resources
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.vbproj.GenerateResource.Cache
+F:\SKY\Doc2Htm\bin\Debug\TLQ.dll
+F:\SKY\Doc2Htm\bin\Debug\TLQ.pdb
+F:\SKY\Doc2Htm\bin\Debug\TLQ.xml
+F:\SKY\Doc2Htm\bin\Debug\Doc2Htm.exe.manifest
+F:\SKY\Doc2Htm\bin\Debug\Doc2Htm.application
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.TrustInfo.xml
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.exe.manifest
+F:\SKY\Doc2Htm\obj\Debug\Doc2Htm.application

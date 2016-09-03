@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Applications\sjboy.exe]
+
+[HKEY_CLASSES_ROOT\Applications\sjboy.exe\shell]
+
+[HKEY_CLASSES_ROOT\Applications\sjboy.exe\shell\open]
+
+[HKEY_CLASSES_ROOT\Applications\sjboy.exe\shell\open\command]
+@="\"F:\\¼¯ºÏ\\My\\sjboy or Game\\sjboy\\sjboy.exe\" \"%1\""
+

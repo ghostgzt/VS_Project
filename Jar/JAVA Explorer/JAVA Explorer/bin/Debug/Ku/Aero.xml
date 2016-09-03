@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aero>
+    <Tile>M-Games</Tile>
+    <Pic></Pic>
+    <Height>561</Height>
+    <X>703</X>
+    <Y>27</Y>
+    <Op>1</Op>
+    <TS>-8388480</TS>
+    <BJ></BJ>
+    <TB>48*48</TB>
+    <ZT></ZT>
+    <MZ></MZ>
+    <ZJ>0</ZJ>
+    <TM>1</TM>
+    <GD>1</GD>
+    <FN>Monotype Corsiva</FN>
+    <FS>10</FS>
+    <FB>False</FB>
+    <FI>True</FI>
+    <FO>False</FO>
+    <FU>False</FU>
+    <FC>Black</FC>
+</Aero>

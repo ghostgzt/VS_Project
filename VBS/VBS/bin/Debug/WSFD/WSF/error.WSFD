@@ -1,0 +1,15 @@
+<package>
+<job id="DoneInVBS">
+<?job debug="true"?>
+<script language="VBScript">
+WScript.Echo "This is VBScript"
+</script>
+</job>
+
+<job id="DoneInJS">
+<?job debug="true"?>
+<script language="JScript">
+WScript.Echo("This is JScript"); 
+</script>
+</job>
+</package>

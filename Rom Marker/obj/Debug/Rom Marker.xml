@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RomMarker
+</name>
+</assembly>
+<members>
+<member name="P:Rom_Marker.My.Resources.Resources.ResourceManager">
+	<summary>
+  返回此类使用的缓存 ResourceManager 实例。
+</summary>
+</member><member name="P:Rom_Marker.My.Resources.Resources.Culture">
+	<summary>
+  为使用此强类型资源类的所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member><member name="P:Rom_Marker.My.Resources.Resources.A">
+	<summary>
+  查找类似 [Autorun]
+Open={RunFilePath}
+Icon={IconFilePath},{IconNum}
+Label={Label} 的本地化字符串。
+</summary>
+</member><member name="P:Rom_Marker.My.Resources.Resources.D">
+	<summary>
+  查找类似 [.ShellClassInfo]
+InfoTip={InfoTip}
+IconFile={IconFilePath}
+IconIndex={IconIndex}
+[ExtShellFolderViews]
+{BE098140-A513-11D0-A3A4-00C04FD706EC}={BE098140-A513-11D0-A3A4-00C04FD706EC}
+[{BE098140-A513-11D0-A3A4-00C04FD706EC}]
+Attributes=1
+IconArea_Image={JpgFilePath}
+[.ShellClassInfo]
+ConfirmFileOp=0 的本地化字符串。
+</summary>
+</member><member name="P:Rom_Marker.My.Resources.Resources.X">
+	<summary>
+  查找类似 [ExtShellFolderViews]
+{BE098140-A513-11D0-A3A4-00C04FD706EC}={BE098140-A513-11D0-A3A4-00C04FD706EC}
+[{BE098140-A513-11D0-A3A4-00C04FD706EC}]
+Attributes=1
+IconArea_Image={JpgFilePath}
+[.ShellClassInfo]
+ConfirmFileOp=0 的本地化字符串。
+</summary>
+</member><member name="T:Rom_Marker.My.Resources.Resources">
+	<summary>
+  强类型资源类，用于查找本地化字符串等。
+</summary>
+</member>
+</members>
+</doc>

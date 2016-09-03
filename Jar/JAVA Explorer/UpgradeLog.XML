@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JAVA Explorer">
+</Property><Property Name="解决方案文件" Value="F:\Share\SKY\Jar\JAVA Explorer\JAVA Explorer.sln">
+</Property><Property Name="用户选项文件" Value="F:\Share\SKY\Jar\JAVA Explorer\JAVA Explorer.suo">
+</Property><Property Name="Date" Value="2012年1月19日">
+</Property><Property Name="Time" Value="1:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="JAVA Explorer.sln" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="JAVA Explorer.suo" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer.suo">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\JAVA Explorer.vbproj" Description="项目文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\JAVA Explorer.vbproj">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\JAVA Explorer.vbproj.user" Description="项目用户文件成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\JAVA Explorer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\18yo.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\18yo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\18yo.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\18yo.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\AboutMe.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\AboutMe.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\AboutMe.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\AboutMe.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\KZTZZ.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\KZTZZ.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\KZTZZ.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\KZTZZ.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\Ku.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\Ku.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\Ku.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\Ku.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\GN.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\GN.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\JE.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\JE.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\JE.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\JE.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\AssemblyInfo.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\Application.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\Resources.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\Settings.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\RunSet.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\RunSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\RunSet.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\RunSet.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\Settings.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\Settings.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\SplashScreen.Designer.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\SplashScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\SplashScreen.vb" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\SplashScreen.vb">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\app.config" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\app.config">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\app.manifest" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\Application.myapp" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\Settings.settings" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\Java Explorer.snk" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\Java Explorer.snk">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\Resources\UC小松鼠.gif" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\Resources\UC小松鼠.gif">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My-Documents.ico" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My-Documents.ico">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\18yo.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\18yo.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\AboutMe.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\AboutMe.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\KZTZZ.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\KZTZZ.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\Ku.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\Ku.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\JE.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\JE.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\My Project\Resources.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\RunSet.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\RunSet.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\SplashScreen.resx" Description="文件已成功备份为 F:\Share\SKY\Jar\JAVA Explorer\Backup\JAVA Explorer\SplashScreen.resx">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\JAVA Explorer.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="JAVA Explorer" Source="JAVA Explorer\JAVA Explorer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="JAVA Explorer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="JAVA Explorer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JAVA Explorer" Source="JAVA Explorer\app.config" Description="文件已成功转换。所有的 &lt;supportedRuntime&gt; 和 &lt;requiredRuntime&gt; 标记都已移除，以使项目能够用 Visual Studio 2005 生成并运行。">
+</Event><Event ErrorLevel="3" Project="JAVA Explorer" Source="JAVA Explorer\app.config" Description="Converted">
+</Event></UpgradeLog>

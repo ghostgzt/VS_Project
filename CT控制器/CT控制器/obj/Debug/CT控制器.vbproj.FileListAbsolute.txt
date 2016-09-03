@@ -1,0 +1,10 @@
+F:\SKY\CT控制器\CT控制器\bin\Debug\CT控制器.exe
+F:\SKY\CT控制器\CT控制器\bin\Debug\CT控制器.pdb
+F:\SKY\CT控制器\CT控制器\bin\Debug\CT控制器.xml
+F:\SKY\CT控制器\CT控制器\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\CT控制器\CT控制器\obj\Debug\CT控制器.CTKZ.resources
+F:\SKY\CT控制器\CT控制器\obj\Debug\CT控制器.Resources.resources
+F:\SKY\CT控制器\CT控制器\obj\Debug\CT控制器.vbproj.GenerateResource.Cache
+F:\SKY\CT控制器\CT控制器\obj\Debug\CT控制器.exe
+F:\SKY\CT控制器\CT控制器\obj\Debug\CT控制器.xml
+F:\SKY\CT控制器\CT控制器\obj\Debug\CT控制器.pdb

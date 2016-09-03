@@ -1,0 +1,75 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\bin\Debug\Html Maker.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\bin\Debug\Html Maker.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\bin\Debug\Html Maker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html_Maker.AddPic.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html_Maker.AddText.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html_Maker.Main.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html_Maker.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html Maker.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html Maker.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html Maker.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Html Maker\obj\Debug\Html Maker.pdb
+E:\F\SKY\Html Maker\obj\Debug\Html Maker.exe
+E:\F\SKY\Html Maker\obj\Debug\Html Maker.xml
+E:\F\SKY\Html Maker\obj\Debug\Html Maker.pdb
+E:\F\SKY\Html Maker\bin\Debug\Html Maker.exe
+E:\F\SKY\Html Maker\bin\Debug\Html Maker.pdb
+E:\F\SKY\Html Maker\bin\Debug\Html Maker.xml
+E:\F\SKY\Html Maker\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.AddPic.resources
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.AddText.resources
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.LJ.resources
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.Main.resources
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.Resources.resources
+E:\F\SKY\Html Maker\obj\Debug\Html Maker.vbproj.GenerateResource.Cache
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.ATA.resources
+E:\F\SKY\Html Maker\obj\Debug\Html_Maker.BJ.resources
+F:\SKY\Html Maker\obj\Debug\Html Maker.exe
+F:\SKY\Html Maker\obj\Debug\Html Maker.xml
+F:\SKY\Html Maker\obj\Debug\Html Maker.pdb
+F:\SKY\Html Maker\bin\Debug\Html Maker.exe
+F:\SKY\Html Maker\bin\Debug\Html Maker.pdb
+F:\SKY\Html Maker\bin\Debug\Html Maker.xml
+F:\SKY\Html Maker\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Html Maker\obj\Debug\Html_Maker.AddPic.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.AddText.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.ATA.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.BJ.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.LJ.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.Main.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.Resources.resources
+F:\SKY\Html Maker\obj\Debug\Html Maker.vbproj.GenerateResource.Cache
+F:\SKY\Html Maker\obj\Debug\Html_Maker.SplashScreen1.resources
+F:\SKY\Html Maker\obj\Debug\Html_Maker.AboutBox1.resources
+F:\SKY\Html Maker\bin\Debug\Html Maker.exe.manifest
+F:\SKY\Html Maker\bin\Debug\Html Maker.application
+F:\SKY\Html Maker\obj\Debug\Html Maker.TrustInfo.xml
+F:\SKY\Html Maker\obj\Debug\Html Maker.exe.manifest
+F:\SKY\Html Maker\obj\Debug\Html Maker.application
+F:\Share\SKY\Html Maker\obj\Debug\Html Maker.exe
+F:\Share\SKY\Html Maker\obj\Debug\Html Maker.xml
+F:\Share\SKY\Html Maker\obj\Debug\Html Maker.pdb
+F:\Share\SKY\Html Maker\bin\Debug\Html Maker.exe.manifest
+F:\Share\SKY\Html Maker\bin\Debug\Html Maker.application
+F:\Share\SKY\Html Maker\bin\Debug\Html Maker.exe
+F:\Share\SKY\Html Maker\bin\Debug\Html Maker.pdb
+F:\Share\SKY\Html Maker\bin\Debug\Html Maker.xml
+F:\Share\SKY\Html Maker\obj\Debug\ResolveAssemblyReference.cache
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.AboutBox1.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.AddPic.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.AddText.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.ATA.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.BJ.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.LJ.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.Main.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.Resources.resources
+F:\Share\SKY\Html Maker\obj\Debug\Html_Maker.SplashScreen1.resources
+F:\Share\SKY\Html Maker\obj\Debug\GenerateResource.read.1.tlog
+F:\Share\SKY\Html Maker\obj\Debug\GenerateResource.write.1.tlog
+F:\Share\SKY\Html Maker\obj\Debug\Html Maker.TrustInfo.xml
+F:\Share\SKY\Html Maker\obj\Debug\Html Maker.exe.manifest
+F:\Share\SKY\Html Maker\obj\Debug\Html Maker.application
+F:\Share\SKY\Html Maker\bin\Debug\Html Maker.exe.config
+F:\Share\SKY\Html Maker\obj\Debug\ResGen.read.1.tlog
+F:\Share\SKY\Html Maker\obj\Debug\ResGen.write.1.tlog

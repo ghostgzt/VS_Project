@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\bin\Debug\VBS.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\bin\Debug\VBS.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\bin\Debug\VBS.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\VBS.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\VBS.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\VBS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\VBS.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\VBS.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\VBS\obj\Debug\VBS.pdb
+f:\SKY\VBS\VBS\obj\Debug\ResolveAssemblyReference.cache
+f:\SKY\VBS\VBS\obj\Debug\VBS.vbproj.GenerateResource.Cache
+E:\F\SKY\VBS\VBS\bin\Debug\VBS.exe.config
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.xml
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.pdb
+E:\F\SKY\VBS\VBS\bin\Debug\VBS.exe
+E:\F\SKY\VBS\VBS\bin\Debug\VBS.pdb
+E:\F\SKY\VBS\VBS\bin\Debug\VBS.xml
+E:\F\SKY\VBS\VBS\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.AboutBox1.resources
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.Ad.resources
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.VBS.resources
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.Resources.resources
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.vbproj.GenerateResource.Cache
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.exe
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.VBSD.resources
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.TH.resources
+E:\F\SKY\VBS\VBS\obj\Debug\VBS.SplashScreen1.resources
+F:\SKY\VBS\VBS\bin\Debug\Script.exe.config
+F:\SKY\VBS\VBS\bin\Debug\Script.exe
+F:\SKY\VBS\VBS\bin\Debug\Script.pdb
+F:\SKY\VBS\VBS\bin\Debug\Script.xml
+F:\SKY\VBS\VBS\obj\Debug\Script.AboutBox1.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.Ad.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.SplashScreen1.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.TH.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.VBS.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.Resources.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.VBSD.resources
+F:\SKY\VBS\VBS\obj\Debug\Script.exe
+F:\SKY\VBS\VBS\obj\Debug\Script.xml
+F:\SKY\VBS\VBS\obj\Debug\Script.pdb

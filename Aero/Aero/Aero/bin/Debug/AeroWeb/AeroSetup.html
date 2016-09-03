@@ -1,0 +1,265 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="generator" content="Aero Studio 2007">
+<META name="date" content="29 Aug. 2008 06:05:18 GMT">
+<title>AeroUI Web Preview</title>
+
+<style type="text/css">
+
+#Wallpaper {
+    background: url('./AeroSetup_Images/wallpaper.png');
+    background-repeat: no-repeat;
+    background-position: left top;
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#Button_0 a{
+    position: absolute;
+    top: 153px;
+    left: 236px;
+
+    width: 187px;
+    background: url('./AeroSetup_Images/BtnNormal_0.png');
+    background-repeat: no-repeat;
+    height: 28px;
+    overflow: hidden;
+}
+
+#Button_0 a:hover{
+    background: url('./AeroSetup_Images/BtnHover_0.png');
+}
+
+#Button_1 a{
+    position: absolute;
+    top: 455px;
+    left: 501px;
+
+    width: 187px;
+    background: url('./AeroSetup_Images/BtnNormal_1.png');
+    background-repeat: no-repeat;
+    height: 28px;
+    overflow: hidden;
+}
+
+#Button_1 a:hover{
+    background: url('./AeroSetup_Images/BtnHover_1.png');
+}
+
+#Picture_2 a{
+    position: absolute;
+    top: 18px;
+    left: 41px;
+
+    width: 100px;
+    background: url('./AeroSetup_Images/PicureCtrl_2.png');
+    background-repeat: no-repeat;
+    height: 99px;
+    overflow: hidden;
+}
+
+#Picture_2 a:hover{
+    background: url('./AeroSetup_Images/PicureCtrlHov_2.png');
+}
+
+#Picture_3 a{
+    position: absolute;
+    top: 10px;
+    left: 660px;
+
+    width: 99px;
+    background: url('./AeroSetup_Images/PicureCtrl_3.png');
+    background-repeat: no-repeat;
+    height: 95px;
+    overflow: hidden;
+}
+
+#Picture_3 a:hover{
+    background: url('./AeroSetup_Images/PicureCtrlHov_3.png');
+}
+
+#Picture_4 a{
+    position: absolute;
+    top: 46px;
+    left: 274px;
+
+    width: 293px;
+    background: url('./AeroSetup_Images/PicureCtrl_4.png');
+    background-repeat: no-repeat;
+    height: 72px;
+    overflow: hidden;
+}
+
+#Picture_4 a:hover{
+    background: url('./AeroSetup_Images/PicureCtrlHov_4.png');
+}
+
+#Button_5 a{
+    position: absolute;
+    top: 549px;
+    left: 44px;
+
+    width: 59px;
+    background: url('./AeroSetup_Images/BtnNormal_5.png');
+    background-repeat: no-repeat;
+    height: 26px;
+    overflow: hidden;
+}
+
+#Button_5 a:hover{
+    background: url('./AeroSetup_Images/BtnHover_5.png');
+}
+
+#Button_6 a{
+    position: absolute;
+    top: 549px;
+    left: 102px;
+
+    width: 59px;
+    background: url('./AeroSetup_Images/BtnNormal_6.png');
+    background-repeat: no-repeat;
+    height: 26px;
+    overflow: hidden;
+}
+
+#Button_6 a:hover{
+    background: url('./AeroSetup_Images/BtnHover_6.png');
+}
+
+#Picture_7 a{
+    position: absolute;
+    top: 290px;
+    left: 51px;
+
+    width: 78px;
+    background: url('./AeroSetup_Images/PicureCtrl_7.png');
+    background-repeat: no-repeat;
+    height: 80px;
+    overflow: hidden;
+}
+
+#Picture_7 a:hover{
+    background: url('./AeroSetup_Images/PicureCtrlHov_7.png');
+}
+
+#Picture_8 a{
+    position: absolute;
+    top: 381px;
+    left: 376px;
+
+    width: 90px;
+    background: url('./AeroSetup_Images/PicureCtrl_8.png');
+    background-repeat: no-repeat;
+    height: 93px;
+    overflow: hidden;
+}
+
+#Picture_8 a:hover{
+    background: url('./AeroSetup_Images/PicureCtrlHov_8.png');
+}
+
+#Picture_12 a{
+    position: absolute;
+    top: 270px;
+    left: 684px;
+
+    width: 98px;
+    background: url('./AeroSetup_Images/PicureCtrl_12.png');
+    background-repeat: no-repeat;
+    height: 91px;
+    overflow: hidden;
+}
+
+#Picture_12 a:hover{
+    background: url('./AeroSetup_Images/PicureCtrlHov_12.png');
+}
+
+#ProgressTrack 
+{	background: url('./AeroSetup_Images/ProgressTrack.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 20px;
+	width: 433px;
+	position: absolute;
+	top: 553px;
+	left: 312px;
+}
+
+#ProgressChunk 
+{	background: url('./AeroSetup_Images/ProgressChunk.png');
+	background-position: left top;
+	height: 14px;
+	width: 100px;
+	position: absolute;
+	overflow: hidden;
+	top: 556px;
+	left: 315px;
+}
+
+#Button_14 a{
+    position: absolute;
+    top: 429px;
+    left: 85px;
+
+    width: 187px;
+    background: url('./AeroSetup_Images/BtnNormal_14.png');
+    background-repeat: no-repeat;
+    height: 28px;
+    overflow: hidden;
+}
+
+#Button_14 a:hover{
+    background: url('./AeroSetup_Images/BtnHover_14.png');
+}
+
+</style>
+<script language="JavaScript">
+	var t_id = setInterval(animate,200);
+	var width =0;
+	function animate()
+	{			
+		var elem = document.getElementById('ProgressChunk');
+		if(elem != null) {
+		width += 10;
+		if (width> 423) 
+			stop_timeout();
+			elem.style.width = width;
+	}
+}
+
+	function stop_timeout() {
+		this.clearInterval(t_id);
+		var targelem = document.getElementById('ProgressChunk');
+		targelem.style.display='none';
+		targelem.style.visibility='hidden';
+		
+		var targelem = document.getElementById('ProgressTrack');
+		targelem.style.display='none';
+		targelem.style.visibility='hidden';		
+}
+</script>
+
+</head><body>
+
+
+<!-- Wallpaper -->
+<div id="Wallpaper" OnMouseOver="stop_timeout();"> </div>
+<div id="Button_0"><a href="#" onClick=alert("run&nbsp;(hd0,0)/airboot/ghost.ima\n") title="Ghost11[c]"></a></div>
+<div id="Button_1"><a href="#" onClick=alert("run&nbsp;(hd0,0)/airboot/kv2005.img") title="江民杀毒2005"></a></div>
+<div id="Picture_2"><a href="#" onClick=alert("run&nbsp;(hd0,0)/avldr.ms\n") title="Windows XP"></a></div>
+<div id="Picture_3"><a href="#" onClick=alert("root&nbsp;(hd0,0)chainloader&nbsp;+1") title="返回Vista启动项"></a></div>
+<div id="Picture_4"><a href="#" onClick=alert("run&nbsp;(hd0,0)/mtldr.pe") title="WinPE"></a></div>
+<div id="Button_5"><a href="#" onClick=alert("halt") title="关机[h]"></a></div>
+<div id="Button_6"><a href="#" onClick=alert("reboot") title="重启"></a></div>
+<div id="Picture_7"><a href="#" onClick=alert("run&nbsp;(hd0,0)/airboot/pm805t.img") title="PQ8.5"></a></div>
+<div id="Picture_8"><a href="#" onClick=alert("run&nbsp;(hd0,0)/airboot/password.img") title="System Password"></a></div>
+<div id="Picture_12"><a href="#" onClick=alert("commandline\n") title="转入命令行模式"></a></div>
+<!--ProgressBar-->
+<div id="ProgressTrack"> </div>
+
+<div id="ProgressChunk"> </div>
+<div id="Button_14"><a href="#" onClick=alert("run&nbsp;(hd0,0)/airboot/dostool.img\n") title="Dos工具[h]"></a></div>
+</body></html>

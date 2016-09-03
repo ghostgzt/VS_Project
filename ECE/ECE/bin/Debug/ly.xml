@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aero>
+    <Tile>MP3</Tile>
+    <FileNum>365</FileNum>
+    <Files>
+        <File><Num>1</Num><Path>Absolutely.</Path><Size>(用于答话)当然是。</Size></File>
+        <File><Num>2</Num><Path>Absolutely impossible.</Path><Size>绝对不可能！</Size></File>
+        <File><Num>3</Num><Path>All I have to do is learn English.</Path><Size>我所要做的就是学英语。</Size></File>
+        <File><Num>4</Num><Path>Are you free tomorrow?</Path><Size>你明天有空吗？</Size></File>
+        <File><Num>5</Num><Path>Are you married?</Path><Size>你结婚了吗？</Size></File>
+        <File><Num>6</Num><Path>Are you used to the food here?</Path><Size>你习惯吃这儿的饭菜吗？</Size></File>
+        <File><Num>7</Num><Path>Be careful.</Path><Size>小心／注意。</Size></File>
+        <File><Num>8</Num><Path>Be my guest.</Path><Size>请便/别客气。</Size></File>
+        <File><Num>9</Num><Path>Better late than never.</Path><Size>迟到总比不到好。</Size></File>
+        <File><Num>10</Num><Path>Better luck next time</Path><Size>祝你下一次好运。</Size></File>
+        <File><Num>11</Num><Path>Better safe than sorry.</Path><Size>小心不出大错。</Size></File>
+        <File><Num>12</Num><Path>Can I have a day off?</Path><Size>我能请一天假吗？</Size></File>
+        <File><Num>13</Num><Path>Can I help?</Path><Size>要我帮忙吗？</Size></File>
+        <File><Num>14</Num><Path>Can I take a message?</Path><Size>要我传话吗？</Size></File>
+        <File><Num>15</Num><Path>Can I take a rain check?</Path><Size>你能改天再请我吗？</Size></File>
+        <File><Num>16</Num><Path>Can I take your order?</Path><Size>您要点菜吗？</Size></File>
+        <File><Num>17</Num><Path>Can you give me a wake-up call?</Path><Size>你能打电话叫醒我吗？</Size></File>
+        <File><Num>18</Num><Path>Can you give me some feedback?</Path><Size>你能给我一些建议吗？</Size></File>
+        <File><Num>19</Num><Path>Can you make it?</Path><Size>你能来吗？</Size></File>
+        <File><Num>20</Num><Path>Can I have a word with you?</Path><Size>我能跟你谈一谈吗？</Size></File>
+        <File><Num>21</Num><Path>Cath me later.</Path><Size>过会儿再来找我。</Size></File>
+        <File><Num>22</Num><Path>Cheer up!</Path><Size>高兴起来！振作起来！</Size></File>
+        <File><Num>23</Num><Path>Come in and make yourself at home.</Path><Size>请进，别客气。</Size></File>
+        <File><Num>24</Num><Path>Could I have the bill,please?</Path><Size>请把账单给我好吗？</Size></File>
+        <File><Num>25</Num><Path>Could you drop me off at the airport?</Path><Size>你能载我到飞机场吗？</Size></File>
+        <File><Num>26</Num><Path>Could you speak slower?</Path><Size>你能说得慢一点吗？</Size></File>
+        <File><Num>27</Num><Path>Could you take a picture for me?</Path><Size>你能帮我拍照吗？</Size></File>
+        <File><Num>28</Num><Path>Did you enjoy your flight?</Path><Size>你的飞行旅途愉快吗？</Size></File>
+        <File><Num>29</Num><Path>Did you have a good day today?</Path><Size>你今天过得好吗？</Size></File>
+        <File><Num>30</Num><Path>Did you have a nice holiday?</Path><Size>你假期过得愉快吗？</Size></File>
+        <File><Num>31</Num><Path>Did you have fun?</Path><Size>你玩得开心吗？</Size></File>
+        <File><Num>32</Num><Path>Dinner is on me.</Path><Size>晚饭我请客。</Size></File>
+        <File><Num>33</Num><Path>Do you have a room available?</Path><Size>你们有空房间吗？</Size></File>
+        <File><Num>34</Num><Path>Do you have any hobbies?</Path><Size>你有什么爱好？</Size></File>
+        <File><Num>35</Num><Path>Do you have some change?</Path><Size>你有零钱吗？</Size></File>
+        <File><Num>36</Num><Path>Do you mind my smoking?</Path><Size>你介意我抽烟吗？</Size></File>
+        <File><Num>37</Num><Path>Do you often work out?</Path><Size>你经常锻炼身体吗？</Size></File>
+        <File><Num>38</Num><Path>Do you speak English?</Path><Size>你会说英语吗?</Size></File>
+        <File><Num>39</Num><Path>Don't be so modest.</Path><Size>别这么谦虚。</Size></File>
+        <File><Num>40</Num><Path>Don't bother.</Path><Size>不用麻烦了。</Size></File>
+        <File><Num>41</Num><Path>Don't get me wrong.</Path><Size>别误会我。</Size></File>
+        <File><Num>42</Num><Path>Don't give up.</Path><Size>别放弃。</Size></File>
+        <File><Num>43</Num><Path>Don't jump to conclusions.</Path><Size>不要急于下结论。</Size></File>
+        <File><Num>44</Num><Path>Don't let me down.</Path><Size>别让我失望。</Size></File>
+        <File><Num>45</Num><Path>Don't make any mistakes.</Path><Size>别出差错。</Size></File>
+        <File><Num>46</Num><Path>Don't mention it.</Path><Size>不必客气。</Size></File>
+        <File><Num>47</Num><Path>Don't miss the boat.</Path><Size>不要坐失良机。</Size></File>
+        <File><Num>48</Num><Path>Don't take any chances.</Path><Size>不要心存侥幸。</Size></File>
+        <File><Num>49</Num><Path>Don't take it for granted.</Path><Size>不要想当然。</Size></File>
+        <File><Num>50</Num><Path>Don't worry about it</Path><Size>别担心。</Size></File>
+        <File><Num>51</Num><Path>Easy come,easy go.</Path><Size>来得容易，去得快。</Size></File>
+        <File><Num>52</Num><Path>Enjoy your meal</Path><Size>请慢慢享用吧</Size></File>
+        <File><Num>53</Num><Path>Easier said than done.</Path><Size>说是容易做时难。</Size></File>
+        <File><Num>54</Num><Path>First come,first served.</Path><Size>捷足先登</Size></File>
+        <File><Num>55</Num><Path>For here or to go?</Path><Size>再这儿吃还是带走？</Size></File>
+        <File><Num>56</Num><Path>Forget it.</Path><Size>算了吧。</Size></File>
+        <File><Num>57</Num><Path>Forgive me.</Path><Size>请原谅我。</Size></File>
+        <File><Num>58</Num><Path>Give me a call.</Path><Size>给我打电话。</Size></File>
+        <File><Num>59</Num><Path>Give my best to your family.</Path><Size>代我向你们全家问好。</Size></File>
+        <File><Num>60</Num><Path>Have him return my call.</Path><Size>让他给我回电话。</Size></File>
+        <File><Num>61</Num><Path>Have you ever been to Japan?</Path><Size>你去过日本吗？</Size></File>
+        <File><Num>62</Num><Path>Have you finished yet?</Path><Size>你做完了吗？</Size></File>
+        <File><Num>63</Num><Path>Have you got anything larger?</Path><Size>有大一点儿的吗？</Size></File>
+        <File><Num>64</Num><Path>Have you got that?</Path><Size>你明白我的意思吗？</Size></File>
+        <File><Num>65</Num><Path>Have you heard from Mary?</Path><Size>你收到玛丽的来信吗？</Size></File>
+        <File><Num>66</Num><Path>He is in conference.</Path><Size>他正在开会。</Size></File>
+        <File><Num>67</Num><Path>Help yourself,please.</Path><Size>请自己用。</Size></File>
+        <File><Num>68</Num><Path>Hold your horses.</Path><Size>耐心点儿。</Size></File>
+        <File><Num>69</Num><Path>How can I get in touch with you?</Path><Size>我怎样能跟你联络上？</Size></File>
+        <File><Num>70</Num><Path>How do I look?</Path><Size>我看上去怎么样？</Size></File>
+        <File><Num>71</Num><Path>How is it going?</Path><Size>情况怎么样？</Size></File>
+        <File><Num>72</Num><Path>How late are you open?</Path><Size>你们营业到几点？</Size></File>
+        <File><Num>73</Num><Path>How long did it last?</Path><Size>持续了多久？</Size></File>
+        <File><Num>74</Num><Path>How long will it take me to get there?</Path><Size>到那儿要多长时间？</Size></File>
+        <File><Num>75</Num><Path>How much is it?</Path><Size>多少钱？</Size></File>
+        <File><Num>76</Num><Path>How often do you eat out?</Path><Size>你隔多久在外面吃一次饭？</Size></File>
+        <File><Num>77</Num><Path>I apologize.</Path><Size>我很抱歉。</Size></File>
+        <File><Num>78</Num><Path>I appreciate your invitation.</Path><Size>感谢你的邀请。</Size></File>
+        <File><Num>79</Num><Path>I assure you.</Path><Size>我向你保证。</Size></File>
+        <File><Num>80</Num><Path>I bet you can.</Path><Size>我确信你能做到。</Size></File>
+        <File><Num>81</Num><Path>I can manage.</Path><Size>我自己可以应付。</Size></File>
+        <File><Num>82</Num><Path>I can't afford it.</Path><Size>我买不起。</Size></File>
+        <File><Num>83</Num><Path>I can't believe it.</Path><Size>我简直不敢相信。</Size></File>
+        <File><Num>84</Num><Path>I can't resist the temptation.</Path><Size>我不能抵挡诱惑。</Size></File>
+        <File><Num>85</Num><Path>I can't stand it.</Path><Size>我受不了。</Size></File>
+        <File><Num>86</Num><Path>I can't tell.</Path><Size>我说不准。</Size></File>
+        <File><Num>87</Num><Path>I couldn't agree more</Path><Size>我完全同意。</Size></File>
+        <File><Num>88</Num><Path>I couldn't get through.</Path><Size>我打不通电话。</Size></File>
+        <File><Num>89</Num><Path>I couldn't help it.</Path><Size>我没有办法。</Size></File>
+        <File><Num>90</Num><Path>I didn't mean to.</Path><Size>我不是故意的。</Size></File>
+        <File><Num>91</Num><Path>I don't know for sure.</Path><Size>我不能肯定。</Size></File>
+        <File><Num>92</Num><Path>I enjoy your company.</Path><Size>我喜欢有你做伴。</Size></File>
+        <File><Num>93</Num><Path>I enjoyed it very much.</Path><Size>我非常喜欢。</Size></File>
+        <File><Num>94</Num><Path>I envy you.</Path><Size>我羡慕你。</Size></File>
+        <File><Num>95</Num><Path>I feel like having some dumplings.</Path><Size>我很想吃饺子。</Size></File>
+        <File><Num>96</Num><Path>I feel terrible about it.</Path><Size>太对不起了。</Size></File>
+        <File><Num>97</Num><Path>I feel the same way.</Path><Size>我也有同感。</Size></File>
+        <File><Num>98</Num><Path>I have a complaint.</Path><Size>我要投诉。</Size></File>
+        <File><Num>99</Num><Path>I have nothing to do with it.</Path><Size>那与我无关。</Size></File>
+        <File><Num>100</Num><Path>I haven't the slightest idea.</Path><Size>我一点儿都不知道。</Size></File>
+        <File><Num>101</Num><Path>I hope you'll forgive me.</Path><Size>我希望你能原谅我。</Size></File>
+        <File><Num>102</Num><Path>I know the feeling.</Path><Size>我知道那种感觉。</Size></File>
+        <File><Num>103</Num><Path>I mean what I say.</Path><Size>我说话算数。</Size></File>
+        <File><Num>104</Num><Path>I owe you one.</Path><Size>我欠你一个人情。</Size></File>
+        <File><Num>105</Num><Path>I really regret it.</Path><Size>我真的非常后悔。</Size></File>
+        <File><Num>106</Num><Path>I suppose so.</Path><Size>我想是这样。</Size></File>
+        <File><Num>107</Num><Path>I thought so, too.</Path><Size>我也这样以为。</Size></File>
+        <File><Num>108</Num><Path>I understand completely.</Path><Size>我完全明白。</Size></File>
+        <File><Num>109</Num><Path>I want to report a theft.</Path><Size>我要报一宗盗窃案。</Size></File>
+        <File><Num>110</Num><Path>I want to reserve a room.</Path><Size>我想预定一个房间。</Size></File>
+        <File><Num>111</Num><Path>I was just about to call you.</Path><Size>我正准备打电话给你。</Size></File>
+        <File><Num>112</Num><Path>I was moved.= I was touched.</Path><Size>我很受感动。</Size></File>
+        <File><Num>113</Num><Path>I wasn't aware of that.</Path><Size>我没有意识到。</Size></File>
+        <File><Num>114</Num><Path>I wasn't born yesterday.</Path><Size>我又不是三岁小孩。</Size></File>
+        <File><Num>115</Num><Path>I wish I could.</Path><Size>但愿我能。</Size></File>
+        <File><Num>116</Num><Path>I wouldn't worry about it, if I were you.</Path><Size>如果我是你，我就不会担心。</Size></File>
+        <File><Num>117</Num><Path>I'd like a refund.</Path><Size>我想要退款。</Size></File>
+        <File><Num>118</Num><Path>I'd like to deposit some money.</Path><Size>我想存点儿钱。</Size></File>
+        <File><Num>119</Num><Path>I'd like to make a reservation.</Path><Size>我想订票。</Size></File>
+        <File><Num>120</Num><Path>I'll be right with you.</Path><Size>我马上就来。</Size></File>
+        <File><Num>121</Num><Path>I'll check it.</Path><Size>我去查一下。</Size></File>
+        <File><Num>122</Num><Path>I'll do my best.</Path><Size>我将会尽我最大努力。</Size></File>
+        <File><Num>123</Num><Path>I'll get it.</Path><Size>我去接电话。</Size></File>
+        <File><Num>124</Num><Path>I'll give you a hand.</Path><Size>我来帮助你。</Size></File>
+        <File><Num>125</Num><Path>I'll have to see about that.</Path><Size>这事儿我得想一想再定。</Size></File>
+        <File><Num>126</Num><Path>I'll keep my eyes open.</Path><Size>我会留意的。</Size></File>
+        <File><Num>127</Num><Path>I'll keep that in mind.</Path><Size>我会记住的。</Size></File>
+        <File><Num>128</Num><Path>I'll pick up the tab.</Path><Size>我来付帐。</Size></File>
+        <File><Num>129</Num><Path>I'll play it by ear.</Path><Size>我将随兴而定。</Size></File>
+        <File><Num>130</Num><Path>I'll see what I can do.</Path><Size>我看一看能怎么办。</Size></File>
+        <File><Num>131</Num><Path>I'll show you.</Path><Size>我指给你看。</Size></File>
+        <File><Num>132</Num><Path>I'll take care of it.</Path><Size>我来办这件事。</Size></File>
+        <File><Num>133</Num><Path>I'll take it.</Path><Size>我要了。</Size></File>
+        <File><Num>134</Num><Path>I'll take your advice.</Path><Size>我接受你的忠告。</Size></File>
+        <File><Num>135</Num><Path>I'll think it over.</Path><Size>我仔细考虑一下。</Size></File>
+        <File><Num>136</Num><Path>I'll treat you to diner.</Path><Size>我想请你吃晚饭。</Size></File>
+        <File><Num>137</Num><Path>I'll walk you to the door.</Path><Size>我送你到门口。</Size></File>
+        <File><Num>138</Num><Path>I'm broke.</Path><Size>我身无分文。</Size></File>
+        <File><Num>139</Num><Path>I'm crazy about English.</Path><Size>我非常喜欢英语。</Size></File>
+        <File><Num>140</Num><Path>I'm easy to please.</Path><Size>我很随和。</Size></File>
+        <File><Num>141</Num><Path>I'm glad to hear that.</Path><Size>听到这消息我很高兴。</Size></File>
+        <File><Num>142</Num><Path>I'm glad you enjoyed it.</Path><Size>你喜欢我就高兴。</Size></File>
+        <File><Num>143</Num><Path>I'm good at it.</Path><Size>我做这个很在行。</Size></File>
+        <File><Num>144</Num><Path>I'm in a good mood.</Path><Size>我现在心情很好。</Size></File>
+        <File><Num>145</Num><Path>I'm in good shape.</Path><Size>我的身体状况很好。</Size></File>
+        <File><Num>146</Num><Path>I'm just having a look.</Path><Size>我只是随便看看。</Size></File>
+        <File><Num>147</Num><Path>I'm looking for a part-time job.</Path><Size>我正在找兼职工作。</Size></File>
+        <File><Num>148</Num><Path>I'm looking forward to it.</Path><Size>我盼望着这件事。</Size></File>
+        <File><Num>149</Num><Path>I'm lost.</Path><Size>我给搞糊涂了。</Size></File>
+        <File><Num>150</Num><Path>I'm not feeling well.</Path><Size>我感觉不舒服。</Size></File>
+        <File><Num>151</Num><Path>I'm not myself today.</Path><Size>我今天心神不宁。</Size></File>
+        <File><Num>152</Num><Path>I'm not really sure.</Path><Size>我不太清楚。</Size></File>
+        <File><Num>153</Num><Path>I'm on a diet.</Path><Size>我正在节食。</Size></File>
+        <File><Num>154</Num><Path>I'm on my way.</Path><Size>我这就上路。</Size></File>
+        <File><Num>155</Num><Path>I'm pressed for time.</Path><Size>我赶时间。</Size></File>
+        <File><Num>156</Num><Path>I'm sorry I'm late.</Path><Size>对不起，我迟到了。</Size></File>
+        <File><Num>157</Num><Path>I'm sorry to hear that.</Path><Size>听到这个消息我感到很遗憾。</Size></File>
+        <File><Num>158</Num><Path>I'm under a lot of pressure.</Path><Size>我的压力很大。</Size></File>
+        <File><Num>159</Num><Path>I'm working on it.</Path><Size>我正在努力。</Size></File>
+        <File><Num>160</Num><Path>I've changed my mind.</Path><Size>我已经改变主意。</Size></File>
+        <File><Num>161</Num><Path>I've got a headache.</Path><Size>我头痛。</Size></File>
+        <File><Num>162</Num><Path>I've got my hands full.</Path><Size>我手头正忙。</Size></File>
+        <File><Num>163</Num><Path>I've got news for you.</Path><Size>我要告诉你一个好消息。</Size></File>
+        <File><Num>164</Num><Path>I've got no idea.</Path><Size>我不知道。</Size></File>
+        <File><Num>165</Num><Path>I've had enough.</Path><Size>我已经吃饱了。</Size></File>
+        <File><Num>166</Num><Path>If I were in your shoes.</Path><Size>如果我站在你的立场上。</Size></File>
+        <File><Num>167</Num><Path>Is that OK?</Path><Size>这样可以吗？</Size></File>
+        <File><Num>168</Num><Path>Is this seat taken?</Path><Size>这位子有人坐吗？</Size></File>
+        <File><Num>169</Num><Path>It all depends.</Path><Size>视情形而定。</Size></File>
+        <File><Num>170</Num><Path>It can happen to anyone.</Path><Size>这事可能发生在任何人身上。</Size></File>
+        <File><Num>171</Num><Path>It doesn't make any difference.</Path><Size>都一样。</Size></File>
+        <File><Num>172</Num><Path>It doesn't matter to me.</Path><Size>这对我来说无所谓</Size></File>
+        <File><Num>173</Num><Path>It doesn't work.</Path><Size>它出故障了。</Size></File>
+        <File><Num>174</Num><Path>It drives me crazy.</Path><Size>他使我快要发疯了。</Size></File>
+        <File><Num>175</Num><Path>It isn't much.</Path><Size>这是微不足道的。</Size></File>
+        <File><Num>176</Num><Path>It really comes in handy.</Path><Size>有了它真是方便。</Size></File>
+        <File><Num>177</Num><Path>It slipped my mind.</Path><Size>我不留神忘了。</Size></File>
+        <File><Num>178</Num><Path>It takes time.</Path><Size>这需要时间。</Size></File>
+        <File><Num>179</Num><Path>It will come to me.</Path><Size>我会想起来的。</Size></File>
+        <File><Num>180</Num><Path>It will do you good.</Path><Size>这会对你有好处。</Size></File>
+        <File><Num>181</Num><Path>It won't happen again.</Path><Size>下不为例。</Size></File>
+        <File><Num>182</Num><Path>It won't take much time.</Path><Size>不会发很多时间的。</Size></File>
+        <File><Num>183</Num><Path>It won't work.</Path><Size>行不通。</Size></File>
+        <File><Num>184</Num><Path>It's nice meeting you.</Path><Size>很高兴认识你。</Size></File>
+        <File><Num>185</Num><Path>It's a deal.</Path><Size>一言为定。</Size></File>
+        <File><Num>186</Num><Path>It's a long story.</Path><Size>真是一言难尽。</Size></File>
+        <File><Num>187</Num><Path>It's a nice day today.</Path><Size>今天天气很好。</Size></File>
+        <File><Num>188</Num><Path>It's a once in a lifetime chance.</Path><Size>这是一生难得的机会。</Size></File>
+        <File><Num>189</Num><Path>It's a pain in the neck.</Path><Size>这真是苦不堪言</Size></File>
+        <File><Num>190</Num><Path>It's a piece of cake.</Path><Size> 这很容易。</Size></File>
+        <File><Num>191</Num><Path>It's a small world.</Path><Size>这世界真小。</Size></File>
+        <File><Num>192</Num><Path>It's a waste of time.</Path><Size>这是浪费时间。</Size></File>
+        <File><Num>193</Num><Path>It's about time.</Path><Size>时间差不多了／是时候了。</Size></File>
+        <File><Num>194</Num><Path>It's all my fault.</Path><Size>都是我的错。</Size></File>
+        <File><Num>195</Num><Path>It's awesome.</Path><Size>棒极了。</Size></File>
+        <File><Num>196</Num><Path>It's awful.</Path><Size>真糟糕。</Size></File>
+        <File><Num>197</Num><Path>It's been a long time.</Path><Size>好久不见。</Size></File>
+        <File><Num>198</Num><Path>It's better than nothing</Path><Size>总比没有好。</Size></File>
+        <File><Num>199</Num><Path>It's essential.</Path><Size>这是必要的。</Size></File>
+        <File><Num>200</Num><Path>It's hard to say.</Path><Size>很难说。</Size></File>
+        <File><Num>201</Num><Path>It's incredible.</Path><Size>令人难以置信／不可思议。</Size></File>
+        <File><Num>202</Num><Path>It's just what I had in mind.</Path><Size>这正是我想要的。</Size></File>
+        <File><Num>203</Num><Path>It's my pleasure.</Path><Size>这是我的荣幸。</Size></File>
+        <File><Num>204</Num><Path>It's no big deal.</Path><Size>这没什么大不了的。</Size></File>
+        <File><Num>205</Num><Path>It's not your fault.</Path><Size>不是你的错。</Size></File>
+        <File><Num>206</Num><Path>It's nothing.</Path><Size>小事情／不足挂齿。</Size></File>
+        <File><Num>207</Num><Path>It's only a matter of time.</Path><Size>这只是时间问题。</Size></File>
+        <File><Num>208</Num><Path>It's out of the question.</Path><Size>这是不可能的。</Size></File>
+        <File><Num>209</Num><Path>It's time for dinner.</Path><Size>该吃晚饭了。</Size></File>
+        <File><Num>210</Num><Path>It's up in the air.</Path><Size>尚未决定。</Size></File>
+        <File><Num>211</Num><Path>It's up to date.</Path><Size>这个很时兴。</Size></File>
+        <File><Num>212</Num><Path>It's up to you.</Path><Size>一切由你决定。</Size></File>
+        <File><Num>213</Num><Path>It's very popular.</Path><Size>他很受欢迎。</Size></File>
+        <File><Num>214</Num><Path>It's worth seeing.</Path><Size>它绝对值得一看。</Size></File>
+        <File><Num>215</Num><Path>Just let it be.</Path><Size>就这样吧。</Size></File>
+        <File><Num>216</Num><Path>Just to be on the safe side.</Path><Size>为安全起见。</Size></File>
+        <File><Num>217</Num><Path>Keep the change.</Path><Size>不用找了。</Size></File>
+        <File><Num>218</Num><Path>Keep up the good work.</Path><Size>再接再厉。</Size></File>
+        <File><Num>219</Num><Path>Keep your fingers crossed.</Path><Size>为成功祈祷吧。</Size></File>
+        <File><Num>220</Num><Path>Kill two birds with one stone.</Path><Size>一举两得。</Size></File>
+        <File><Num>221</Num><Path>Let me get back to you.</Path><Size>我过一会儿打给你吧。</Size></File>
+        <File><Num>222</Num><Path>Let me guess.</Path><Size>让我猜一猜。</Size></File>
+        <File><Num>223</Num><Path>Let me put it this way.</Path><Size>让我这么说吧。</Size></File>
+        <File><Num>224</Num><Path>Let me see.</Path><Size>让我想一想。</Size></File>
+        <File><Num>225</Num><Path>Let's call it a day.</Path><Size>我们今天就到这儿吧。</Size></File>
+        <File><Num>226</Num><Path>Let's celebrate!</Path><Size>让我们好好庆祝一下吧！</Size></File>
+        <File><Num>227</Num><Path>Let's find out.</Path><Size>我们去问一下吧。</Size></File>
+        <File><Num>228</Num><Path>Let's get to the point.</Path><Size>让我们言归正传。</Size></File>
+        <File><Num>229</Num><Path>Let's get together sometime.</Path><Size>有时间我们聚一下吧。</Size></File>
+        <File><Num>230</Num><Path>Let's hope for the best.</Path><Size>让我们往好处想吧。</Size></File>
+        <File><Num>231</Num><Path>Let's keep in touch.</Path><Size>让我们保持联系。</Size></File>
+        <File><Num>232</Num><Path>Let's make up.</Path><Size>让我们言归于好吧。</Size></File>
+        <File><Num>233</Num><Path>Let's go visit them.</Path><Size>让我们去拜访他们吧。</Size></File>
+        <File><Num>234</Num><Path>Let's talk over dinner.</Path><Size>我们边吃边谈吧。</Size></File>
+        <File><Num>235</Num><Path>Long time no see.</Path><Size>好久不见。</Size></File>
+        <File><Num>236</Num><Path>Look before you leap.</Path><Size>三思而后行。</Size></File>
+        <File><Num>237</Num><Path>May I ask you a question?</Path><Size>我可以问一个问题吗？</Size></File>
+        <File><Num>238</Num><Path>May I have a receipt?</Path><Size>我可以要一张收据吗？</Size></File>
+        <File><Num>239</Num><Path>May I have your name,please?</Path><Size>请问你叫什么名字？</Size></File>
+        <File><Num>240</Num><Path>May I pay by credit card?</Path><Size>我可以用信用卡付款吗？</Size></File>
+        <File><Num>241</Num><Path>May I try it on?</Path><Size>我能试穿一下吗？</Size></File>
+        <File><Num>242</Num><Path>Maybe it will work.</Path><Size>也许这个办法会有效。</Size></File>
+        <File><Num>243</Num><Path>Maybe some other time.</Path><Size>也许下一次吧。</Size></File>
+        <File><Num>244</Num><Path>My mouth is watering.</Path><Size>我在流口水了。</Size></File>
+        <File><Num>245</Num><Path>My phone was out of order.</Path><Size>我的电话坏了。</Size></File>
+        <File><Num>246</Num><Path>No pain,no gain.</Path><Size>不劳则无获。</Size></File>
+        <File><Num>247</Num><Path>No problem.</Path><Size>没问题。</Size></File>
+        <File><Num>248</Num><Path>Nothing is impossible to a willing heart.</Path><Size>心之所愿，无事不成。</Size></File>
+        <File><Num>249</Num><Path>Pain past is pleasure.</Path><Size>过去的痛苦即是快乐。</Size></File>
+        <File><Num>250</Num><Path>Please accept my apology.</Path><Size>请接受我的道歉。</Size></File>
+        <File><Num>251</Num><Path>Please don't blame yourself.</Path><Size>请不要责怪你自己。</Size></File>
+        <File><Num>252</Num><Path>Please leave me alone.</Path><Size>请别打扰我。</Size></File>
+        <File><Num>253</Num><Path>Please let me know.</Path><Size>请告诉我一声。</Size></File>
+        <File><Num>254</Num><Path>Please make yourself at home.</Path><Size>请别客气。</Size></File>
+        <File><Num>255</Num><Path>Please show me the menu.</Path><Size>请把菜单给我。</Size></File>
+        <File><Num>256</Num><Path>Probably.</Path><Size>可能吧。</Size></File>
+        <File><Num>257</Num><Path>So far ,so good.</Path><Size>目前为止还好。</Size></File>
+        <File><Num>258</Num><Path>Something must be done about it.</Path><Size>必须得想个办法。</Size></File>
+        <File><Num>259</Num><Path>Something's come up.</Path><Size>发生了一些事。</Size></File>
+        <File><Num>260</Num><Path>Storms make trees take deeper roots.</Path><Size>风暴使树木深深扎根。</Size></File>
+        <File><Num>261</Num><Path>Suit yourself.</Path><Size>随你便。</Size></File>
+        <File><Num>262</Num><Path>Take care.</Path><Size>请多保重。</Size></File>
+        <File><Num>263</Num><Path>Take it or leave it.</Path><Size>要不要由你。</Size></File>
+        <File><Num>264</Num><Path>Take my word for it.</Path><Size>相信我的话。</Size></File>
+        <File><Num>265</Num><Path>Take your time.</Path><Size>慢慢来。</Size></File>
+        <File><Num>266</Num><Path>Thank you all the same.</Path><Size>不管怎样还是要谢谢你。</Size></File>
+        <File><Num>267</Num><Path>Thank you for everything.</Path><Size>感谢你做的一切。</Size></File>
+        <File><Num>268</Num><Path>Thanks a million.</Path><Size>非常感谢。</Size></File>
+        <File><Num>269</Num><Path>Thanks for the warning.</Path><Size>谢谢你的提醒。</Size></File>
+        <File><Num>270</Num><Path>Thanks for your cooperation.</Path><Size>多谢合作。</Size></File>
+        <File><Num>271</Num><Path>That couldn't be better.</Path><Size>那再好不过了。</Size></File>
+        <File><Num>272</Num><Path>That depends.</Path><Size>看情况。</Size></File>
+        <File><Num>273</Num><Path>That makes sense.</Path><Size>那可以理解。</Size></File>
+        <File><Num>274</Num><Path>That reminds me.</Path><Size>那可提醒我了。</Size></File>
+        <File><Num>275</Num><Path>That rings a bell.</Path><Size>我总算想起来了。</Size></File>
+        <File><Num>276</Num><Path>That sounds like a good idea.</Path><Size>那听上去是个好主意。</Size></File>
+        <File><Num>277</Num><Path>That's all right.</Path><Size>没关系。</Size></File>
+        <File><Num>278</Num><Path>That's disgusting.</Path><Size>真讨厌。</Size></File>
+        <File><Num>279</Num><Path>That's fair.</Path><Size>那样公平。</Size></File>
+        <File><Num>280</Num><Path>That's for sure.</Path><Size>那是肯定的。</Size></File>
+        <File><Num>281</Num><Path>That's good to know.</Path><Size>幸好知道了这件事。</Size></File>
+        <File><Num>282</Num><Path>That's just what I was thinking.</Path><Size>我也是这么想的。</Size></File>
+        <File><Num>283</Num><Path>That's life.</Path><Size>这就是生活。</Size></File>
+        <File><Num>284</Num><Path>That's more like it.</Path><Size>那样才像话。</Size></File>
+        <File><Num>285</Num><Path>That's not a problem.</Path><Size>那没问题。</Size></File>
+        <File><Num>286</Num><Path>That's not true.</Path><Size>那是不对的。</Size></File>
+        <File><Num>287</Num><Path>That's OK.</Path><Size>可以。</Size></File>
+        <File><Num>288</Num><Path>That's ridiculous.</Path><Size>那太荒唐了。</Size></File>
+        <File><Num>289</Num><Path>That's the way I look at it,too.</Path><Size>我也是这么想。</Size></File>
+        <File><Num>290</Num><Path>That's the way it is.</Path><Size>就是这么回事。</Size></File>
+        <File><Num>291</Num><Path>That's worthwhile.</Path><Size>那是值得的。</Size></File>
+        <File><Num>292</Num><Path>The same to you.</Path><Size>你也一样。</Size></File>
+        <File><Num>293</Num><Path>The shortest answer is doing.</Path><Size>最简短的回答是干。</Size></File>
+        <File><Num>294</Num><Path>The sooner,the better.</Path><Size>愈快愈好。</Size></File>
+        <File><Num>295</Num><Path>There is a call for you.</Path><Size>有你的电话。</Size></File>
+        <File><Num>296</Num><Path>There is no doubt about it.</Path><Size>那是毫无疑问的。</Size></File>
+        <File><Num>297</Num><Path>There is nothing I can do.</Path><Size>我无能为力。</Size></File>
+        <File><Num>298</Num><Path>There's a possibility.</Path><Size>有这个可能。</Size></File>
+        <File><Num>299</Num><Path>These things happen all the time.</Path><Size>这是常有的事。</Size></File>
+        <File><Num>300</Num><Path>This soup tastes great.</Path><Size>这个汤非常美味。</Size></File>
+        <File><Num>301</Num><Path>Time is money.</Path><Size>时间就是金钱。</Size></File>
+        <File><Num>302</Num><Path>Tomorrow never comes.</Path><Size>莫依赖明天。</Size></File>
+        <File><Num>303</Num><Path>Two heads are better than one.</Path><Size>人多智广。</Size></File>
+        <File><Num>304</Num><Path>We are in the sme boat.</Path><Size>我们的处境相同。</Size></File>
+        <File><Num>305</Num><Path>We can get by.</Path><Size>我们过得去。</Size></File>
+        <File><Num>306</Num><Path>We can work it out.</Path><Size>我们可以解决这个问题。</Size></File>
+        <File><Num>307</Num><Path>We have a lot in common.</Path><Size>我们有很多相同之处。</Size></File>
+        <File><Num>308</Num><Path>We'll see.</Path><Size>再说吧。</Size></File>
+        <File><Num>309</Num><Path>What a coincidence!</Path><Size>真是太巧了！</Size></File>
+        <File><Num>310</Num><Path>What a shame!</Path><Size>真是遗憾！</Size></File>
+        <File><Num>311</Num><Path>What are you up to?</Path><Size>你在忙什么呢？</Size></File>
+        <File><Num>312</Num><Path>What are you talking about?</Path><Size>你在说什么?</Size></File>
+        <File><Num>313</Num><Path>What are your plans for the weekend?</Path><Size>你周末计划做什么？</Size></File>
+        <File><Num>314</Num><Path>What can I do for you?</Path><Size>要我帮忙吗？</Size></File>
+        <File><Num>315</Num><Path>What do you do for relaxation?</Path><Size>你做什么消遣？</Size></File>
+        <File><Num>316</Num><Path>What do you recommend?</Path><Size>你推荐什么？</Size></File>
+        <File><Num>317</Num><Path>What do you think of my new car?</Path><Size>你觉得我的新车怎么样？</Size></File>
+        <File><Num>318</Num><Path>What do you think of it?</Path><Size>你觉得怎么样？</Size></File>
+        <File><Num>319</Num><Path>What is it about?</Path><Size>这是关于什么的？</Size></File>
+        <File><Num>320</Num><Path>What is it like there?</Path><Size>那儿怎么样？</Size></File>
+        <File><Num>321</Num><Path>What makes you say so?</Path><Size>你怎么这么说？</Size></File>
+        <File><Num>322</Num><Path>What's going on?</Path><Size>发生什么事了？</Size></File>
+        <File><Num>323</Num><Path>What's on your mind?</Path><Size>你在想什么呢？</Size></File>
+        <File><Num>324</Num><Path>What's the deadline?</Path><Size>截止到什么时候？</Size></File>
+        <File><Num>325</Num><Path>What's the matter with you?</Path><Size>你怎么啦？</Size></File>
+        <File><Num>326</Num><Path>What's the purpose of your visit?</Path><Size>你来访的目的是什么？</Size></File>
+        <File><Num>327</Num><Path>What's the weather like?</Path><Size>天气怎么样？</Size></File>
+        <File><Num>328</Num><Path>What's your favorite food?</Path><Size>你最喜欢的食物是什么？</Size></File>
+        <File><Num>329</Num><Path>What's your job?</Path><Size>你做什么工作？</Size></File>
+        <File><Num>330</Num><Path>Whatever you think is fine with me.</Path><Size>我随你。</Size></File>
+        <File><Num>331</Num><Path>When is the most convenient time for you?</Path><Size>你什么时候最方便？</Size></File>
+        <File><Num>332</Num><Path>When will it be ready?</Path><Size>什么时候能准备好？</Size></File>
+        <File><Num>333</Num><Path>Where are you going?</Path><Size>你去哪儿？</Size></File>
+        <File><Num>334</Num><Path>Where can I check in?</Path><Size>在那儿办理登记手续?</Size></File>
+        <File><Num>335</Num><Path>Where can I go for help?</Path><Size>我该怎么办？</Size></File>
+        <File><Num>336</Num><Path>Where do you live?</Path><Size>你住在哪儿？</Size></File>
+        <File><Num>337</Num><Path>Where have you been?</Path><Size>你去哪儿了？</Size></File>
+        <File><Num>338</Num><Path>Where is the rest room,please?</Path><Size>请问洗手间在哪儿？</Size></File>
+        <File><Num>339</Num><Path>Where were we?</Path><Size>我们说到哪儿了？</Size></File>
+        <File><Num>340</Num><Path>Who is in charge here?</Path><Size>这里谁负责？</Size></File>
+        <File><Num>341</Num><Path>Would you care for a drink?</Path><Size>你要不要来点儿喝的？</Size></File>
+        <File><Num>342</Num><Path>Would you do me a favor?</Path><Size>你能帮我一个忙吗？</Size></File>
+        <File><Num>343</Num><Path>You are just saying that.</Path><Size>你只是说说而已。</Size></File>
+        <File><Num>344</Num><Path>You are kidding.</Path><Size>你开玩笑吧。</Size></File>
+        <File><Num>345</Num><Path>You are so considerate.</Path><Size>你真有心。</Size></File>
+        <File><Num>346</Num><Path>You can count on me.</Path><Size>你可以指望我。</Size></File>
+        <File><Num>347</Num><Path>You can say that again.</Path><Size>我同意。</Size></File>
+        <File><Num>348</Num><Path>You can't complain.</Path><Size>你该知足了。</Size></File>
+        <File><Num>349</Num><Path>You deserve it.</Path><Size>这是你应得的。</Size></File>
+        <File><Num>350</Num><Path>You did a good job.</Path><Size>你干得很好。</Size></File>
+        <File><Num>351</Num><Path>You get what you pay for.</Path><Size>一分钱一分货。</Size></File>
+        <File><Num>352</Num><Path>You got a good deal.</Path><Size>你买得真便宜。</Size></File>
+        <File><Num>353</Num><Path>You need a vacation.</Path><Size>你需要休息。</Size></File>
+        <File><Num>354</Num><Path>You never know.</Path><Size>世事难料。</Size></File>
+        <File><Num>355</Num><Path>You said it.</Path><Size>你算说对了。</Size></File>
+        <File><Num>356</Num><Path>You should give it a try.</Path><Size>你应该试一试。</Size></File>
+        <File><Num>357</Num><Path>You should take advantage of it.</Path><Size>你应该好好利用这个机会。</Size></File>
+        <File><Num>358</Num><Path>You will be better off.</Path><Size>你的状况会好起来的。</Size></File>
+        <File><Num>359</Num><Path>You will have to wait and see.</Path><Size>你得等一等看。</Size></File>
+        <File><Num>360</Num><Path>You'll get used to it.</Path><Size>你会习惯的。</Size></File>
+        <File><Num>361</Num><Path>You've dialed the wrong number.</Path><Size>你拨错电话号码了。</Size></File>
+        <File><Num>362</Num><Path>You've got  a point there.</Path><Size>你说的有道理。</Size></File>
+        <File><Num>363</Num><Path>You've got it.</Path><Size>你明白了。</Size></File>
+        <File><Num>364</Num><Path>You've made a good choice.</Path><Size>你的眼力不错。</Size></File>
+        <File><Num>365</Num><Path>Your satisfaction is guaranteed.</Path><Size>包你满意。</Size></File>
+        </Files>
+</Aero>

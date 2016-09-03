@@ -1,0 +1,7 @@
+  Open "d:\aaa\a.dat" For Output As #1   '确保d:\aaa路径存在
+  Write #1, 10, 9, 8; 7; 6
+  Write #1, 5; 4; 3; 2; 1
+  Write #1,
+  Write #1, "abc", "def"; True,
+  Write #1, False
+  Close #1

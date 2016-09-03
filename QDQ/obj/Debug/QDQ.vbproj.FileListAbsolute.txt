@@ -1,0 +1,10 @@
+F:\SKY\QDQ\bin\Debug\QDQ.exe
+F:\SKY\QDQ\bin\Debug\QDQ.pdb
+F:\SKY\QDQ\bin\Debug\QDQ.xml
+F:\SKY\QDQ\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\QDQ\obj\Debug\QDQ.QDQ.resources
+F:\SKY\QDQ\obj\Debug\QDQ.Resources.resources
+F:\SKY\QDQ\obj\Debug\QDQ.vbproj.GenerateResource.Cache
+F:\SKY\QDQ\obj\Debug\QDQ.exe
+F:\SKY\QDQ\obj\Debug\QDQ.xml
+F:\SKY\QDQ\obj\Debug\QDQ.pdb

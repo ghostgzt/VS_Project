@@ -1,0 +1,153 @@
+ÿþa
+cls
+@echo off
+title ÃÜÂë¹ÜÀí
+color 1f
+MODE con: COLS=80 LINES=30
+cd /d "%SystemRoot%\system32"
+
+:PASS
+CLS
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+if not exist "%SystemRoot%\system32\config\pass" goto BUG5
+if not exist "%SystemRoot%\system32\md5.exe" goto BUG5
+echo.
+echo   ³õÊ¼ÃÜÂëÎª¡°caozhi256¡±£¬¼Æ9¸ö×Ö·û£¬Ò²¾ÍÊÇÎÒµÄÓÊÏäÃûÁË¡£Çë¾¡¿ì¸ü¸ÄÃÜÂë£¡
+echo.
+set PASS=
+set /p PASS=  ÊäÈëµ±Ç°ÃÜÂë£º
+if not defined PASS goto BUG1
+md5 -s %PASS%>"%SystemRoot%\system32\config\pass1"
+FOR /f "usebackq tokens=*" %%I in ("%SystemRoot%\system32\config\pass1") do (Set PS1=%%I)
+Set PS1=%PS1:~-32%
+echo %PS1%>"%SystemRoot%\system32\config\pass1"
+FOR /f "tokens=* usebackq" %%I in ("%SystemRoot%\system32\config\pass") do (Set PAS=%%I)
+FOR /f "tokens=* usebackq" %%I in ("%SystemRoot%\system32\config\pass1") do (Set PAS1=%%I)
+del /f /q "%SystemRoot%\system32\config\pass1"
+if %PAS%==%PAS1% (goto NEW_PASS) else (goto BUG2)
+
+:NEW_PASS
+CLS
+echo.
+echo.           ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©´
+echo.           ©¦             Enhanced Write Filter 2.0              ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  ×÷ Õß£ºÞ­´ºÏØ¡Á¡ÁÖÐÑ§  ²Ü ÖÎ  caozhi256@163.com   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦  Ãâ Ôð£ºÖ§³ÖÕý°æÈí¼þ£¡½¨ÒéÄúÊ¹ÓÃÕý°æÈí¼þ£¡°æÈ¨Êô   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚÎ¢Èí¹«Ë¾£¬ÇëÓÚÊÔÓÃºó24Ð¡Ê±ÄÚÉ¾³ý¡£Ê¹ÓÃ   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ±¾³ÌÐòÊÇÄú³öÓÚ×ÔÔ¸£¬±¾ÈË´ò°ü´Ë³ÌÐò´¿´â³ö   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¦         ÓÚ°®ºÃ£¬²»»á¶Ô´Ë³Ðµ£ÈÎºÎ·çÏÕºÍ·¨ÂÉÔðÈÎ¡£   ©¦
+echo.           ©¦                                                    ©¦
+echo.           ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+echo.
+echo   µ±Ç°ÃÜÂëÑéÖ¤Í¨¹ý£¡ÄúÓÐÈ¨¸ü¸ÄÄúµÄÃÜÂë¡£
+echo.
+set PASS1=
+set /p PASS1=  ÊäÈë¸ü¸ÄÃÜÂë£º
+if not defined PASS1 goto BUG3
+echo.
+set PASS2=
+set /p PASS2=  È·ÈÏ¸ü¸ÄÃÜÂë£º
+if not defined PASS2 goto BUG3
+if not "%PASS1%"=="%PASS2%" goto BUG4
+md5 -s %PASS1%>"%SystemRoot%\system32\config\pass"
+FOR /f "usebackq tokens=*" %%I in ("%SystemRoot%\system32\config\pass") do (Set PS=%%I)
+Set PS=%PS:~-32%
+echo %PS%>"%SystemRoot%\system32\config\pass"
+echo.
+echo   ¹§Ï²Äú£¡ÐÂÃÜÂëÒÑ×ªÎª Md5 ÃÜÎÄ´¢´æ£¡ÇëÀÎ¼ÇÄúµÄÐÂÃÜÂë£¡
+goto SAVE
+
+:BUG1
+echo.
+echo   ÃÜÂë²»ÄÜÎª¿Õ£¡Äú±ØÐëÊäÈëÃÜÂë¡£
+pause>nul
+goto PASS
+
+:BUG2
+echo.
+echo   µ±Ç°ÃÜÂëÊäÈë²»ÕýÈ·£¡ÇëÄúÖØÐÂÊäÈëÕýÈ·ÃÜÂëÒÔ»ñÈ¡²Ù×÷È¨ÏÞ£¡
+pause>nul
+goto PASS
+
+:BUG3
+echo.
+echo   ÃÜÂë²»ÄÜÎª¿Õ£¡Äú±ØÐëÊäÈëÃÜÂë¡£
+pause>nul
+goto NEW_PASS
+
+:BUG4
+echo.
+echo   Á½´Î³öÈëµÄÃÜÂë²»ÏàÍ¬£¡ÇëÄúÖØÐÂÊäÈëÃÜÂë¡£
+pause>nul
+goto NEW_PASS
+
+:BUG5
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÃÜÂëÑéÖ¤Ëð»µ£¬ÎÞ·¨½øÐÐ¹ÜÀí²Ù×÷£¬ÇëÖØÐÂ°²×°±¾Èí¼þ£¡
+pause>nul
+goto exit
+
+:SAVE
+cd /d "%SystemRoot%\system32\drivers"
+copy /y Filter.sys %SystemRoot%\system32\Filter.com >nul 2>nul
+cd /d "%SystemRoot%\system32"
+if not exist "%SystemRoot%\system32\drivers\ewf.sys" goto BUG9
+if not exist "%SystemRoot%\system32\±£»¤×ÀÃæÍ¼±ê\PECMD.EXE" goto BUG9
+if not exist "%SystemRoot%\system32\drivers\Filter.sys" goto BUG9
+for /f "tokens=2 usebackq" %%i in (`Filter %SystemDrive%^|find "State"`) do (set EWF=%%i)
+if not defined EWF goto BUG6
+if %EWF% == DISABLED goto BUG7
+if %EWF% == ENABLED goto BUG8
+
+:BUG6
+echo.
+echo   ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ×¢²áÓÐÎÊÌâ»òÕßÒÑËð»µ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+echo.
+echo   °´ÏÂÈÎÒâ¼üÍË³ö...
+del /f /q Filter.com >nul 2>nul
+pause>nul
+goto exit
+
+:BUG7
+echo.
+echo   °´ÏÂÈÎÒâ¼üÍË³ö...
+del /f /q Filter.com >nul 2>nul
+pause>nul
+goto exit
+
+:BUG9
+echo.
+echo   Õì²âµ½ÄúµÄ Ewf 2.0 ÏµÍ³±£»¤×é¼þ¶ªÊ§ÎÄ¼þ£¬½¨ÒéÄúÖØÐÂ°²×° Ewf 2.0 ×é¼þ¡£
+pause>nul
+goto exit
+
+:BUG8
+echo.
+echo   Õì²âµ½ÄúÆôÓÃÁËÏµÍ³±£»¤£¬ÐèÒªÖØÐÂÆô¶¯¼ÆËã»ú²ÅÄÜÉúÐ§¡£
+echo.
+echo   °´ÏÂÈÎÒâ¼üÖØÆô...
+pause>nul
+Filter %SystemDrive% -COMMIT
+del /f /q Filter.com >nul 2>nul
+shutdown -r -f -t 01
+
+:exit

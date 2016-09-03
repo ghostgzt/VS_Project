@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\bin\Debug\ECE.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\bin\Debug\ECE.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\bin\Debug\ECE.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ECE.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ECE.TTS.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ECE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ECE.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ECE.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ECE\obj\Debug\ECE.pdb
+F:\sky\ECE\ECE\obj\Debug\ResolveAssemblyReference.cache
+F:\sky\ECE\ECE\obj\Debug\ECE.vbproj.GenerateResource.Cache
+F:\SKY\ECE\ECE\bin\Debug\Everyday Crazy English.exe.manifest
+F:\SKY\ECE\ECE\bin\Debug\Everyday Crazy English.application
+F:\SKY\ECE\ECE\bin\Debug\Everyday Crazy English.exe
+F:\SKY\ECE\ECE\bin\Debug\Everyday Crazy English.pdb
+F:\SKY\ECE\ECE\bin\Debug\Everyday Crazy English.xml
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.AboutBox1.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.Add.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.Fonts.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.Look.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.Resources.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.Settings.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday_Crazy_English.TTS.resources
+F:\SKY\ECE\ECE\obj\Debug\Everyday Crazy English.TrustInfo.xml
+F:\SKY\ECE\ECE\obj\Debug\Everyday Crazy English.exe.manifest
+F:\SKY\ECE\ECE\obj\Debug\Everyday Crazy English.application
+F:\SKY\ECE\ECE\obj\Debug\Everyday Crazy English.exe
+F:\SKY\ECE\ECE\obj\Debug\Everyday Crazy English.xml
+F:\SKY\ECE\ECE\obj\Debug\Everyday Crazy English.pdb

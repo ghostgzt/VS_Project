@@ -1,0 +1,9 @@
+F:\SKY\Aero.dll\Aero.dll\bin\Debug\AeroSetup.dll
+F:\SKY\Aero.dll\Aero.dll\bin\Debug\AeroSetup.pdb
+F:\SKY\Aero.dll\Aero.dll\bin\Debug\AeroSetup.xml
+F:\SKY\Aero.dll\Aero.dll\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Aero.dll\Aero.dll\obj\Debug\AeroSetup.Resources.resources
+F:\SKY\Aero.dll\Aero.dll\obj\Debug\AeroSetup.vbproj.GenerateResource.Cache
+F:\SKY\Aero.dll\Aero.dll\obj\Debug\AeroSetup.dll
+F:\SKY\Aero.dll\Aero.dll\obj\Debug\AeroSetup.xml
+F:\SKY\Aero.dll\Aero.dll\obj\Debug\AeroSetup.pdb

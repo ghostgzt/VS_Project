@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\bin\Debug\SH.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\bin\Debug\SH.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\bin\Debug\SH.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\SH.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\SH.SH.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\SH.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\SH.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\SH.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SH\obj\Debug\SH.pdb
+F:\SKY\SH\SH\SH\obj\Debug\SH.exe
+F:\SKY\SH\SH\SH\obj\Debug\SH.xml
+F:\SKY\SH\SH\SH\obj\Debug\SH.pdb
+F:\SKY\SH\SH\SH\bin\Debug\SH.exe.config
+F:\SKY\SH\SH\SH\bin\Debug\SH.exe
+F:\SKY\SH\SH\SH\bin\Debug\SH.pdb
+F:\SKY\SH\SH\SH\bin\Debug\SH.xml
+F:\SKY\SH\SH\SH\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\SH\SH\SH\obj\Debug\SH.Resources.resources
+F:\SKY\SH\SH\SH\obj\Debug\SH.SH.resources
+F:\SKY\SH\SH\SH\obj\Debug\SH.vbproj.GenerateResource.Cache
+F:\SKY\SH\SH\SH\obj\Debug\SH.BX.resources
+E:\F\SKY\SH\SH\SH\bin\Debug\SH.exe.config
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.exe
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.xml
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.pdb
+E:\F\SKY\SH\SH\SH\bin\Debug\SH.exe
+E:\F\SKY\SH\SH\SH\bin\Debug\SH.pdb
+E:\F\SKY\SH\SH\SH\bin\Debug\SH.xml
+E:\F\SKY\SH\SH\SH\bin\Debug\TLQ.dll
+E:\F\SKY\SH\SH\SH\bin\Debug\TLQ.pdb
+E:\F\SKY\SH\SH\SH\bin\Debug\TLQ.xml
+E:\F\SKY\SH\SH\SH\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.BX.resources
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.Resources.resources
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.SH.resources
+E:\F\SKY\SH\SH\SH\obj\Debug\SH.vbproj.GenerateResource.Cache
+F:\SKY\SH\SH\SH\bin\Debug\TLQ.pdb
+F:\SKY\SH\SH\SH\bin\Debug\TLQ.xml
+F:\SKY\SH\SH\SH\bin\Debug\TLQ.dll

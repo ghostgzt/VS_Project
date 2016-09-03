@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\bin\Debug\FindText.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\bin\Debug\FindText.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\bin\Debug\FindText.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\FindText.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\FindText.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\FindText.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\FindText.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\FindText.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FindText\obj\Debug\FindText.pdb
+F:\SKY\FindText\obj\Debug\FindText.exe
+F:\SKY\FindText\obj\Debug\FindText.xml
+F:\SKY\FindText\obj\Debug\FindText.pdb
+F:\SKY\FindText\bin\Debug\FindText.exe
+F:\SKY\FindText\bin\Debug\FindText.pdb
+F:\SKY\FindText\bin\Debug\FindText.xml
+F:\SKY\FindText\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\FindText\obj\Debug\FindText.FT.resources
+F:\SKY\FindText\obj\Debug\FindText.Resources.resources
+F:\SKY\FindText\obj\Debug\FindText.vbproj.GenerateResource.Cache
+F:\SKY\FindText\bin\Debug\TLQ.dll
+F:\SKY\FindText\bin\Debug\TLQ.pdb
+F:\SKY\FindText\bin\Debug\TLQ.xml
+F:\Share\SKY\FindText\obj\Debug\FindText.exe
+F:\Share\SKY\FindText\obj\Debug\FindText.xml
+F:\Share\SKY\FindText\obj\Debug\FindText.pdb
+F:\Share\SKY\FindText\bin\Debug\FindText.exe.config
+F:\Share\SKY\FindText\obj\Debug\ResolveAssemblyReference.cache
+F:\Share\SKY\FindText\obj\Debug\FindText.FT.resources
+F:\Share\SKY\FindText\obj\Debug\FindText.Resources.resources
+F:\Share\SKY\FindText\obj\Debug\ResGen.read.1.tlog
+F:\Share\SKY\FindText\obj\Debug\ResGen.write.1.tlog
+F:\Share\SKY\FindText\bin\Debug\FindText.exe
+F:\Share\SKY\FindText\bin\Debug\FindText.pdb
+F:\Share\SKY\FindText\bin\Debug\FindText.xml

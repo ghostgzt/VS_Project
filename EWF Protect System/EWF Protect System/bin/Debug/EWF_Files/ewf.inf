@@ -1,0 +1,36 @@
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4D36E97D-E325-11CE-BFC1-08002BE10318}
+Provider=%MSFT%
+LayoutFile=layout.inf
+DriverVer=10/01/2001,5.1.2600.0
+
+
+[DestinationDirs]
+DefaultDestDir = 12 ; DIRID_DRIVERS
+
+[Manufacturer]
+%MSFT%=MSFT
+
+[MSFT]
+%EWF.DeviceDesc.DeviceDesc%=EWF_install,STORAGE\EWF
+
+[EWF_install]
+;
+; Nothing to do (these devices are raw).  We just needed an INF
+; match so these don't show up as "unknown" devices.
+;
+
+[EWF_install.Interfaces]
+AddInterface={856BA80D-214C-4d67-A6AB-52E06110A8D1}
+AddInterface={68EBF3A0-82DF-4f8a-B6D3-BD5DDE13B313}
+
+[EWF_install.Services]
+AddService = ,2, ; Run the device RAW
+
+
+
+[Strings]
+MSFT="Microsoft"
+EWF.DeviceDesc="Enhanced Write Filter"

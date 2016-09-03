@@ -1,0 +1,12 @@
+F:\SKY\Paste\PasteExt\PasteExt\bin\Release\PasteExt.dll
+F:\SKY\Paste\PasteExt\PasteExt\bin\Release\PasteExt.pdb
+F:\SKY\Paste\PasteExt\PasteExt\bin\Release\PasteExt.xml
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\ResolveAssemblyReference.cache
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.MiniIcon.resources
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.MissWindow.resources
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.Resources.resources
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.Pic.resources
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.vbproj.GenerateResource.Cache
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.dll
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.xml
+F:\SKY\Paste\PasteExt\PasteExt\obj\Release\PasteExt.pdb

@@ -1,0 +1,10 @@
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\bin\Debug\Jar_Run.exe
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\bin\Debug\Jar_Run.pdb
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\bin\Debug\Jar_Run.xml
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\Jar_Run.J_R.resources
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\Jar_Run.Resources.resources
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\JAR_RUN.vbproj.GenerateResource.Cache
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\Jar_Run.exe
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\Jar_Run.xml
+F:\SKY\Jar\JAVA Explorer\Jar_Run\Jar_Run\obj\Debug\Jar_Run.pdb

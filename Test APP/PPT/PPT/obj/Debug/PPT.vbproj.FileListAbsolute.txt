@@ -1,0 +1,38 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\PPT.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\PPT.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\PPT.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\Interop.MSORUNLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\Interop.PowerPoint.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\Interop.MSORUNLib.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\Interop.PowerPoint.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\PPT\obj\Debug\PPT.pdb
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\Interop.MSORUNLib.dll
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\Interop.PowerPoint.dll
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\Interop.VBIDE.dll
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.vbproj.ResolveComReference.cache
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.xml
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.pdb
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\PPT.exe
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\PPT.pdb
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\PPT.xml
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\Interop.MSORUNLib.dll
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\Interop.PowerPoint.dll
+E:\F\SKY\Test APP\PPT\PPT\bin\Debug\Interop.VBIDE.dll
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.Form1.resources
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.Resources.resources
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.vbproj.GenerateResource.Cache
+E:\F\SKY\Test APP\PPT\PPT\obj\Debug\PPT.exe

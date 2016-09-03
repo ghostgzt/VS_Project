@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\bin\Debug\MissWindows.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\bin\Debug\MissWindows.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\bin\Debug\MissWindows.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\MissWindows.MissWindow.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\MissWindows.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\MissWindows.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\MissWindows.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\MissWindows.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MissWindows\obj\Debug\MissWindows.pdb
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\bin\Debug\MissWindows.dll
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\bin\Debug\MissWindows.pdb
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\bin\Debug\MissWindows.xml
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\ResolveAssemblyReference.cache
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.MissWindow.resources
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.Resources.resources
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.vbproj.GenerateResource.Cache
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.dll
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.xml
+E:\F\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.pdb
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\bin\Debug\MissWindows.dll
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\bin\Debug\MissWindows.pdb
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\bin\Debug\MissWindows.xml
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\ResolveAssemblyReference.cache
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.MissWindow.resources
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.Resources.resources
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.vbproj.GenerateResource.Cache
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.dll
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.xml
+F:\SKY\Jar\JAVA Explorer\MissWindows\MissWindows\obj\Debug\MissWindows.pdb

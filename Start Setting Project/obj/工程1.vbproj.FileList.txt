@@ -1,0 +1,17 @@
+.\bin\Interop.WMPLib.dll
+.\bin\AxInterop.WMPLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\工程1.vbproj.ResolveComReference.cache
+obj\Debug\工程1.Form1.resources
+obj\Debug\工程1.Form2.resources
+obj\Debug\工程1.Form4.resources
+obj\Debug\工程1.vbproj.GenerateResource.Cache
+obj\Debug\工程1.Resources.resources
+.\bin\Start Setting.exe
+.\bin\Start Setting.pdb
+.\bin\Start Setting.xml
+obj\Debug\Start Setting.exe
+obj\Debug\Start Setting.xml
+obj\Debug\Start Setting.pdb

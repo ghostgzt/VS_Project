@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<REGX>
+<BarWidth>30</BarWidth>
+<Opacity>10</Opacity>
+<EFont>[Font: Name=微软雅黑, Size=9, Units=3, GdiCharSet=1, GdiVerticalFont=False]</EFont>
+<ELinkColor>-16776961</ELinkColor>
+<EActiveLinkColor>-65536</EActiveLinkColor>
+<EBackColor>16777215</EBackColor>
+<CFont>[Font: Name=宋体, Size=9, Units=3, GdiCharSet=1, GdiVerticalFont=False]</CFont>
+<CForeColor>-16777077</CForeColor>
+<CBackColor>16777215</CBackColor>
+<PImage>F:\My Documents\Project\Any\Page_BG_top[1].gif</PImage>
+<PLayout>3</PLayout>
+<PStyle>1</PStyle>
+<Automatic>1</Automatic>
+<Interval>5000</Interval>
+<AutoRead>1</AutoRead>
+<Run></Run>
+</REGX>
