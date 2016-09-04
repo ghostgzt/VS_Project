@@ -1,0 +1,12 @@
+F:\VS_Projects\KillAds\KillAds\bin\Debug\KillAds.exe.config
+F:\VS_Projects\KillAds\KillAds\bin\Debug\KillAds.exe
+F:\VS_Projects\KillAds\KillAds\bin\Debug\KillAds.pdb
+F:\VS_Projects\KillAds\KillAds\bin\Debug\KillAds.xml
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.Resources.resources
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.vbproj.GenerateResource.Cache
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.exe
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.xml
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.pdb
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.Main.resources
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.AE.resources
+F:\VS_Projects\KillAds\KillAds\obj\Debug\KillAds.vbprojResolveAssemblyReference.cache
