@@ -1,0 +1,12 @@
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\bin\Debug\Windows Link Maker.exe
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\bin\Debug\Windows Link Maker.pdb
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.csprojResolveAssemblyReference.cache
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows_Link_Maker.Main.resources
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows_Link_Maker.Properties.Resources.resources
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.csproj.GenerateResource.Cache
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.exe
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.pdb
+F:\VS_Projects\Windows Link Maker\Windows Link Maker\bin\Debug\Windows Link Maker.exe.config
+E:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.csprojResolveAssemblyReference.cache
+E:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.exe
+E:\VS_Projects\Windows Link Maker\Windows Link Maker\obj\Debug\Windows Link Maker.pdb

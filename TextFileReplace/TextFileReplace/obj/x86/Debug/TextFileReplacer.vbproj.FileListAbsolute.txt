@@ -1,0 +1,19 @@
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\bin\Debug\TextFileReplacer.exe.config
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\bin\Debug\TextFileReplacer.exe
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\bin\Debug\TextFileReplacer.pdb
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\bin\Debug\TextFileReplacer.xml
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.nor.resources
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.TFR.resources
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.Resources.resources
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\ResGen.read.1.tlog
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\ResGen.write.1.tlog
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.exe
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.xml
+d:\documents\visual studio 2010\Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.pdb
+F:\VS_Projects\TextFileReplace\TextFileReplace\bin\Debug\TextFileReplacer.exe.config
+F:\VS_Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.exe
+F:\VS_Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.xml
+F:\VS_Projects\TextFileReplace\TextFileReplace\obj\x86\Debug\TextFileReplacer.pdb
