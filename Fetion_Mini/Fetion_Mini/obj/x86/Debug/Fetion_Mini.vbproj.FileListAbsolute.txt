@@ -1,0 +1,21 @@
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\bin\Debug\Fetion_Mini.exe
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\bin\Debug\Fetion_Mini.pdb
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\bin\Debug\Fetion_Mini.xml
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.Main.resources
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.Resources.resources
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.exe
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.xml
+d:\documents\visual studio 2010\Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.pdb
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\bin\Debug\Fetion_Mini.exe
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\bin\Debug\Fetion_Mini.pdb
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\bin\Debug\Fetion_Mini.xml
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.vbprojResolveAssemblyReference.cache
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.Main.resources
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.Resources.resources
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.vbproj.GenerateResource.Cache
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.exe
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.xml
+F:\VS_Projects\Fetion_Mini\Fetion_Mini\obj\x86\Debug\Fetion_Mini.pdb

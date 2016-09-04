@@ -1,0 +1,11 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\bin\Debug\Win8Box.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\bin\Debug\Win8Box.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\bin\Debug\Win8Box.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\Win8Box.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\Win8Box.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\Win8Box.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\Win8Box.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Win8Box\obj\x86\Debug\Win8Box.Main.resources
