@@ -1,0 +1,37 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\bin\Debug\WQQ.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\bin\Debug\WQQ.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\bin\Debug\WQQ.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\WQQ.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\WQQ.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\WQQ.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\WQQ.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WQQ\obj\x86\Debug\WQQ.pdb
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\WQQ.exe
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\WQQ.xml
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\WQQ.pdb
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\bin\Debug\WQQ.exe
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\bin\Debug\WQQ.pdb
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\bin\Debug\WQQ.xml
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\WQQ.QQ.resources
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\WQQ.Resources.resources
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\bin\Debug\WQQ.exe.config
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\WQQ.About.resources
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\ResGen.read.1.tlog
+d:\documents\visual studio 2010\Projects\WQQ\WQQ\obj\x86\Debug\ResGen.write.1.tlog
+F:\VS_Projects\WQQ\WQQ\bin\Debug\WQQ.exe.config
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.exe
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.xml
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.pdb
+F:\VS_Projects\WQQ\WQQ\bin\Debug\WQQ.exe
+F:\VS_Projects\WQQ\WQQ\bin\Debug\WQQ.pdb
+F:\VS_Projects\WQQ\WQQ\bin\Debug\WQQ.xml
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.About.resources
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.QQ.resources
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.Resources.resources
+F:\VS_Projects\WQQ\WQQ\obj\x86\Debug\WQQ.vbproj.GenerateResource.Cache

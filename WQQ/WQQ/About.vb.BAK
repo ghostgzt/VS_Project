@@ -1,0 +1,33 @@
+﻿Public Class About
+
+    Private Sub LinkLabel1_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
+        Shell("explorer http://weibo.com/u/1843533784", AppWinStyle.MaximizedFocus, False)
+    End Sub
+
+    Private Sub LinkLabel2_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel2.LinkClicked
+
+        Shell("explorer http://ghostgzt.7ta.cn/", AppWinStyle.MaximizedFocus, False)
+    End Sub
+
+    Private Sub LinkLabel3_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel3.LinkClicked
+        My.Computer.Clipboard.SetText("1275731466")
+        MsgBox("已经复制到剪辑版！@。@！", MsgBoxStyle.Information, "温馨提示！！！")
+    End Sub
+
+    Private Sub LinkLabel4_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel4.LinkClicked
+
+        Shell("explorer https://www.alipay.com", AppWinStyle.MaximizedFocus, False)
+
+    End Sub
+    Dim a As New fluidEffect.fluidEffectControl
+    Private Sub About_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.BackgroundImage = My.Resources.Tulips
+        a.AutoSize = True
+        Dim b As Bitmap
+        b = My.Resources.Tulips
+        a.FluidEffectControl(b)
+        a.Size = b.Size
+        a.StopRipples = True
+        Me.Controls.Add(a)
+    End Sub
+End Class
